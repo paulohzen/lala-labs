@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "coolhunting": {
-    "revision": 1,
+    "revision": 2,
     "issue": "01",
     "title": "The Office",
     "date": "August 2026",
     "path": "issues/issue-01.json",
-    "notes": "First issue, identical to the one bundled with the app."
+    "notes": "Adds the CASACOR São Paulo dispatch and a calendar entry for it."
   }
 }
