@@ -1,0 +1,86 @@
+name: Validate content
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check manifest and issues
+        run: |
+          python3 - <<'PY'
+          import json, os, sys
+
+          problems = []
+
+          def load(path):
+              try:
+                  with open(path, encoding='utf-8') as f:
+                      return json.load(f)
+              except Exception as e:
+                  problems.append(f"{path}: not valid JSON — {e}")
+                  return None
+
+          manifest = load('manifest.json')
+          if manifest is None:
+              print('\n'.join(problems)); sys.exit(1)
+
+          if manifest.get('schema') != 1:
+              problems.append("manifest.json: schema must be 1 until the app supports a newer one")
+
+          entry = manifest.get('coolhunting')
+          if not isinstance(entry, dict):
+              problems.append("manifest.json: missing the 'coolhunting' entry")
+              print('\n'.join(problems)); sys.exit(1)
+
+          for key in ('revision', 'issue', 'title', 'date', 'path'):
+              if key not in entry:
+                  problems.append(f"manifest.json: coolhunting.{key} is missing")
+          if not isinstance(entry.get('revision'), int):
+              problems.append("manifest.json: coolhunting.revision must be a whole number")
+
+          path = entry.get('path', '')
+          if not os.path.exists(path):
+              problems.append(f"manifest.json points at {path}, which does not exist")
+          else:
+              issue = load(path)
+              if issue:
+                  if issue.get('revision') != entry.get('revision'):
+                      problems.append(
+                          f"{path}: revision {issue.get('revision')} does not match "
+                          f"manifest revision {entry.get('revision')}")
+                  for key in ('id', 'title', 'sub', 'ui', 'issue', 'items', 'terms'):
+                      if key not in issue:
+                          problems.append(f"{path}: missing required field '{key}'")
+                  items = issue.get('items') or []
+                  if not items:
+                      problems.append(f"{path}: items is empty — the app would reject this")
+                  seen = set()
+                  for i, it in enumerate(items):
+                      for key in ('id', 'kind', 'kicker', 't', 'dek'):
+                          if not it.get(key):
+                              problems.append(f"{path}: items[{i}] is missing '{key}'")
+                      if it.get('id') in seen:
+                          problems.append(f"{path}: duplicate item id '{it.get('id')}'")
+                      seen.add(it.get('id'))
+
+          # every other issue file should still parse
+          for name in sorted(os.listdir('issues')) if os.path.isdir('issues') else []:
+              if name.endswith('.json') and os.path.join('issues', name) != path:
+                  load(os.path.join('issues', name))
+
+          if problems:
+              print("Content problems found:\n")
+              for p in problems:
+                  print(" -", p)
+              sys.exit(1)
+
+          items = (load(path) or {}).get('items', [])
+          print(f"OK — revision {entry['revision']}, issue {entry['issue']}, {len(items)} items")
+          PY
