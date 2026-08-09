@@ -1,5 +1,5 @@
 {
- "revision": 1,
+ "revision": 2,
  "id": "cool",
  "title": "Coolhunting",
  "sub": "Issue 01 — The Office",
@@ -41,6 +41,35 @@
   "note": "You are designing an office. This issue is assembled around that. Each case study ends with three things worth stealing, each trend ends with the tells that separate the real signal from the copy, and the last piece is a working method you can run yourself next week."
  },
  "items": [
+  {
+   "id": "d-casacor",
+   "kind": "news",
+   "plate": "rooms",
+   "kicker": "Dispatch · June–August 2026",
+   "t": "CASACOR turns inward",
+   "dek": "The 39th São Paulo edition closed on 9 August under the theme Mente e Coração — the house as a place of repair.",
+   "short": [
+    "39th CASACOR São Paulo: 2 June to 9 August 2026, at Parque da Água Branca for the second year running.",
+    "Theme Mente e Coração — the home as a space of care and self-repair, set against information overload and anxiety about AI.",
+    "10,161 m² across 67 environments, with an international cast including Edward van Vliet, Michele Wharton and Eduardo Baldelomar."
+   ],
+   "body": "<p>Read CASACOR for what it is and it becomes extremely useful. It is not architecture and it does not pretend to be: it is a show house, brands fund the environments, and the work is built to be seen for ten weeks and dismantled. That makes it the single best read on <b>which finishes are about to be specified across Brazil</b>, and a poor guide to how anyone actually lives.</p><p>This year's theme is the part worth carrying into a meeting. The curatorial council framed <em>Mente e Coração</em> as the house as sacred territory in the search for balance — a direct response to information overload and to the anxiety that arrived with AI. The framing comes out of CASACOR's own annual macrotrends research, which is to say it is a market read, not a poetic one.</p><p>Now put it beside two things in this issue. Venice is running on <em>In Minor Keys</em>: quiet, listening, low frequency. The workplace argument has moved to enclosure, acoustic comfort and rooms you can think in. Three institutions with nothing in common — a Brazilian trade show, an art biennial, and the office market — arrived at repair and restraint in the same year. <b>That is the three-sighting rule doing exactly what it is for.</b></p><p>The quietly radical part, though, is the landscaping brief. No intervention in the protected trees. Planting in pots resting on the soil rather than in it. No toxic or thorny species. Exterior lighting held to parameters that protect wildlife. A show that once built whatever it wanted now works reversibly inside heritage — the same argument as the retrofit-heavy Stirling shortlist, arriving from a completely different direction.</p>",
+   "steal": [
+    "Reversibility as a visible discipline: pots resting on soil, nothing fixed to protected fabric. It is design for disassembly in show-house form, and it reads as care rather than as restriction.",
+    "“Repair” is the client-facing word for what the workplace calls focus and acoustic comfort. If you are arguing for enclosed rooms to a non-technical client, this is the vocabulary that lands.",
+    "Watch the sponsor list, not the environments. Deca, Duratex, Portinari and Coral are deciding which surfaces get specified across Brazil for the next two years."
+   ],
+   "links": [
+    {
+     "t": "CASACOR São Paulo 2026",
+     "u": "https://appcasacor.com.br/events/sao-paulo-2026"
+    },
+    {
+     "t": "Casa e Mercado — cast and numbers",
+     "u": "https://casaemercado.com.br/casacor-2026/"
+    }
+   ]
+  },
   {
    "id": "d-pritzker",
    "kind": "news",
@@ -858,6 +887,13 @@
    "swatches": null,
    "rows": null,
    "events": [
+    {
+     "date": "2 Jun – 9 Aug 2026",
+     "title": "CASACOR São Paulo",
+     "place": "São Paulo",
+     "why": "39th edition, theme Mente e Coração. The largest interiors show in the Americas and the clearest read on Brazilian material specification. Next edition returns in June.",
+     "confirmed": true
+    },
     {
      "date": "28 Aug – 6 Sep 2026",
      "title": "Helsinki Design Week",
