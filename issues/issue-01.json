@@ -1,5 +1,5 @@
 {
- "revision": 2,
+ "revision": 3,
  "id": "cool",
  "title": "Coolhunting",
  "sub": "Issue 01 — The Office",
@@ -71,20 +71,20 @@
    ]
   },
   {
-   "id": "d-pritzker",
+   "id": "d-lawrence",
    "kind": "news",
    "plate": "prize",
-   "kicker": "Dispatch · March 2026",
-   "t": "Pritzker goes quiet",
-   "dek": "Smiljan Radić, Santiago, is the 55th laureate. The citation opens by calling architecture an art.",
+   "kicker": "Dispatch · August 2026",
+   "t": "The reuse prize gets smaller and better",
+   "dek": "RIBA's six-project shortlist for the 2026 Stephen Lawrence Prize is entirely adaptive reuse, at a fraction of Stirling's budgets.",
    "stage": null,
    "life": null,
    "short": [
-    "Chilean architect Smiljan Radić named 2026 Pritzker laureate; ceremony held at Castillo de Chapultepec, Mexico City.",
-    "Cited for embracing imperfection and fragility, and for quiet shelter rather than spectacle.",
-    "Second Chilean laureate after Alejandro Aravena, who now chairs the jury."
+    "Six early-career-led projects were shortlisted for the 2026 RIBA Stephen Lawrence Prize, announced 4 August 2026 and chaired by Matthew Goldschmied.",
+    "Every project is a conversion: a department store, urban stables, a neglected orchard, a Cornish butter market and a listed walled garden.",
+    "The winner is announced 15 October at Old Billingsgate — the same night as the Stirling Prize and the Reinvention Award."
    ],
-   "body": "<p>Radić works largely from Santiago, with buildings that sit somewhere between ruin and shelter: granite boulders carrying roofs, fragile skins over heavy ground, structures that look older and more temporary than they are. He designed the 2014 Serpentine Pavilion, which is where most of Europe first met the work.</p>\n     <p>Read the citation as a signal rather than a verdict. The last five years of the prize — Kéré, Chipperfield, Yamamoto, Liu Jiakun, now Radić — describe a discipline that has stopped rewarding the loudest building in the skyline and started rewarding restraint, craft and social presence. The announcement was also delayed this year while the Pritzker family addressed a governance controversy, with Thomas Pritzker stepping aside from matters relating to the prize.</p>\n     <p>For a workplace project the transferable idea is material honesty at scale: heavy where it needs to be, light everywhere else, and no apology for leaving things rough.</p>",
+   "body": "<p>RIBA's Stephen Lawrence Prize sits under a tight construction-budget ceiling, and the 2026 shortlist — six projects, chaired by Matthew Goldschmied — is entirely conversion work: a former department store turned mixed commercial space in south-west London, urban stables reclaimed for a disabled riding association, a neglected Hertfordshire orchard turned into a communal barn, a Redruth butter market reopened as a vendors' hub, and a listed walled garden at Auckland Castle revived as a wellbeing space. Goldschmied's citation praises \"community connection, regeneration, education, and ecological sensitivity.\"</p><p>Put it next to the Stirling shortlist, announced three weeks earlier and dominated by the same instinct at institutional scale, and both are handed out the same night — 15 October, Old Billingsgate. RIBA's autumn calendar is now structured around reuse at every budget tier: a converted theatre or a Cambridge college addition at Stirling scale, a butter market or a set of stables at Stephen Lawrence scale. The small-project list is the more useful one for most fit-outs, because it is evidence that the \"keep the frame\" argument does not require an institutional client or a nine-figure budget to work — it requires a building nobody else wanted and a modest, well-detailed insertion.</p><p>The steal for an office project is scale-matching: retrofit case studies get pitched with Bloomberg- or Stirling-sized precedents, which makes reuse look like something only a large client budget can attempt. A converted stable block is the more honest comparison for most workplace fit-out arguments than a listed institution ever is.</p>",
    "facts": null,
    "steal": null,
    "spot": null,
@@ -95,30 +95,64 @@
    "events": null,
    "links": [
     {
-     "t": "Pritzker Prize — 2026 laureate",
-     "u": "https://www.pritzkerprize.com/laureates/smiljan-radic-clarke"
+     "t": "PBC Today — the shortlist",
+     "u": "https://www.pbctoday.co.uk/news/planning-construction-news/riba-stephen-lawrence-prize-2026-shortlist-revealed/164382"
     },
     {
-     "t": "Architectural Record — the announcement",
-     "u": "https://www.architecturalrecord.com/articles/18073-smiljan-radi-wins-the-2026-pritzker-prize"
+     "t": "Bustler — the six projects",
+     "u": "https://bustler.net/news/11091/six-projects-by-early-career-architects-shortlisted-for-2026-stephen-lawrence-prize"
     }
    ]
   },
   {
-   "id": "d-venice",
+   "id": "d-mackintosh",
+   "kind": "news",
+   "plate": "reuse",
+   "kicker": "Dispatch · August 2026",
+   "t": "Who pays to keep the frame",
+   "dek": "A petition to rebuild Charles Rennie Mackintosh's fire-gutted art school reopens the question the retrofit argument keeps skipping.",
+   "stage": null,
+   "life": null,
+   "short": [
+    "Architect Ruairidh Moir launched a petition on 3 August 2026 calling for the fire-damaged Mackintosh Building to pass to an independent body for \"faithful restoration,\" leased back to Glasgow School of Art.",
+    "The school says it cannot afford to rebuild alone, after fires in 2014 and a far more destructive one in 2018 — midway through a £35 million restoration — gutted the building.",
+    "The petition passed 5,000 signatures within a week of launch, on the way to a 100,000 target that would trigger delivery to the Scottish and UK governments and the GSA board."
+   ],
+   "body": "<p>Glasgow School of Art's Mackintosh Building burned twice: a contained fire in 2014, then a far more destructive one in 2018, midway through a £35 million restoration that was meant to fix the first. The school has now said it cannot rebuild without money it does not have. On 3 August, Glasgow architect Ruairidh Moir launched a petition asking for ownership to move to an independent body tasked with \"faithful restoration,\" with the finished building leased back to the school, and for the Scottish and UK governments to fund it. \"We owe it to Charles Rennie Mackintosh,\" he said. The petition needs 100,000 signatures before it is delivered to government and the GSA board; it passed 5,000 within the week.</p><p>This is the same \"keep the frame\" argument running through the Stirling shortlist and the Mies Award's 21 regeneration entries, pushed to its hard edge. Those prizes reward retaining a structure that is still standing and still working. The Mackintosh Building is neither — it is a listed shell that has already cost £35 million once and needs to again, with no operating asset to offset the spend. Retrofit rhetoric rarely prices this case: the point at which \"the existing structure is the lower-carbon, lower-cost option\" stops being true, and reuse becomes a straightforward act of public subsidy for heritage, argued on cultural grounds because the financial ones no longer apply cleanly.</p><p>The workplace lesson is to separate the two arguments even when they usually travel together. Carbon and cost justify retention on a healthy building. Culture and identity justify it on a damaged one. Knowing which case you are actually making decides who you ask to pay for it.</p>",
+   "facts": null,
+   "steal": null,
+   "spot": null,
+   "fake": null,
+   "steps": null,
+   "swatches": null,
+   "rows": null,
+   "events": null,
+   "links": [
+    {
+     "t": "Dezeen — the campaign",
+     "u": "https://www.dezeen.com/2026/08/03/glasgow-school-of-art-campaign/"
+    },
+    {
+     "t": "Dezeen — GSA \"cannot rebuild alone\"",
+     "u": "https://www.dezeen.com/2026/07/23/glasgow-school-of-art-mackintosh-rebuild/"
+    }
+   ]
+  },
+  {
+   "id": "d-rike",
    "kind": "news",
    "plate": "wave",
-   "kicker": "Dispatch · May–Nov 2026",
-   "t": "In Minor Keys",
-   "dek": "The 61st Venice Art Biennale runs on a theme borrowed from music, and on the plan of a curator who did not live to install it.",
+   "kicker": "Dispatch · August 2026",
+   "t": "Tbilisi demolishes a building it never opened",
+   "dek": "Studio Fuksas's scale-clad concert hall is coming down after fourteen years empty — proof that the retrofit argument still loses to politics.",
    "stage": null,
    "life": null,
    "short": [
-    "61st International Art Exhibition, 9 May to 22 November 2026, Giardini and Arsenale.",
-    "Theme In Minor Keys, conceived by Koyo Kouoh, who died in May 2025; her team realised the exhibition as she designed it.",
-    "The framework favours listening, intimacy and improvisation over spectacle — jazz and the Creole garden are the stated references."
+    "Demolition of Studio Fuksas's Rike Concert Hall began in late July 2026, after Tbilisi city hall issued a permit less than two weeks earlier.",
+    "The tube-shaped hall, wrapped in scale-like stainless-steel panels, was structurally complete by 2012 but never fitted out — a change of government made it politically toxic.",
+    "Studio Fuksas says it repeatedly offered to help repurpose the building and received no response; the firm calls the demolition \"a significant cultural setback.\""
    ],
-   "body": "<p>Kouoh was the first African woman appointed to curate the Art Biennale. She had fixed the theme, the artist list, the spatial design and the graphic identity before her death; the Biennale, with her family’s support, carried it through unchanged. The central pavilion reopened this year after restoration.</p>\n     <p>The theme is worth borrowing from, whatever you are designing. A minor key is not sadness — it is a different tuning, lower and more attentive. The exhibition is organised as undercurrents rather than themed sections, which is itself a spatial idea: no hierarchy of rooms, no single route, atmosphere doing the work that signage usually does.</p>\n     <p>If you want one word for the mood of design in 2026, this is where to get it. Quiet is the position.</p>",
+   "body": "<p>The Rike Concert Hall was structurally complete by 2012: two tube-shaped volumes in the middle of Tbilisi's riverside park, wrapped in <b>square stainless-steel panels that read as scales</b>. It never received an interior. The government that commissioned it lost power that same year, the project became identified with the previous administration's urban agenda, and the building sat sealed for fourteen years. In 2025 the site passed to a new owner, Makro Constructions; a demolition permit followed from Tbilisi city hall in July 2026, and cladding removal started within the fortnight.</p><p>Studio Fuksas says it repeatedly offered to help repurpose the building and got no reply, and calls the demolition \"a significant cultural setback.\" Read that against everything else reuse-themed in this issue — the Stirling shortlist rewarding retained frames, CASACOR's reversible landscaping, the Mies Award's 21 regeneration entries against 17 new builds — and the gap is the point. <em>The retrofit argument is a carbon and cost argument. It is not, on its own, a political one.</em> A complete concrete-and-steel structure with a fourteen-year head start on embodied-carbon accounting is coming down anyway, because the client who owns the decision has no stake in what the last government built.</p><p>For a workplace project the transferable caution is about ownership, not material. Keep-the-frame arguments hold only as long as whoever holds the building agrees to want it. Model the loudest counterargument to your reuse case before the client meeting — \"the numbers favour retention\" has never yet been the deciding sentence on a demolition permit.</p>",
    "facts": null,
    "steal": null,
    "spot": null,
@@ -129,80 +163,12 @@
    "events": null,
    "links": [
     {
-     "t": "Wallpaper* — what to see",
-     "u": "https://www.wallpaper.com/art/exhibitions-shows/venice-biennale-2026"
+     "t": "Dezeen — demolition underway",
+     "u": "https://www.dezeen.com/2026/08/03/rike-concert-hall-demolition-tbilisi-studio-fuksas/"
     },
     {
-     "t": "designboom — the curatorial framework",
-     "u": "https://www.designboom.com/art/venice-art-biennale-2026-curatorial-team-details-koyo-kouoh-vision/"
-    }
-   ]
-  },
-  {
-   "id": "d-serpentine",
-   "kind": "news",
-   "plate": "crinkle",
-   "kicker": "Dispatch · June 2026",
-   "t": "One brick thick",
-   "dek": "LANZA atelier’s Serpentine Pavilion is a snaking clay wall that stands up because it curves.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "Mexico City studio LANZA atelier (Isabel Abascal, Alessandro Arienzo) designed the 25th Serpentine Pavilion, open 6 June to 25 October 2026.",
-    "It reinterprets the English crinkle-crankle or serpentine garden wall: the curve provides lateral stability, so it can be built one brick thick.",
-    "The studio also designed the pavilion’s chairs and stools in locally fabricated sapele."
-   ],
-   "body": "<p>The crinkle-crankle wall is an eighteenth-century English fruit-wall type, popularised in Suffolk during the brick tax, when a wall that used fewer bricks was worth the extra setting-out. Geometry replaces buttressing. It is one of the purest examples in building of form doing structural work.</p>\n     <p>Which makes it a very 2026 choice: a carbon argument wearing the clothes of a garden reference. Fewer bricks, no steel, vernacular craft, and a roof of translucent panels on brick columns letting in sky and air. The second wall weaves between existing trees rather than clearing them.</p>\n     <p>Steal the principle before the image. Any wall you are drawing straight is being held up by thickness or by structure behind it. Curve it and it holds itself.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "Serpentine Galleries — the pavilion",
-     "u": "https://www.serpentinegalleries.org/whats-on/serpentine-pavilion-2026-by-isabel-abascal-and-alessandro-arienzo-lanza-atelier/"
-    },
-    {
-     "t": "Dezeen — first images",
-     "u": "https://www.dezeen.com/2026/01/20/lanza-atelier-2026-serpentine-pavilion/"
-    }
-   ]
-  },
-  {
-   "id": "d-salone",
-   "kind": "news",
-   "plate": "refs",
-   "kicker": "Dispatch · April 2026",
-   "t": "Milan turns to contract",
-   "dek": "The 64th Salone bet openly on workplace and hospitality, with OMA drawing the masterplan for a new contract fair.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "64th Salone del Mobile, 21–26 April 2026: over 1,900 exhibitors from 32 countries and 316,342 visitors.",
-    "A new Salone Contract platform was announced, with an OMA masterplan presented for 2027 and a Koolhaas lecture opening the forum.",
-    "The logic: residential growth is flattening in mature markets while hospitality and commercial projects expand."
-   ],
-   "body": "<p>This is the single most useful piece of market news for anyone specifying an office right now. The Italian industry has decided that contract — workplace, hospitality, public interiors — is where the growth is, and is building a fair around it. Expect the domestic material language of the last three Salones to arrive in office product faster than the usual eighteen-month lag.</p>\n     <p>The other signal from Milan was consolidation of environments over objects: brands showing complete rooms rather than pieces, and B&amp;B Italia returning to the fair after decades away with reissues alongside new work. When the industry sells atmospheres instead of products, specification shifts from the schedule to the scheme.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "Salone del Mobile.Milano",
-     "u": "https://www.salonemilano.it/en"
-    },
-    {
-     "t": "Monocle — Milan Design Week review",
-     "u": "https://monocle.com/design/milan-design-week-review-2026/"
+     "t": "Dezeen — Studio Fuksas's response",
+     "u": "https://www.dezeen.com/2026/07/16/studio-fuksas-tbilisi-rike-concert-hall-halt/"
     }
    ]
   },
@@ -919,7 +885,7 @@
      "date": "15 Oct 2026",
      "title": "RIBA Stirling Prize",
      "place": "London",
-     "why": "Announced at Old Billingsgate. This year’s shortlist is dominated by retrofit and careful additions.",
+     "why": "Announced at Old Billingsgate, alongside the Stephen Lawrence Prize for small projects and the Reinvention Award for retrofit. This year's Stirling shortlist is dominated by retrofit and careful additions.",
      "confirmed": true
     },
     {
