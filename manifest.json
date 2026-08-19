@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "coolhunting": {
-    "revision": 3,
+    "revision": 4,
     "issue": "01",
     "title": "The Office",
     "date": "August 2026",
     "path": "issues/issue-01.json",
-    "notes": "Adds three Dispatch pieces (Stephen Lawrence Prize shortlist, Glasgow School of Art rebuild campaign, Rike Concert Hall demolition) and retires the Pritzker, Venice Biennale, Serpentine Pavilion and Salone dispatches (past their six-week window). Extends the Stirling Prize calendar entry to note the Stephen Lawrence Prize and Reinvention Award share the same ceremony."
+    "notes": "Adds three Dispatch pieces (MIT's Met Warehouse reuse by Diller Scofidio + Renfro, Sauerbruch Hutton and Studio Gang's German House retrofit in New York, and NUA Arquitectures' timber office inside a Catalan textile warehouse). No dispatch retired yet — the oldest (Stirling shortlist, 16 July) is not past the six-week mark. Confirms organiser dates for Cersaie, Design Miami, Maison&Objet, Stockholm Furniture Fair's 2027 relaunch, Salone del Mobile 2027 (including the new OMA-masterplanned Salone Contract platform), the Venice Architecture Biennale 2027 (curators and theme), Clerkenwell Design Week, 3daysofdesign and NeoCon. Adds the AJ Retrofit & Reuse Awards ceremony (24 September) to the calendar."
   }
 }
