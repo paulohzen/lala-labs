@@ -1,5 +1,5 @@
 {
- "revision": 3,
+ "revision": 4,
  "id": "cool",
  "title": "Coolhunting",
  "sub": "Issue 01 — The Office",
@@ -41,6 +41,104 @@
   "note": "You are designing an office. This issue is assembled around that. Each case study ends with three things worth stealing, each trend ends with the tells that separate the real signal from the copy, and the last piece is a working method you can run yourself next week."
  },
  "items": [
+  {
+   "id": "d-tuvatextil",
+   "kind": "news",
+   "plate": "timber",
+   "kicker": "Dispatch · August 2026",
+   "t": "The building-within-a-building, in timber",
+   "dek": "NUA Arquitectures inserts a timber-and-glass office inside a disused Catalan textile warehouse, and reuses the argument along with the shell.",
+   "stage": null,
+   "life": null,
+   "short": [
+    "NUA Arquitectures completed a new office for Tuvatèxtil inside a former textile warehouse in El Pont d'Armentera, near Barcelona — published 16 August 2026.",
+    "A two-storey timber-and-glass volume sits inside the retained concrete-and-brick warehouse shell, described by the studio as “adaptive retention and radical reuse.”",
+    "External insulation and new skylights upgrade the existing fabric; timber partitions and ceramic finishes, not new structure, do the work of rehabilitation."
+   ],
+   "body": "<p>El Pont d'Armentera once had twelve textile factories; Tuvatèxtil is one of the last still operating. Rather than build a new head office, the company asked NUA Arquitectures to insert one inside the existing shed — a two-storey <b>timber-and-glass volume</b> standing free within the retained concrete-and-brick warehouse, with a timber-framed balcony overlooking the original floor. The studio's own description, “adaptive retention and radical reuse,” is doing real work: the retention is structural and unglamorous, the radicalism is confined to what gets inserted.</p><p>It is Centraal Beheer's idea at industrial scale and in a different material. Hertzberger built ninety small concrete rooms inside one big room in 1972; NUA builds one large timber room inside one big shed in 2026. Both refuse the choice between cellular and open, and both make the <em>frame</em> the thing that stays fixed while the insertion does the work of accommodating an actual company. The difference is what is now driving the material choice — not a structuralist theory of appropriation, but the same embodied-carbon accounting running through this issue's timber trend: keep the heavy, high-carbon shell, spend the new material budget on the light, bolted-together part.</p><p>Put it next to the Stephen Lawrence Prize dispatch's scale-matching argument. Retrofit case studies get pitched with a listed art school or a Cambridge college, which makes reuse look like an institutional-budget move. A working textile warehouse turned into an office for one tenant, with no heritage listing and no prize campaign behind it, is the more honest precedent for most commercial fit-outs — and there are far more buildings like it than there are Mackintosh Buildings.</p><p>The transferable point for a workplace project is sequencing, not vocabulary: insulate and re-skin the existing envelope first, then build the smaller, lighter, reconfigurable room inside it. The envelope is the expensive, hard-to-change part and should be touched once. The insertion is the part a tenant will want to change again in five years, and timber-and-bolts is what makes that affordable when they do.</p>",
+   "facts": null,
+   "steal": null,
+   "spot": null,
+   "fake": null,
+   "steps": null,
+   "swatches": null,
+   "rows": null,
+   "events": null,
+   "links": [
+    {
+     "t": "Dezeen — the Tuvatèxtil office",
+     "u": "https://www.dezeen.com/2026/08/16/nua-arquitectures-tuvatextil-office/"
+    }
+   ]
+  },
+  {
+   "id": "d-germanhouse",
+   "kind": "news",
+   "plate": "skin",
+   "kicker": "Dispatch · August 2026",
+   "t": "The tower stays, the skin changes",
+   "dek": "Sauerbruch Hutton and Studio Gang win the competition to renovate Germany's UN-adjacent office tower — colour, photovoltaics and a vertical garden, on a structure nobody is replacing.",
+   "stage": null,
+   "life": null,
+   "short": [
+    "Sauerbruch Hutton — in its first US project — and Studio Gang won the competition to redesign German House, the 325-foot 1990s tower housing Germany's UN mission and consulate in Manhattan, announced 13 August 2026.",
+    "The scheme reclads the grey 1990s facade in bands of colour with integrated photovoltaic panels, adds a sky lobby with a vertical garden and an upper-floor restaurant, and keeps the existing structure rather than replacing it.",
+    "Sauerbruch Hutton partner Lina Lahiri: the tower is adapted “through careful transformation rather than replacement... extending the life of the building for decades to come.”"
+   ],
+   "body": "<p>German House is a 325-foot office tower from the 1990s, unlisted, unremarkable, and still fully in use as the headquarters of Germany's UN mission and consulate. That ordinariness is the point. Next to it in this issue sit Tbilisi's Rike Concert Hall, demolished despite a complete structure because the client who owned the decision had no stake in what a previous government built, and the Mackintosh Building, a listed shell needing £35 million it does not have. German House is neither a political casualty nor a heritage cause — it is a working office building whose owner simply decided modernising costs less than replacing, which is the case the retrofit argument is actually built to make and rarely gets to make in public.</p><p>The design answer is a new <b>skin</b>: bands of colour and photovoltaic glass over the existing grey curtain wall, plus a box-window system for solar shading and natural ventilation. Willis Faber & Dumas made the case fifty years ago that a building can be two different objects depending on the hour, mirror by day and transparent by night; German House proposes something closer, a building whose surface generates the power it uses while still reading as an address. The interior move — a sky lobby with a vertical garden at mid-tower, a restaurant opening onto a shaded roof garden — is the same amenity-in-the-core idea Willis Faber used a swimming pool for, updated into the hospitality-fication this issue's lighting trend describes: the office earning attendance rather than assuming it.</p><p>For a workplace project the transferable lesson is the least dramatic form of the retrofit argument, and the most common one. Most reuse decisions are not a competition win or a heritage campaign; they are a facade nobody will write an article about and a carbon spreadsheet that came out in the structure's favour. That is the case worth having ready before the client asks why they shouldn't just start over.</p>",
+   "facts": null,
+   "steal": null,
+   "spot": null,
+   "fake": null,
+   "steps": null,
+   "swatches": null,
+   "rows": null,
+   "events": null,
+   "links": [
+    {
+     "t": "Dezeen — Sauerbruch Hutton and Studio Gang win",
+     "u": "https://www.dezeen.com/2026/08/13/sauerbruch-hutton-studio-gang-german-house-revamp-new-york/"
+    },
+    {
+     "t": "The Architect's Newspaper — the competition",
+     "u": "https://www.archpaper.com/2026/08/sauerbruch-hutton-studio-gang-german-house/"
+    }
+   ]
+  },
+  {
+   "id": "d-metwarehouse",
+   "kind": "news",
+   "plate": "reuse",
+   "kicker": "Dispatch · August 2026",
+   "t": "The building teaching reuse is itself reused",
+   "dek": "Diller Scofidio + Renfro turns a century-old Boston storage warehouse into MIT's School of Architecture and Planning — the pedagogy and the building make the same argument.",
+   "stage": null,
+   "life": null,
+   "short": [
+    "MIT's Metropolitan Storage Warehouse (built 1894–1923, retired since 2015) reopened 12 August 2026 as the School of Architecture and Planning, renovated by Diller Scofidio + Renfro.",
+    "Five storeys, over 500 feet long: four new glass-wall insertions bring daylight into a building that had almost none, alongside suspended platform studios built within the original masonry and steel.",
+    "DS+R partner Benjamin Gilmartin: the move represents “a bold vision... that the future of design and architecture very much lives in the reuse.”"
+   ],
+   "body": "<p>The Metropolitan Storage Warehouse held roughly 1,500 storage units from the 1890s until MIT retired it in 2015 — five brick storeys, over 500 feet long, built to keep light out rather than let it in. Diller Scofidio + Renfro's renovation cuts four glass-wall segments through that mass and suspends platform studios within the existing masonry and steel, leaving original brick exposed where old and new construction meet. What moved in is MIT's own School of Architecture and Planning, which makes the building's argument circular in a useful way: an institution that teaches design chose, for its own home, to keep the frame rather than commission something new.</p><p>Compare the daylight problem to Johnson Wax's Great Workroom, which solved windowlessness by manufacturing its own light through a lit ceiling of Pyrex tubing — an inward building that borrows nothing from a view. The Met Warehouse solves the same problem in the opposite direction, cutting apertures into a solid mass rather than building light into a new structure from scratch. Both are top-down answers to a building with no natural view to offer; which one is available depends entirely on whether you are pouring a new roof or working with a hundred-year-old one.</p><p>The suspended studios are the other half of the argument, and it is Action Office's half: a kit of platforms and walkways built inside a fixed shell, sized to be reconfigured as the school's programme changes, rather than a bespoke fit-out poured into the masonry. Robert Propst's lesson was that a kit of parts survives churn better than a composition; DS+R applied it to an entire faculty rather than a desk.</p><p>The steal for a workplace project is less about the architecture than about the argument's source. A client is rarely persuaded by a spreadsheet alone. An institution that had every resource to build new, and chose instead to gut and relight a warehouse for the department that will spend the next fifty years teaching students how to make that same case to their own future clients, is a harder argument to wave away.</p>",
+   "facts": null,
+   "steal": null,
+   "spot": null,
+   "fake": null,
+   "steps": null,
+   "swatches": null,
+   "rows": null,
+   "events": null,
+   "links": [
+    {
+     "t": "MIT News — Met Warehouse opens",
+     "u": "https://news.mit.edu/2026/met-warehouse-opens-new-home-mit-school-architecture-planning-0812"
+    },
+    {
+     "t": "The Architect's Newspaper — DS+R opens the new home for architecture at MIT",
+     "u": "https://www.archpaper.com/2026/08/diller-scofidio-renfro-mit/"
+    }
+   ]
+  },
   {
    "id": "d-casacor",
    "kind": "news",
@@ -875,11 +973,18 @@
      "confirmed": true
     },
     {
-     "date": "Late Sep 2026",
+     "date": "21 – 25 Sep 2026",
      "title": "Cersaie",
      "place": "Bologna",
      "why": "Ceramic surfaces and bathroom. Where large-format porcelain and mineral finishes are actually specified.",
-     "confirmed": false
+     "confirmed": true
+    },
+    {
+     "date": "24 Sep 2026",
+     "title": "AJ Retrofit & Reuse Awards",
+     "place": "London",
+     "why": "Winners announced across adaptive reuse, decarbonisation-at-scale and fit-out categories — including office conversions such as Manchester’s Campfield market halls and Wigan’s 1960s civic offices. The prize circuit’s working-budget counterpart to the Stirling and Reinvention shortlists.",
+     "confirmed": true
     },
     {
      "date": "15 Oct 2026",
@@ -917,60 +1022,60 @@
      "confirmed": true
     },
     {
-     "date": "Early Dec 2026",
+     "date": "1 – 6 Dec 2026",
      "title": "Design Miami / Miami Art Week",
      "place": "Miami",
-     "why": "Collectible design and the top of the price ladder. What appears here reaches contract in about three years.",
-     "confirmed": false
+     "why": "The flagship Miami Beach edition, now dated by the organiser. Collectible design and the top of the price ladder. What appears here reaches contract in about three years.",
+     "confirmed": true
     },
     {
-     "date": "Jan 2027",
+     "date": "14 – 18 Jan 2027",
      "title": "Maison&Objet",
      "place": "Paris",
      "why": "Interiors and lifestyle at volume. Reads the commercial middle of the market better than Milan does.",
-     "confirmed": false
+     "confirmed": true
     },
     {
-     "date": "Feb 2027",
+     "date": "9 – 12 Feb 2027",
      "title": "Stockholm Furniture Fair",
      "place": "Stockholm",
-     "why": "The Nordic contract register, one step before it is diluted. Strong on wood joinery and acoustic textiles.",
-     "confirmed": false
+     "why": "Skipped February 2026 entirely and relaunches as a biennial — organiser Chicie Lindgren said the break was to “gather strength for 2027.” The Nordic contract register, one step before it is diluted; strong on wood joinery and acoustic textiles.",
+     "confirmed": true
     },
     {
-     "date": "Apr 2027",
+     "date": "13 – 18 Apr 2027",
      "title": "Salone del Mobile",
      "place": "Milan",
-     "why": "The language-setting week, and the first edition with the new Salone Contract platform masterplanned by OMA.",
-     "confirmed": false
+     "why": "The 65th edition, and the first with the new Salone Contract platform masterplanned by Rem Koolhaas and David Gianotten / OMA, aimed at a claimed €68bn contract market. Euroluce, the biennial lighting exhibition, also returns.",
+     "confirmed": true
     },
     {
-     "date": "May 2027",
+     "date": "8 May – 21 Nov 2027",
      "title": "Venice Architecture Biennale",
      "place": "Venice",
-     "why": "The discipline’s statement of what it currently thinks architecture is for. Runs to November.",
-     "confirmed": false
+     "why": "Curated by Wang Shu and Lu Wenyu under the theme “Do Architecture — For the Possibility of Coexistence Facing a Real Reality.” The discipline’s statement of what it currently thinks architecture is for.",
+     "confirmed": true
     },
     {
-     "date": "May 2027",
+     "date": "25 – 27 May 2027",
      "title": "Clerkenwell Design Week",
      "place": "London",
      "why": "Compact, contract-heavy, walkable. The most efficient two days in the workplace calendar.",
-     "confirmed": false
+     "confirmed": true
     },
     {
-     "date": "Jun 2027",
+     "date": "9 – 11 Jun 2027",
      "title": "3daysofdesign",
      "place": "Copenhagen",
      "why": "Showrooms open across the city. Craft, restraint and the material palette the contract market copies next.",
-     "confirmed": false
+     "confirmed": true
     },
     {
-     "date": "Jun 2027",
+     "date": "13 – 16 Jun 2027",
      "title": "NeoCon",
      "place": "Chicago",
      "why": "The North American workplace fair, at the Merchandise Mart. Useful counterpoint to European contract thinking.",
-     "confirmed": false
+     "confirmed": true
     }
    ],
    "links": [
