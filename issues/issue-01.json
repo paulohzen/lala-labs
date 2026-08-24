@@ -1,1263 +1,1360 @@
 {
- "revision": 4,
- "id": "cool",
- "title": "Coolhunting",
- "sub": "Issue 01 — The Office",
- "lang": "en",
- "accent": "#BF5AF2",
- "accent2": "#FF9F0A",
- "nav": [
-  "ISSUE",
-  "SAVED",
-  "TERMS",
-  "PROFILE"
- ],
- "ui": {
-  "read": "READ",
-  "saved": "SAVED",
-  "streak": "DAYS",
-  "search": "Search terms",
-  "empty": "Nothing saved yet. Tap the bookmark on any piece.",
-  "save": "Save",
-  "unsave": "Saved",
-  "next": "Next",
-  "close": "Close",
-  "profile": "Profile",
-  "reset": "Erase all progress",
-  "resetC": "Tap again to confirm",
-  "cleared": "Progress erased",
-  "steal": "What to steal",
-  "spot": "How to spot it",
-  "fake": "Counterfeit tells",
-  "facts": "Facts",
-  "deeper": "Go deeper",
-  "life": "Runway"
- },
- "issue": {
-  "n": "01",
-  "t": "The Office",
-  "date": "August 2026",
-  "dek": "Every office is an argument about what work is. Five buildings that made the argument, five trends currently running, and a method for telling which of them will still be standing when your project completes.",
-  "note": "You are designing an office. This issue is assembled around that. Each case study ends with three things worth stealing, each trend ends with the tells that separate the real signal from the copy, and the last piece is a working method you can run yourself next week."
- },
- "items": [
-  {
-   "id": "d-tuvatextil",
-   "kind": "news",
-   "plate": "timber",
-   "kicker": "Dispatch · August 2026",
-   "t": "The building-within-a-building, in timber",
-   "dek": "NUA Arquitectures inserts a timber-and-glass office inside a disused Catalan textile warehouse, and reuses the argument along with the shell.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "NUA Arquitectures completed a new office for Tuvatèxtil inside a former textile warehouse in El Pont d'Armentera, near Barcelona — published 16 August 2026.",
-    "A two-storey timber-and-glass volume sits inside the retained concrete-and-brick warehouse shell, described by the studio as “adaptive retention and radical reuse.”",
-    "External insulation and new skylights upgrade the existing fabric; timber partitions and ceramic finishes, not new structure, do the work of rehabilitation."
-   ],
-   "body": "<p>El Pont d'Armentera once had twelve textile factories; Tuvatèxtil is one of the last still operating. Rather than build a new head office, the company asked NUA Arquitectures to insert one inside the existing shed — a two-storey <b>timber-and-glass volume</b> standing free within the retained concrete-and-brick warehouse, with a timber-framed balcony overlooking the original floor. The studio's own description, “adaptive retention and radical reuse,” is doing real work: the retention is structural and unglamorous, the radicalism is confined to what gets inserted.</p><p>It is Centraal Beheer's idea at industrial scale and in a different material. Hertzberger built ninety small concrete rooms inside one big room in 1972; NUA builds one large timber room inside one big shed in 2026. Both refuse the choice between cellular and open, and both make the <em>frame</em> the thing that stays fixed while the insertion does the work of accommodating an actual company. The difference is what is now driving the material choice — not a structuralist theory of appropriation, but the same embodied-carbon accounting running through this issue's timber trend: keep the heavy, high-carbon shell, spend the new material budget on the light, bolted-together part.</p><p>Put it next to the Stephen Lawrence Prize dispatch's scale-matching argument. Retrofit case studies get pitched with a listed art school or a Cambridge college, which makes reuse look like an institutional-budget move. A working textile warehouse turned into an office for one tenant, with no heritage listing and no prize campaign behind it, is the more honest precedent for most commercial fit-outs — and there are far more buildings like it than there are Mackintosh Buildings.</p><p>The transferable point for a workplace project is sequencing, not vocabulary: insulate and re-skin the existing envelope first, then build the smaller, lighter, reconfigurable room inside it. The envelope is the expensive, hard-to-change part and should be touched once. The insertion is the part a tenant will want to change again in five years, and timber-and-bolts is what makes that affordable when they do.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
+  "revision": 5,
+  "id": "cool",
+  "title": "Coolhunting",
+  "sub": "Issue 01 — The Office",
+  "lang": "en",
+  "accent": "#BF5AF2",
+  "accent2": "#FF9F0A",
+  "nav": [
+    "ISSUE",
+    "SAVED",
+    "TERMS",
+    "PROFILE"
+  ],
+  "ui": {
+    "read": "READ",
+    "saved": "SAVED",
+    "streak": "DAYS",
+    "search": "Search terms",
+    "empty": "Nothing saved yet. Tap the bookmark on any piece.",
+    "save": "Save",
+    "unsave": "Saved",
+    "next": "Next",
+    "close": "Close",
+    "profile": "Profile",
+    "reset": "Erase all progress",
+    "resetC": "Tap again to confirm",
+    "cleared": "Progress erased",
+    "steal": "What to steal",
+    "spot": "How to spot it",
+    "fake": "Counterfeit tells",
+    "facts": "Facts",
+    "deeper": "Go deeper",
+    "life": "Runway"
+  },
+  "issue": {
+    "n": "01",
+    "t": "The Office",
+    "date": "August 2026",
+    "dek": "Every office is an argument about what work is. Five buildings that made the argument, five trends currently running, and a method for telling which of them will still be standing when your project completes.",
+    "note": "You are designing an office. This issue is assembled around that. Each case study ends with three things worth stealing, each trend ends with the tells that separate the real signal from the copy, and the last piece is a working method you can run yourself next week."
+  },
+  "items": [
     {
-     "t": "Dezeen — the Tuvatèxtil office",
-     "u": "https://www.dezeen.com/2026/08/16/nua-arquitectures-tuvatextil-office/"
+      "id": "d-bevel",
+      "kind": "news",
+      "plate": "timber",
+      "kicker": "Dispatch · August 2026",
+      "t": "A code written for housing, bent for an office floor",
+      "dek": "Bevel, Waugh Thistleton's first completed US building, wins approval to leave every office ceiling in exposed timber — a limit the code had only tested on apartments.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Waugh Thistleton Architects, working with Mithun for developer Skanska, is building Bevel: a 12-storey, 55-metre mass-timber office tower in Bellevue, Washington — reported 17 August 2026, the practice's first completed US project.",
+        "The design secured sign-off for exposed mass-timber ceilings across the whole floor plate, under a Washington code that otherwise caps commercial ceiling exposure at 20 percent — a Type IVB path proven on housing and student residences, now tested on office space, confirmed 23 August 2026.",
+        "Skanska and structural engineer Holmes are targeting roughly 49 percent less embodied carbon than a conventional structure; WoodWorks counts Bevel among only three commercial buildings out of 22 tall-timber projects built or under way in the US."
+      ],
+      "body": "<p>Twelve storeys and 205,000 square feet is not, by itself, remarkable — plenty of mass-timber apartment buildings clear that bar already. What makes <b>Bevel</b> a milestone is a single number in the fire code: Washington's 2021 edition permits exposed mass-timber ceilings on only 20 percent of a floor's area in Type IVB construction. Waugh Thistleton and Mithun designed every office floor with the ceiling fully exposed, then spent what the practice calls “a great deal of work” getting the full 100 percent approved. It is the first time that path has been tested on a commercial office building rather than housing or student residences — of 22 tall-timber buildings built or under construction in the US, WoodWorks counts only three as commercial.</p><p>The reason it is harder for offices is structural, not decorative. Open floor plates, longer spans and the sightlines a workplace tenant expects all push against the char-rate calculations that let a code official sign off on leaving timber uncovered. Getting there on a leasable office floor, rather than a row of identical apartments, is the harder engineering problem — which is exactly why it counts as precedent rather than novelty.</p><p>Put this beside this issue's timber trend: bolted, not glued, connections chosen so the frame can be taken apart and reused rather than demolished. Bevel adds the other half of that argument — the ceiling you leave exposed is embodied carbon you are not hiding behind gypsum board, and the 49 percent reduction Skanska is targeting only works if the wood stays visible. Mithun partner Craig Curtis makes the commercial case as plainly as the sustainability one: the mass-timber structure produced more open floor plates and better daylight connectivity than a conventional frame, at claimed cost parity. “Timber is ready to take its place at the forefront of American architecture,” says Waugh Thistleton co-founder Andrew Waugh — a claim that has been made before, but rarely with a code approval to back it.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Dezeen — tallest mass-timber office building",
+          "u": "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/"
+        },
+        {
+          "t": "Wood Central — the Type IVB precedent",
+          "u": "https://woodcentral.com.au/bevel-type-ivb-mass-timber-office/"
+        }
+      ]
+    },
+    {
+      "id": "d-cieldubai",
+      "kind": "news",
+      "plate": "skin",
+      "kicker": "Dispatch · August 2026",
+      "t": "The world's tallest hotel opens, built from nothing",
+      "dek": "Ciel Dubai Marina reaches 377 metres and 82 storeys of entirely new construction — the same week this issue has been arguing for keeping the frame.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "NORR's Ciel Dubai Marina, operated by IHG's Vignette Collection, is now the world's tallest hotel-only building at 377 metres and 82 storeys, surpassing the 356-metre Gevora Hotel — photographs released 21 August 2026.",
+        "A tapering, cold-bent glass tower is cut through by a 300-metre atrium of stacked sky gardens and a “needle's-eye” opening at the 76th floor holding an infinity pool and public observation deck.",
+        "All 1,004 rooms, eight restaurants and the spa were built on a site with no existing structure to retain — the inverse of the adaptive-reuse argument running through the rest of this issue."
+      ],
+      "body": "<p>Put the number first: <b>377 metres</b>, entirely new, to take a height record from a hotel that opened only in 2021. Ciel Dubai Marina's real design move is the void running through it — a 300-metre atrium lined with landscaped sky gardens, naturally ventilated terraces climbing the full height of the tower, and a gap in the upper floors, the “needle's eye,” that holds a 76th-floor infinity pool and a publicly accessible observation deck. Project lead Yahya Jan describes the brief as an “answer to vertical living” — daylit communal voids inserted into a supertall hotel.</p><p>It is worth sitting with the contrast rather than rushing past it. This issue has spent itself on the opposite argument: a timber volume inside a kept warehouse shell, a reclad tower, a storage warehouse reopened as a school, a prize shortlist built almost entirely from retrofit. Ciel is what the industry still builds when there is no existing frame to argue for keeping — and no client asking it to. Nothing published alongside the record disclosed an embodied-carbon figure, which is itself a kind of data point: height and room count are the metrics a supertall hotel is built to publish, not the ones this issue has been tracking.</p><p>Read it as ballast rather than contradiction. The retrofit argument wins prizes and planning policy where material and demolition costs make it the economic choice. Dubai's hospitality market is not optimising for the same variable — a room in the world's tallest hotel sells on the record, and the record only exists because nothing was kept. Both are rational responses to different incentives, which is a more useful thing to tell a client than either argument alone.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Dezeen — photos of the world's tallest hotel",
+          "u": "https://www.dezeen.com/2026/08/21/ciel-dubai-marina-worlds-tallest-hotel/"
+        },
+        {
+          "t": "IHG — Ciel Dubai Marina debuts",
+          "u": "https://www.ihgplc.com/en/news-and-media/news-releases/2025/ciel-dubai-marina-vignette-collection-debuts-as-the-worlds-tallest-hotel"
+        }
+      ]
+    },
+    {
+      "id": "d-tuvatextil",
+      "kind": "news",
+      "plate": "timber",
+      "kicker": "Dispatch · August 2026",
+      "t": "The building-within-a-building, in timber",
+      "dek": "NUA Arquitectures inserts a timber-and-glass office inside a disused Catalan textile warehouse, and reuses the argument along with the shell.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "NUA Arquitectures completed a new office for Tuvatèxtil inside a former textile warehouse in El Pont d'Armentera, near Barcelona — published 16 August 2026.",
+        "A two-storey timber-and-glass volume sits inside the retained concrete-and-brick warehouse shell, described by the studio as “adaptive retention and radical reuse.”",
+        "External insulation and new skylights upgrade the existing fabric; timber partitions and ceramic finishes, not new structure, do the work of rehabilitation."
+      ],
+      "body": "<p>El Pont d'Armentera once had twelve textile factories; Tuvatèxtil is one of the last still operating. Rather than build a new head office, the company asked NUA Arquitectures to insert one inside the existing shed — a two-storey <b>timber-and-glass volume</b> standing free within the retained concrete-and-brick warehouse, with a timber-framed balcony overlooking the original floor. The studio's own description, “adaptive retention and radical reuse,” is doing real work: the retention is structural and unglamorous, the radicalism is confined to what gets inserted.</p><p>It is Centraal Beheer's idea at industrial scale and in a different material. Hertzberger built ninety small concrete rooms inside one big room in 1972; NUA builds one large timber room inside one big shed in 2026. Both refuse the choice between cellular and open, and both make the <em>frame</em> the thing that stays fixed while the insertion does the work of accommodating an actual company. The difference is what is now driving the material choice — not a structuralist theory of appropriation, but the same embodied-carbon accounting running through this issue's timber trend: keep the heavy, high-carbon shell, spend the new material budget on the light, bolted-together part.</p><p>Put it next to the Stephen Lawrence Prize dispatch's scale-matching argument. Retrofit case studies get pitched with a listed art school or a Cambridge college, which makes reuse look like an institutional-budget move. A working textile warehouse turned into an office for one tenant, with no heritage listing and no prize campaign behind it, is the more honest precedent for most commercial fit-outs — and there are far more buildings like it than there are Mackintosh Buildings.</p><p>The transferable point for a workplace project is sequencing, not vocabulary: insulate and re-skin the existing envelope first, then build the smaller, lighter, reconfigurable room inside it. The envelope is the expensive, hard-to-change part and should be touched once. The insertion is the part a tenant will want to change again in five years, and timber-and-bolts is what makes that affordable when they do.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Dezeen — the Tuvatèxtil office",
+          "u": "https://www.dezeen.com/2026/08/16/nua-arquitectures-tuvatextil-office/"
+        }
+      ]
+    },
+    {
+      "id": "d-germanhouse",
+      "kind": "news",
+      "plate": "skin",
+      "kicker": "Dispatch · August 2026",
+      "t": "The tower stays, the skin changes",
+      "dek": "Sauerbruch Hutton and Studio Gang win the competition to renovate Germany's UN-adjacent office tower — colour, photovoltaics and a vertical garden, on a structure nobody is replacing.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Sauerbruch Hutton — in its first US project — and Studio Gang won the competition to redesign German House, the 325-foot 1990s tower housing Germany's UN mission and consulate in Manhattan, announced 13 August 2026.",
+        "The scheme reclads the grey 1990s facade in bands of colour with integrated photovoltaic panels, adds a sky lobby with a vertical garden and an upper-floor restaurant, and keeps the existing structure rather than replacing it.",
+        "Sauerbruch Hutton partner Lina Lahiri: the tower is adapted “through careful transformation rather than replacement... extending the life of the building for decades to come.”"
+      ],
+      "body": "<p>German House is a 325-foot office tower from the 1990s, unlisted, unremarkable, and still fully in use as the headquarters of Germany's UN mission and consulate. That ordinariness is the point. Next to it in this issue sit Tbilisi's Rike Concert Hall, demolished despite a complete structure because the client who owned the decision had no stake in what a previous government built, and the Mackintosh Building, a listed shell needing £35 million it does not have. German House is neither a political casualty nor a heritage cause — it is a working office building whose owner simply decided modernising costs less than replacing, which is the case the retrofit argument is actually built to make and rarely gets to make in public.</p><p>The design answer is a new <b>skin</b>: bands of colour and photovoltaic glass over the existing grey curtain wall, plus a box-window system for solar shading and natural ventilation. Willis Faber & Dumas made the case fifty years ago that a building can be two different objects depending on the hour, mirror by day and transparent by night; German House proposes something closer, a building whose surface generates the power it uses while still reading as an address. The interior move — a sky lobby with a vertical garden at mid-tower, a restaurant opening onto a shaded roof garden — is the same amenity-in-the-core idea Willis Faber used a swimming pool for, updated into the hospitality-fication this issue's lighting trend describes: the office earning attendance rather than assuming it.</p><p>For a workplace project the transferable lesson is the least dramatic form of the retrofit argument, and the most common one. Most reuse decisions are not a competition win or a heritage campaign; they are a facade nobody will write an article about and a carbon spreadsheet that came out in the structure's favour. That is the case worth having ready before the client asks why they shouldn't just start over.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Dezeen — Sauerbruch Hutton and Studio Gang win",
+          "u": "https://www.dezeen.com/2026/08/13/sauerbruch-hutton-studio-gang-german-house-revamp-new-york/"
+        },
+        {
+          "t": "The Architect's Newspaper — the competition",
+          "u": "https://www.archpaper.com/2026/08/sauerbruch-hutton-studio-gang-german-house/"
+        }
+      ]
+    },
+    {
+      "id": "d-metwarehouse",
+      "kind": "news",
+      "plate": "reuse",
+      "kicker": "Dispatch · August 2026",
+      "t": "The building teaching reuse is itself reused",
+      "dek": "Diller Scofidio + Renfro turns a century-old Boston storage warehouse into MIT's School of Architecture and Planning — the pedagogy and the building make the same argument.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "MIT's Metropolitan Storage Warehouse (built 1894–1923, retired since 2015) reopened 12 August 2026 as the School of Architecture and Planning, renovated by Diller Scofidio + Renfro.",
+        "Five storeys, over 500 feet long: four new glass-wall insertions bring daylight into a building that had almost none, alongside suspended platform studios built within the original masonry and steel.",
+        "DS+R partner Benjamin Gilmartin: the move represents “a bold vision... that the future of design and architecture very much lives in the reuse.”"
+      ],
+      "body": "<p>The Metropolitan Storage Warehouse held roughly 1,500 storage units from the 1890s until MIT retired it in 2015 — five brick storeys, over 500 feet long, built to keep light out rather than let it in. Diller Scofidio + Renfro's renovation cuts four glass-wall segments through that mass and suspends platform studios within the existing masonry and steel, leaving original brick exposed where old and new construction meet. What moved in is MIT's own School of Architecture and Planning, which makes the building's argument circular in a useful way: an institution that teaches design chose, for its own home, to keep the frame rather than commission something new.</p><p>Compare the daylight problem to Johnson Wax's Great Workroom, which solved windowlessness by manufacturing its own light through a lit ceiling of Pyrex tubing — an inward building that borrows nothing from a view. The Met Warehouse solves the same problem in the opposite direction, cutting apertures into a solid mass rather than building light into a new structure from scratch. Both are top-down answers to a building with no natural view to offer; which one is available depends entirely on whether you are pouring a new roof or working with a hundred-year-old one.</p><p>The suspended studios are the other half of the argument, and it is Action Office's half: a kit of platforms and walkways built inside a fixed shell, sized to be reconfigured as the school's programme changes, rather than a bespoke fit-out poured into the masonry. Robert Propst's lesson was that a kit of parts survives churn better than a composition; DS+R applied it to an entire faculty rather than a desk.</p><p>The steal for a workplace project is less about the architecture than about the argument's source. A client is rarely persuaded by a spreadsheet alone. An institution that had every resource to build new, and chose instead to gut and relight a warehouse for the department that will spend the next fifty years teaching students how to make that same case to their own future clients, is a harder argument to wave away.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "MIT News — Met Warehouse opens",
+          "u": "https://news.mit.edu/2026/met-warehouse-opens-new-home-mit-school-architecture-planning-0812"
+        },
+        {
+          "t": "The Architect's Newspaper — DS+R opens the new home for architecture at MIT",
+          "u": "https://www.archpaper.com/2026/08/diller-scofidio-renfro-mit/"
+        }
+      ]
+    },
+    {
+      "id": "d-casacor",
+      "kind": "news",
+      "plate": "rooms",
+      "kicker": "Dispatch · June–August 2026",
+      "t": "CASACOR turns inward",
+      "dek": "The 39th São Paulo edition closed on 9 August under the theme Mente e Coração — the house as a place of repair.",
+      "short": [
+        "39th CASACOR São Paulo: 2 June to 9 August 2026, at Parque da Água Branca for the second year running.",
+        "Theme Mente e Coração — the home as a space of care and self-repair, set against information overload and anxiety about AI.",
+        "10,161 m² across 67 environments, with an international cast including Edward van Vliet, Michele Wharton and Eduardo Baldelomar."
+      ],
+      "body": "<p>Read CASACOR for what it is and it becomes extremely useful. It is not architecture and it does not pretend to be: it is a show house, brands fund the environments, and the work is built to be seen for ten weeks and dismantled. That makes it the single best read on <b>which finishes are about to be specified across Brazil</b>, and a poor guide to how anyone actually lives.</p><p>This year's theme is the part worth carrying into a meeting. The curatorial council framed <em>Mente e Coração</em> as the house as sacred territory in the search for balance — a direct response to information overload and to the anxiety that arrived with AI. The framing comes out of CASACOR's own annual macrotrends research, which is to say it is a market read, not a poetic one.</p><p>Now put it beside two things in this issue. Venice is running on <em>In Minor Keys</em>: quiet, listening, low frequency. The workplace argument has moved to enclosure, acoustic comfort and rooms you can think in. Three institutions with nothing in common — a Brazilian trade show, an art biennial, and the office market — arrived at repair and restraint in the same year. <b>That is the three-sighting rule doing exactly what it is for.</b></p><p>The quietly radical part, though, is the landscaping brief. No intervention in the protected trees. Planting in pots resting on the soil rather than in it. No toxic or thorny species. Exterior lighting held to parameters that protect wildlife. A show that once built whatever it wanted now works reversibly inside heritage — the same argument as the retrofit-heavy Stirling shortlist, arriving from a completely different direction.</p>",
+      "steal": [
+        "Reversibility as a visible discipline: pots resting on soil, nothing fixed to protected fabric. It is design for disassembly in show-house form, and it reads as care rather than as restriction.",
+        "“Repair” is the client-facing word for what the workplace calls focus and acoustic comfort. If you are arguing for enclosed rooms to a non-technical client, this is the vocabulary that lands.",
+        "Watch the sponsor list, not the environments. Deca, Duratex, Portinari and Coral are deciding which surfaces get specified across Brazil for the next two years."
+      ],
+      "links": [
+        {
+          "t": "CASACOR São Paulo 2026",
+          "u": "https://appcasacor.com.br/events/sao-paulo-2026"
+        },
+        {
+          "t": "Casa e Mercado — cast and numbers",
+          "u": "https://casaemercado.com.br/casacor-2026/"
+        }
+      ]
+    },
+    {
+      "id": "d-lawrence",
+      "kind": "news",
+      "plate": "prize",
+      "kicker": "Dispatch · August 2026",
+      "t": "The reuse prize gets smaller and better",
+      "dek": "RIBA's six-project shortlist for the 2026 Stephen Lawrence Prize is entirely adaptive reuse, at a fraction of Stirling's budgets.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Six early-career-led projects were shortlisted for the 2026 RIBA Stephen Lawrence Prize, announced 4 August 2026 and chaired by Matthew Goldschmied.",
+        "Every project is a conversion: a department store, urban stables, a neglected orchard, a Cornish butter market and a listed walled garden.",
+        "The winner is announced 15 October at Old Billingsgate — the same night as the Stirling Prize and the Reinvention Award."
+      ],
+      "body": "<p>RIBA's Stephen Lawrence Prize sits under a tight construction-budget ceiling, and the 2026 shortlist — six projects, chaired by Matthew Goldschmied — is entirely conversion work: a former department store turned mixed commercial space in south-west London, urban stables reclaimed for a disabled riding association, a neglected Hertfordshire orchard turned into a communal barn, a Redruth butter market reopened as a vendors' hub, and a listed walled garden at Auckland Castle revived as a wellbeing space. Goldschmied's citation praises \"community connection, regeneration, education, and ecological sensitivity.\"</p><p>Put it next to the Stirling shortlist, announced three weeks earlier and dominated by the same instinct at institutional scale, and both are handed out the same night — 15 October, Old Billingsgate. RIBA's autumn calendar is now structured around reuse at every budget tier: a converted theatre or a Cambridge college addition at Stirling scale, a butter market or a set of stables at Stephen Lawrence scale. The small-project list is the more useful one for most fit-outs, because it is evidence that the \"keep the frame\" argument does not require an institutional client or a nine-figure budget to work — it requires a building nobody else wanted and a modest, well-detailed insertion.</p><p>The steal for an office project is scale-matching: retrofit case studies get pitched with Bloomberg- or Stirling-sized precedents, which makes reuse look like something only a large client budget can attempt. A converted stable block is the more honest comparison for most workplace fit-out arguments than a listed institution ever is.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "PBC Today — the shortlist",
+          "u": "https://www.pbctoday.co.uk/news/planning-construction-news/riba-stephen-lawrence-prize-2026-shortlist-revealed/164382"
+        },
+        {
+          "t": "Bustler — the six projects",
+          "u": "https://bustler.net/news/11091/six-projects-by-early-career-architects-shortlisted-for-2026-stephen-lawrence-prize"
+        }
+      ]
+    },
+    {
+      "id": "d-mackintosh",
+      "kind": "news",
+      "plate": "reuse",
+      "kicker": "Dispatch · August 2026",
+      "t": "Who pays to keep the frame",
+      "dek": "A petition to rebuild Charles Rennie Mackintosh's fire-gutted art school reopens the question the retrofit argument keeps skipping.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Architect Ruairidh Moir launched a petition on 3 August 2026 calling for the fire-damaged Mackintosh Building to pass to an independent body for \"faithful restoration,\" leased back to Glasgow School of Art.",
+        "The school says it cannot afford to rebuild alone, after fires in 2014 and a far more destructive one in 2018 — midway through a £35 million restoration — gutted the building.",
+        "The petition passed 5,000 signatures within a week of launch, on the way to a 100,000 target that would trigger delivery to the Scottish and UK governments and the GSA board."
+      ],
+      "body": "<p>Glasgow School of Art's Mackintosh Building burned twice: a contained fire in 2014, then a far more destructive one in 2018, midway through a £35 million restoration that was meant to fix the first. The school has now said it cannot rebuild without money it does not have. On 3 August, Glasgow architect Ruairidh Moir launched a petition asking for ownership to move to an independent body tasked with \"faithful restoration,\" with the finished building leased back to the school, and for the Scottish and UK governments to fund it. \"We owe it to Charles Rennie Mackintosh,\" he said. The petition needs 100,000 signatures before it is delivered to government and the GSA board; it passed 5,000 within the week.</p><p>This is the same \"keep the frame\" argument running through the Stirling shortlist and the Mies Award's 21 regeneration entries, pushed to its hard edge. Those prizes reward retaining a structure that is still standing and still working. The Mackintosh Building is neither — it is a listed shell that has already cost £35 million once and needs to again, with no operating asset to offset the spend. Retrofit rhetoric rarely prices this case: the point at which \"the existing structure is the lower-carbon, lower-cost option\" stops being true, and reuse becomes a straightforward act of public subsidy for heritage, argued on cultural grounds because the financial ones no longer apply cleanly.</p><p>The workplace lesson is to separate the two arguments even when they usually travel together. Carbon and cost justify retention on a healthy building. Culture and identity justify it on a damaged one. Knowing which case you are actually making decides who you ask to pay for it.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Dezeen — the campaign",
+          "u": "https://www.dezeen.com/2026/08/03/glasgow-school-of-art-campaign/"
+        },
+        {
+          "t": "Dezeen — GSA \"cannot rebuild alone\"",
+          "u": "https://www.dezeen.com/2026/07/23/glasgow-school-of-art-mackintosh-rebuild/"
+        }
+      ]
+    },
+    {
+      "id": "d-rike",
+      "kind": "news",
+      "plate": "wave",
+      "kicker": "Dispatch · August 2026",
+      "t": "Tbilisi demolishes a building it never opened",
+      "dek": "Studio Fuksas's scale-clad concert hall is coming down after fourteen years empty — proof that the retrofit argument still loses to politics.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Demolition of Studio Fuksas's Rike Concert Hall began in late July 2026, after Tbilisi city hall issued a permit less than two weeks earlier.",
+        "The tube-shaped hall, wrapped in scale-like stainless-steel panels, was structurally complete by 2012 but never fitted out — a change of government made it politically toxic.",
+        "Studio Fuksas says it repeatedly offered to help repurpose the building and received no response; the firm calls the demolition \"a significant cultural setback.\""
+      ],
+      "body": "<p>The Rike Concert Hall was structurally complete by 2012: two tube-shaped volumes in the middle of Tbilisi's riverside park, wrapped in <b>square stainless-steel panels that read as scales</b>. It never received an interior. The government that commissioned it lost power that same year, the project became identified with the previous administration's urban agenda, and the building sat sealed for fourteen years. In 2025 the site passed to a new owner, Makro Constructions; a demolition permit followed from Tbilisi city hall in July 2026, and cladding removal started within the fortnight.</p><p>Studio Fuksas says it repeatedly offered to help repurpose the building and got no reply, and calls the demolition \"a significant cultural setback.\" Read that against everything else reuse-themed in this issue — the Stirling shortlist rewarding retained frames, CASACOR's reversible landscaping, the Mies Award's 21 regeneration entries against 17 new builds — and the gap is the point. <em>The retrofit argument is a carbon and cost argument. It is not, on its own, a political one.</em> A complete concrete-and-steel structure with a fourteen-year head start on embodied-carbon accounting is coming down anyway, because the client who owns the decision has no stake in what the last government built.</p><p>For a workplace project the transferable caution is about ownership, not material. Keep-the-frame arguments hold only as long as whoever holds the building agrees to want it. Model the loudest counterargument to your reuse case before the client meeting — \"the numbers favour retention\" has never yet been the deciding sentence on a demolition permit.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Dezeen — demolition underway",
+          "u": "https://www.dezeen.com/2026/08/03/rike-concert-hall-demolition-tbilisi-studio-fuksas/"
+        },
+        {
+          "t": "Dezeen — Studio Fuksas's response",
+          "u": "https://www.dezeen.com/2026/07/16/studio-fuksas-tbilisi-rike-concert-hall-halt/"
+        }
+      ]
+    },
+    {
+      "id": "d-stirling",
+      "kind": "news",
+      "plate": "reuse",
+      "kicker": "Dispatch · July 2026",
+      "t": "Retrofit takes the shortlist",
+      "dek": "The Stirling Prize turns thirty with a shortlist built around reuse, repair and additions to old fabric.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Six projects shortlisted for the 2026 RIBA Stirling Prize; winner announced 15 October at Old Billingsgate.",
+        "The list is dominated by adaptive reuse, careful additions to historic institutions, housing and transport-led regeneration.",
+        "For the first time in recent memory most of the shortlist sits outside London."
+      ],
+      "body": "<p>The shortlist includes the conversion of a 1970s theatre into a cultural venue by Bennetts Associates, additions to two Cambridge colleges by Witherford Watson Mann and Haworth Tompkins, a Croydon housing scheme by Mary Duggan Architects with RUFF, Renzo Piano Building Workshop’s Paddington Square, and a house at the edge of Epping Forest by Sergison Bates.</p>\n     <p>Read it as confirmation rather than news. The awards circuit is now systematically rewarding what carbon accounting already required: keep the frame, insert carefully, make the old building better rather than newer. If you are arguing for retrofit on an office project, this shortlist is the reference to put in front of the client.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "RIBA — 2026 shortlist",
+          "u": "https://www.riba.org/news/stirling-prize-shortlist-2026"
+        },
+        {
+          "t": "Dezeen — the six projects",
+          "u": "https://www.dezeen.com/2026/07/16/riba-stirling-prize-2026-shortlist/"
+        }
+      ]
+    },
+    {
+      "id": "c-johnson",
+      "kind": "case",
+      "plate": "mushroom",
+      "kicker": "Case study · 1939",
+      "t": "Johnson Wax",
+      "dek": "Light from above, no view out, and a column the building department refused to believe in.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Wright's 1939 Great Workroom: half an acre, lit from above through Pyrex tubing, with no view out.",
+        "Dendriform columns nine inches wide at the base — load-tested in public because officials refused to believe them.",
+        "Structure, ceiling, lighting and furniture designed as one thing."
+      ],
+      "body": "<p>The Great Workroom is a single room, half an acre, for two hundred clerks. It has no windows in the ordinary sense. Light arrives through <b>Pyrex tubing</b> stacked into bands at the head of the wall and across the roof, so the room is bright and has nothing to look at.</p>\n     <p>Holding it up are the <em>dendriform columns</em>: nine inches across at the floor, tapering upward for eighteen feet, then opening into a circular pad that meets its neighbours. The gaps between the pads are filled with more glass tubing. The effect is a lily pond seen from beneath, and the structure is also the ceiling, also the lighting, also the room.</p>\n     <p>Wisconsin building officials did not accept that a nine-inch base could carry the load. In 1937 Wright had one built on site and loaded in public until it took twelve tons — more than double the requirement — then had it pushed over for the photographers. The building went ahead.</p>\n     <p>He designed the furniture too: Cherokee-red steel desks with cantilevered drawers that swing rather than pull, and a three-legged chair that tipped unless you sat square. Wright fell off it himself and defended the design as posture correction. Steelcase made them.</p>\n     <p>What this building establishes, and what almost every open plan since has abandoned, is that a workplace can be <b>inward</b>. It does not borrow its quality from a view. It manufactures its own.</p>",
+      "facts": [
+        {
+          "l": "Architect",
+          "v": "Frank Lloyd Wright"
+        },
+        {
+          "l": "Built",
+          "v": "1936–1939"
+        },
+        {
+          "l": "Where",
+          "v": "Racine, Wisconsin"
+        },
+        {
+          "l": "Move",
+          "v": "Inward, top-lit, total design"
+        }
+      ],
+      "steal": [
+        "Top light lets a deep plan work without every desk fighting for the perimeter. Roof glazing is cheaper per lux than curtain wall.",
+        "One structural idea, repeated with total conviction, reads as luxury. Five materials read as a budget.",
+        "If you specify the furniture as part of the architecture, you also control the acoustics, the cable routes and the density. Losing furniture to a separate procurement package is how good plans go soft."
+      ],
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "SC Johnson Administration Building",
+          "u": "https://en.wikipedia.org/wiki/Johnson_Wax_Headquarters"
+        }
+      ]
+    },
+    {
+      "id": "c-centraal",
+      "kind": "case",
+      "plate": "islands",
+      "kicker": "Case study · 1972",
+      "t": "Centraal Beheer",
+      "dek": "Hertzberger built ninety small rooms inside one big room, then left them unfinished on purpose.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Hertzberger, 1972: ninety concrete islands about nine metres square, each a small room open to the whole.",
+        "Left deliberately raw so occupants would finish their own workstations.",
+        "The same fixed geometry that made it loved made it almost impossible to re-let later."
+      ],
+      "body": "<p>An insurance company asked for an office for a thousand people. Hertzberger gave them roughly ninety concrete islands, each about nine metres square, clustered four to a unit around light voids, stepping and shifting so that no two routes through the building are the same.</p>\n     <p>Every desk sits in a small room. Every small room is open on at least one side to the whole. That is the entire idea, and it resolves the argument between cellular and open plan by refusing it.</p>\n     <p>The radical part is the finish. Hertzberger left the concrete block raw and the workstations deliberately incomplete, on the theory that a building should be an <em>unfinished frame that its occupants complete</em>. Photographs from the seventies show rugs, lamps, plants, posters, a bicycle. People built their own offices inside his.</p>\n     <p>The building's later history is the honest part of the lesson. Its greatest strength — the fixed nine-metre island — is exactly what a floor-plate-flexibility spreadsheet cannot absorb. It emptied out, and has spent years in conversion proposals rather than in use.</p>\n     <p>So the case study cuts both ways. <b>Design for appropriation and you get loyalty; design for appropriation too specifically and you get a listed building nobody can lease.</b></p>",
+      "facts": [
+        {
+          "l": "Architect",
+          "v": "Herman Hertzberger"
+        },
+        {
+          "l": "Built",
+          "v": "1968–1972"
+        },
+        {
+          "l": "Where",
+          "v": "Apeldoorn, Netherlands"
+        },
+        {
+          "l": "Move",
+          "v": "Structuralism, appropriation"
+        }
+      ],
+      "steal": [
+        "A small room that is also part of a big room is still the best answer to the open-plan argument. It is cheaper in structure than in partition.",
+        "Leave a defined margin of the fit-out unfinished and supply a kit for it. Occupants furnishing their own zone is the strongest retention device you can draw.",
+        "Test any strong geometric parti against a five-year churn scenario before you commit. If the plan only works at one headcount, it works for one client."
+      ],
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Centraal Beheer",
+          "u": "https://en.wikipedia.org/wiki/Centraal_Beheer"
+        }
+      ]
+    },
+    {
+      "id": "c-willis",
+      "kind": "case",
+      "plate": "skin",
+      "kicker": "Case study · 1975",
+      "t": "Willis Faber & Dumas",
+      "dek": "A dark glass blob that follows a medieval street line, with a pool in the basement and grass on the roof.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Foster, 1975: a free-form plan pushed out to medieval street lines under a frameless suspended glass skin.",
+        "Deep floorplate served from the middle — escalators, a swimming pool, a grass roof and staff restaurant.",
+        "Listed Grade I in 1991 at twenty-six years old."
+      ],
+      "body": "<p>Foster took an awkward site in a small English town and refused to straighten it. The plan is a free curve pushed out to the medieval street edges, wrapped in a suspended glass skin with no visible frame — a technique that had not been used at this scale before.</p>\n     <p>By day the skin is a black mirror and the building disappears into reflections of the town. At night it goes transparent and the whole open floor plate, escalators and all, is on display. The building is two entirely different objects depending on the hour.</p>\n     <p>Inside, the deep plan is served from the middle: escalators cut through the centre, a swimming pool sits in the basement, and the roof is grass with a staff restaurant on it. In 1975 this was an insurance company in Suffolk. The amenity was there to keep staff who might otherwise leave for London.</p>\n     <p>English Heritage listed it Grade I in 1991, when it was twenty-six years old — the youngest building ever listed at that point.</p>\n     <p>The lesson is unfashionable and correct: <b>a deep plan with generous shared amenity in the middle beats a thin plan with a good view and nothing else.</b> Half a century of workplace research has not overturned it.</p>",
+      "facts": [
+        {
+          "l": "Architect",
+          "v": "Foster Associates"
+        },
+        {
+          "l": "Built",
+          "v": "1970–1975"
+        },
+        {
+          "l": "Where",
+          "v": "Ipswich, England"
+        },
+        {
+          "l": "Listed",
+          "v": "Grade I, 1991, aged 26"
+        }
+      ],
+      "steal": [
+        "Put the amenity in the core, not on the best-view corner. It makes the deep plan work and it forces circulation to be social.",
+        "A plan that follows the site boundary rather than an imposed grid usually gains area and always gains character. The cost is in the setting-out, not the structure.",
+        "Design the building for the two hours it is most seen — arrival in the morning and the moment it lights up at dusk. Those are the images that carry it."
+      ],
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Willis Building, Ipswich",
+          "u": "https://en.wikipedia.org/wiki/Willis_Building,_Ipswich"
+        }
+      ]
+    },
+    {
+      "id": "c-action",
+      "kind": "case",
+      "plate": "action",
+      "kicker": "Case study · 1964–68",
+      "t": "Action Office",
+      "dek": "The most-hated object in office history was designed by an idealist and ruined by a tax rule.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Propst and Nelson's kit for movement and choice, launched 1964, reworked into panels at 120 degrees in 1968.",
+        "The market squared the panels to 90 degrees to fit more people per floor.",
+        "US tax rules let furniture depreciate faster than construction — so walls got bought as furniture."
+      ],
+      "body": "<p>Robert Propst ran Herman Miller's research arm and spent years interviewing people about their desks. His conclusion was that the fixed desk was a health problem and that office work needed <em>movement, variety and vertical storage within reach</em>.</p>\n     <p><b>Action Office 1</b> (1964, with George Nelson) was the answer: standing-height surfaces, beautiful, expensive, and a commercial failure. Nobody could afford to furnish a floor with it.</p>\n     <p><b>Action Office 2</b> (1968) solved the economics with three lightweight panels meeting at <em>120 degrees</em>, hung with the work surfaces and storage. Open on one side, angled so you turn within your space rather than face a wall. Propst thought he had built a kit for autonomy.</p>\n     <p>Then two things happened. Facilities managers squared the panels to 90 degrees, because right angles pack more people onto a floor. And United States tax rules let furniture be depreciated far faster than built construction — so a wall bought as furniture was worth more to a finance department than a wall built as a wall.</p>\n     <p>Propst spent the rest of his life objecting to what the cubicle became. The design did not fail. <b>The incentive around it did.</b></p>",
+      "facts": [
+        {
+          "l": "Designers",
+          "v": "Robert Propst, George Nelson"
+        },
+        {
+          "l": "Client",
+          "v": "Herman Miller"
+        },
+        {
+          "l": "Versions",
+          "v": "AO1 1964 · AO2 1968"
+        },
+        {
+          "l": "Move",
+          "v": "Kit of parts, then density"
+        }
+      ],
+      "steal": [
+        "A kit of parts survives churn better than a bespoke fit-out. Specify components that can be recombined, not compositions that can only be dismantled.",
+        "Watch the angle. Anything you draw at 120 degrees will be value-engineered to 90 unless you can defend what the angle does.",
+        "Ask early how the client is capitalising the fit-out. Whether a partition is booked as furniture or construction quietly decides what you are allowed to draw."
+      ],
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Action Office",
+          "u": "https://en.wikipedia.org/wiki/Action_Office"
+        }
+      ]
+    },
+    {
+      "id": "c-bloomberg",
+      "kind": "case",
+      "plate": "petal",
+      "kicker": "Case study · 2017",
+      "t": "Bloomberg, London",
+      "dek": "The ceiling is the lighting, the cooling, the acoustics and the identity, all in one pressed aluminium leaf.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Foster + Partners, 2017: two stone-and-bronze blocks across a reinstated Roman street.",
+        "A vaulted aluminium petal ceiling does lighting, cooling, acoustics and identity in one component.",
+        "A bronze spiral ramp replaces the lift core so vertical movement is slow and social."
+      ],
+      "body": "<p>Two stone-and-bronze blocks across a reinstated Roman street, with sandstone from the same quarries as much of the older City and bronze fins that both shade and ventilate. It is one of the most expensive office buildings ever built, and the interesting part is not the budget.</p>\n     <p>It is the ceiling. Roughly two and a half million polished aluminium petals form a continuous vaulted surface that does four jobs at once: it reflects and diffuses the light, it radiates the chilled cooling, it absorbs sound, and it is the building's single most recognisable image. Four consultants' worth of ceiling, drawn as one element.</p>\n     <p>Circulation is the other move. A bronze <em>hypotrochoid ramp</em> spirals up through the atrium instead of a bank of lifts, so vertical movement is slow, visible and social by design. You meet people on the way up. That was the brief.</p>\n     <p>It scored one of the highest BREEAM ratings recorded for an office at the time, largely through the integration: fewer separate systems means less material, less plant and less ceiling void.</p>\n     <p>The transferable idea is <b>consolidation</b>. Most office ceilings are a negotiated truce between four trades. This one is a single designed object, and it is why the interior photographs like nothing else.</p>",
+      "facts": [
+        {
+          "l": "Architect",
+          "v": "Foster + Partners"
+        },
+        {
+          "l": "Completed",
+          "v": "2017"
+        },
+        {
+          "l": "Where",
+          "v": "City of London"
+        },
+        {
+          "l": "Prize",
+          "v": "Stirling Prize, 2017"
+        }
+      ],
+      "steal": [
+        "Find the one element where four trades collide — usually the ceiling — and make it a single designed component. That is where integration budget pays back visually.",
+        "Make vertical circulation slower and more visible than efficiency requires. Stairs and ramps are the cheapest collaboration space in any building.",
+        "Choose one material that ages and one that does not. Bronze patinates, aluminium stays sharp. The contrast is what stops a rich palette reading as a showroom."
+      ],
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Bloomberg European HQ",
+          "u": "https://www.fosterandpartners.com/projects/bloomberg"
+        }
+      ]
+    },
+    {
+      "id": "t-rooms",
+      "kind": "trend",
+      "plate": "rooms",
+      "kicker": "Trend · Rising",
+      "t": "Rooms come back",
+      "dek": "The enclosed room returns as the premium object, and the acoustic pod starts to look like an apology.",
+      "stage": "Rising",
+      "life": "3–5 years of runway",
+      "short": [
+        "The office lost focused solo work to home; it keeps collaboration, apprenticeship and belonging.",
+        "Briefs are inverting: fewer desks, many more enclosed rooms for two to six people.",
+        "Acoustic separation is now a week-one planning decision, not a finishing item."
+      ],
+      "body": "<p>Once home became a viable place to concentrate, the office lost its monopoly on focused work. Every post-2020 occupancy study lands in the same place: the office wins at collaboration, apprenticeship and belonging, and loses at sustained concentration.</p>\n     <p>The plan consequence is an inversion of the ratio the industry spent thirty years perfecting. Fewer assigned desks. Far more enclosed rooms sized for two to six. Acoustic separation moved from a finishing decision to a planning decision — which is to say, drawn in week one, not specified in week thirty.</p>\n     <p>Freestanding pods rode the first wave of this and are now peaking. They are a furniture-scale patch on a planning-scale problem: no daylight, borrowed air, and a rental cost per square metre that exceeds building a wall. They remain right for shells that genuinely cannot take partitions, and wrong almost everywhere else.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": [
+        "Enclosed rooms with real daylight and dedicated supply air, not borrowed air from the open floor.",
+        "Glazed demountable partition systems specified as a system, with the mullion module set out against the ceiling grid.",
+        "A reverberation-time target in the room data sheets. If it is there, someone senior took acoustics seriously.",
+        "Meeting rooms sized for four, not for twelve. The twelve-person room is the one sitting empty in the utilisation data."
+      ],
+      "fake": [
+        "A row of pods on an open floor, presented as the focus strategy.",
+        "Full-height plasterboard everywhere — enclosure achieved, flexibility destroyed, and the highest-carbon way to do it.",
+        "\"Library zone\" signage on an open plan. A rule is not a wall."
+      ],
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": null
+    },
+    {
+      "id": "t-mineral",
+      "kind": "trend",
+      "plate": "palette",
+      "kicker": "Trend · Peak",
+      "t": "Mineral and oxide",
+      "dek": "Greige is over. The palette moved to earth pigment, oxidised metal and plaster with visible aggregate.",
+      "stage": "Peak",
+      "life": "Peaking now, 2 years",
+      "short": [
+        "Earth pigment, oxidised metal and plaster with visible aggregate replaced the greige era.",
+        "One saturated colour per scheme, applied to whole volumes rather than feature walls.",
+        "Already in the copy layer of speculative fit-outs — roughly two years of currency left."
+      ],
+      "body": "<p>The lineage runs from Le Corbusier's <em>Polychromie Architecturale</em> — 63 colours organised into keyboards by how they behave in space, some advancing, some receding, some holding a plane still — through Verner Panton's saturated total environments, to the current fixation on pigment that looks like it came out of the ground.</p>\n     <p>What is running now: iron oxide reds, clay and terracotta, verdigris and oxidised copper, ochre, mineral plaster with aggregate you can see, and off-whites warm enough to read as lime rather than paint. Against that, exactly one saturated colour, used at architectural scale.</p>\n     <p>The distinguishing move is <b>scale</b>. This palette arrives as whole surfaces, volumes and joinery runs. When it arrives as a feature wall behind a sofa, it has already been diluted into the copy layer, which is where it currently sits in most speculative fit-outs — the reliable sign that a trend has about two years left.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": [
+        "Colour applied to a whole volume — a room, a stair, a joinery run — rather than one wall.",
+        "Pigment in the material: through-coloured plaster, mineral paint, anodised or patinated metal. Not a printed finish imitating one.",
+        "A palette of quiet mineral tones plus a single loud one. If there are three loud ones, nobody made a decision.",
+        "Visible aggregate, brush drag, trowel texture. The evidence that a hand was involved is the whole point."
+      ],
+      "fake": [
+        "Terracotta accent wall, greige everything else. This is the 2019 palette wearing a new jacket.",
+        "Vinyl or laminate printed to look like patinated metal, in a scheme that also claims material honesty.",
+        "A colour used only in the render and value-engineered out of the specification."
+      ],
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": null
+    },
+    {
+      "id": "t-timber",
+      "kind": "trend",
+      "plate": "timber",
+      "kicker": "Trend · Rising",
+      "t": "Timber, bolted not glued",
+      "dek": "Exposed structure plus visible fixings. The aesthetic is downstream of the carbon argument.",
+      "stage": "Rising",
+      "life": "5+ years, structural not stylistic",
+      "short": [
+        "Embodied carbon now outweighs operational carbon on a new office, which drives the whole palette.",
+        "Exposed CLT and glulam cut carbon, delete a finish layer and score well on wellbeing.",
+        "Bolted not glued: design for disassembly turns the visible fixing into an aesthetic."
+      ],
+      "body": "<p>As grids decarbonise, embodied carbon overtakes operational carbon on a new office building. That single accounting shift is driving most current material specification, and it produces an aesthetic almost by accident.</p>\n     <p>Exposed CLT and glulam do three things at once: they cut upfront carbon, they delete a finish layer, and they test well on every occupant wellbeing metric anyone has measured. The real constraints are acoustic separation between floors, insurance, and honest sequestration accounting — not span.</p>\n     <p>Alongside it, <em>design for disassembly</em>: bolted rather than welded, mechanical fixings rather than adhesive, screed on demountable deck, material passports so a component has a documented second life. The visible bolt is having a moment in furniture for exactly this reason. A joint you can undo is a component you can recover.</p>\n     <p>This one is not a style cycle. It is a compliance trajectory, and compliance trajectories do not reverse.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": [
+        "Fixings expressed rather than concealed, in furniture as well as structure.",
+        "An EPD referenced with its boundary stated. Cradle-to-gate stops at the factory; comparing it to a cradle-to-grave figure is the most common specification error in the room.",
+        "Retained existing structure with a visibly new insertion, rather than a full strip-out. Keeping the frame saves the majority of a new build’s upfront carbon.",
+        "Raised floor and ceiling retained from the previous tenant. Unglamorous, and the single highest-leverage carbon decision in most fit-outs."
+      ],
+      "fake": [
+        "Timber-effect laminate on a project marketing itself on embodied carbon.",
+        "\"Low carbon\" claimed without a stated boundary or a comparison baseline.",
+        "A biophilia moodboard doing the work that a carbon calculation should be doing."
+      ],
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": null
+    },
+    {
+      "id": "t-light",
+      "kind": "trend",
+      "plate": "light",
+      "kicker": "Trend · Rising",
+      "t": "The lighting grid dies",
+      "dek": "Uniform 4000K at 500 lux everywhere now reads as institutional. Light arrives in layers, at eye level, under your control.",
+      "stage": "Rising",
+      "life": "3–4 years",
+      "short": [
+        "Uniform 4000K at 500 lux everywhere solved a paper-on-desks problem that no longer exists.",
+        "Low ambient, task light under user control, warm fittings at eye level, warmer as the day goes on.",
+        "If lighting only appears on the ceiling plan, the scheme is still institutional."
+      ],
+      "body": "<p>The 4000K recessed grid delivering equal illuminance to every square metre was a solution to a problem — paper on desks, in rooms with no other light source — that no longer exists.</p>\n     <p>What replaces it is layered: low ambient, task light at the desk under the user's own control, warm decorative fittings at low level, and colour temperature that warms through the day. Table lamps in an office read as domestic, and that is precisely the intended signal now that attendance is voluntary.</p>\n     <p>This is one branch of the wider <em>hospitality-fication</em> of the workplace — reception as lobby bar, varied seating heights, textiles, a coffee offer that competes with the café downstairs. Read as styling it becomes theming. Read as a response to the fact that the building now has to earn the commute, it produces real programme decisions.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": [
+        "Lighting that appears on the furniture plan, not only on the ceiling plan. If the reflected ceiling plan is the whole lighting design, the scheme is still institutional.",
+        "Local switching and dimming at the desk. Control is the actual luxury.",
+        "Contrast used deliberately — pools of light and genuinely darker circulation, rather than uniformity.",
+        "Decorative fittings at 1.2 to 1.8 metres, doing the work that downlights used to do."
+      ],
+      "fake": [
+        "Track lighting aimed at the same uniform grid it replaced.",
+        "Warm colour temperature in the lounge only, with the working floor left at 4000K.",
+        "Circadian lighting claimed as a feature with no control strategy behind it."
+      ],
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": null
+    },
+    {
+      "id": "t-soft",
+      "kind": "trend",
+      "plate": "curve",
+      "kicker": "Trend · Late",
+      "t": "Soft geometry",
+      "dek": "Generous radii and bouclé migrated from lounge into task seating. It is now in the airport furniture, which means it is over.",
+      "stage": "Late",
+      "life": "Peaked; 12–18 months left",
+      "short": [
+        "Curves and bouclé crossed from lounge into task seating and desking.",
+        "Milan sets the language, Orgatec converts it to office product, roughly eighteen months apart.",
+        "It is now in airport seating, which means the signal has fully discharged."
+      ],
+      "body": "<p>The cycle ran cleanly. Curves and fat radii appear in Milan around 2019, arrive in contract lounge product, then cross into task seating and desking — rounded worksurface corners, upholstered screens, wool and bouclé on chairs that used to be mesh.</p>\n     <p>The pipeline is predictable and worth memorising, because it is a forecasting instrument: <em>Salone del Mobile</em> in April sets the domestic and material language; <em>Orgatec</em> in Cologne, biennial in October, converts it into contract product; <em>3daysofdesign</em> in Copenhagen in June supplies the Nordic craft register the contract market then dilutes. Roughly eighteen months from fair floor to specifiable range, another year to volume projects.</p>\n     <p>Which means the fair floor is a leading indicator and the trade magazine is a lagging one. By the time soft geometry is standard in airport seating and hotel lobbies — where it is now — the signal has fully discharged. Specify it because it is comfortable, not because it is current.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": [
+        "Where you first see it: fair floor, not magazine. A form in a Milan prototype is roughly two years from your project.",
+        "The price ladder: gallery piece, then design-led contract, then volume contract, then airport. Position on that ladder tells you the runway.",
+        "The three-sighting rule: one sighting is a designer, two is a coincidence, three across unrelated categories is a trend.",
+        "Material shifts before form shifts. A new textile or finish arriving in an old silhouette is the earliest reliable signal there is."
+      ],
+      "fake": [
+        "Rounded corners applied to a rectilinear system as a facelift.",
+        "Bouclé on a high-wear task chair. It will look terrible in eighteen months and that is a specification failure, not a trend.",
+        "A form that appears fully formed across every brand at one fair. That is a supplier tooling cycle, not a movement."
+      ],
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": null
+    },
+    {
+      "id": "g-method",
+      "kind": "guide",
+      "plate": "method",
+      "kicker": "Field guide",
+      "t": "How to spot it early",
+      "dek": "A repeatable method. Run it monthly and you will be roughly eighteen months ahead of the trade press.",
+      "stage": null,
+      "life": null,
+      "short": null,
+      "body": "<p>Trend spotting is not taste. It is a pipeline with a known lag, and the skill is knowing where on the pipeline you are looking.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": [
+        {
+          "t": "Watch the source, not the summary",
+          "d": "Fair floors, degree shows, small manufacturers’ prototypes, gallery design. The magazine is a lagging indicator by roughly two years — it reports what already cleared the pipeline."
+        },
+        {
+          "t": "Apply the three-sighting rule",
+          "d": "One sighting is a designer with a preference. Two is coincidence. Three across unrelated categories — furniture, fashion, product graphics — is a trend. Log the date of each sighting; the interval tells you the speed."
+        },
+        {
+          "t": "Track material before form",
+          "d": "New silhouettes are noisy and often personal. A new finish, textile or joint appearing inside familiar shapes is the earliest reliable signal, because materials require supply chains and supply chains require conviction."
+        },
+        {
+          "t": "Locate it on the price ladder",
+          "d": "Gallery, design-led contract, volume contract, airport. Each rung is roughly eighteen months. Where you first see something tells you how long you have before it is everywhere and, more usefully, before it is over."
+        },
+        {
+          "t": "Ask what is forcing it",
+          "d": "Fashion cycles reverse. Regulation, tax and carbon accounting do not. Any trend with a compliance driver behind it — disassembly, embodied carbon, acoustic standards — has a far longer runway than one driven only by appetite."
+        },
+        {
+          "t": "Run the counterfeit test",
+          "d": "Every real trend generates a cheap imitation that captures the look and drops the reason. When the imitation reaches volume retail, the original has about two years of currency left. Photograph the counterfeits; they date the cycle better than the originals do."
+        },
+        {
+          "t": "Write the tells down",
+          "d": "A trend you can only recognise on sight is not knowledge you can specify from. Three tells and three counterfeit tells per trend, in a note. That is the file this magazine is trying to become."
+        }
+      ],
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": null
+    },
+    {
+      "id": "p-board",
+      "kind": "palette",
+      "plate": "palette",
+      "kicker": "Reference board",
+      "t": "Palette in play",
+      "dek": "Where the current office palette comes from, and what each colour is doing.",
+      "stage": null,
+      "life": null,
+      "short": null,
+      "body": null,
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": [
+        {
+          "hex": "#B7442C",
+          "name": "Iron oxide",
+          "note": "Earth pigment. Advances a plane; use on volumes, not walls."
+        },
+        {
+          "hex": "#C98A3E",
+          "name": "Ochre",
+          "note": "The warm neutral that replaced greige. Reads as plaster, not paint."
+        },
+        {
+          "hex": "#6E7F63",
+          "name": "Verdigris green",
+          "note": "Oxidised copper. Currently the safest saturated colour in contract."
+        },
+        {
+          "hex": "#3E4C59",
+          "name": "Slate blue",
+          "note": "Holds a plane still. Good for joinery you want to disappear."
+        },
+        {
+          "hex": "#E4DCCF",
+          "name": "Lime white",
+          "note": "Off-white with visible aggregate. The base coat of the whole cycle."
+        },
+        {
+          "hex": "#8C6A52",
+          "name": "Clay",
+          "note": "Mid-tone connector. Stops mineral schemes reading cold."
+        },
+        {
+          "hex": "#2B2A28",
+          "name": "Bitumen",
+          "note": "Near-black with brown in it. Frames everything above."
+        },
+        {
+          "hex": "#D9531E",
+          "name": "The one loud one",
+          "note": "Every scheme gets exactly one. Architectural scale or not at all."
+        }
+      ],
+      "rows": null,
+      "events": null,
+      "links": null
+    },
+    {
+      "id": "tl-office",
+      "kind": "timeline",
+      "plate": "timeline",
+      "kicker": "Timeline",
+      "t": "A hundred and twenty years",
+      "dek": "The argument, in order.",
+      "stage": null,
+      "life": null,
+      "short": null,
+      "body": null,
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": [
+        {
+          "y": "1904",
+          "t": "Larkin Building",
+          "d": "Wright. Top-lit atrium, sealed from the railyard, virtues on the walls. Demolished 1950 for a truck park."
+        },
+        {
+          "y": "1939",
+          "t": "Johnson Wax",
+          "d": "The Great Workroom. Structure, ceiling and light as one element."
+        },
+        {
+          "y": "1958",
+          "t": "Bürolandschaft",
+          "d": "Quickborner Team. Desks follow communication paths, not hierarchy. The open plan begins."
+        },
+        {
+          "y": "1964",
+          "t": "Action Office 1",
+          "d": "Propst and Nelson. Beautiful, standing-height, unaffordable."
+        },
+        {
+          "y": "1968",
+          "t": "Action Office 2",
+          "d": "120-degree panels. Squared to 90 by the market within a decade."
+        },
+        {
+          "y": "1972",
+          "t": "Centraal Beheer",
+          "d": "Hertzberger. Ninety small rooms inside one big room, left unfinished."
+        },
+        {
+          "y": "1975",
+          "t": "Willis Faber & Dumas",
+          "d": "Foster. Deep plan, free-form glass skin, pool and turf roof."
+        },
+        {
+          "y": "1988",
+          "t": "SAS HQ",
+          "d": "Torp. The internal street. Ancestor of every campus spine since."
+        },
+        {
+          "y": "1994",
+          "t": "Chiat/Day",
+          "d": "Assigned desks abolished. Staff hoard space in car boots. Collapses in three years."
+        },
+        {
+          "y": "1994",
+          "t": "How Buildings Learn",
+          "d": "Brand popularises Duffy’s layers: shell, services, scenery, set."
+        },
+        {
+          "y": "2017",
+          "t": "Bloomberg",
+          "d": "Ceiling as light, cooling, acoustics and identity in one component."
+        },
+        {
+          "y": "2020",
+          "t": "The monopoly ends",
+          "d": "Home becomes viable for focused work. The building has to earn the commute."
+        },
+        {
+          "y": "2026",
+          "t": "Rooms return",
+          "d": "Enclosure, embodied carbon and layered light are the three live arguments."
+        }
+      ],
+      "events": null,
+      "links": null
+    },
+    {
+      "id": "cal-2627",
+      "kind": "calendar",
+      "plate": "cal",
+      "kicker": "Calendar",
+      "t": "What is on, and when",
+      "dek": "Fairs, biennials, prizes and festivals worth planning around — from now to next summer.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Dates marked confirmed come from the organiser; the rest are the event’s usual window and firm up later.",
+        "Read it as a forecasting instrument: fair floors lead the trade press by roughly eighteen months.",
+        "Milan sets the language in April, Orgatec converts it to workplace product in October."
+      ],
+      "body": "<p>Two things make this list useful rather than decorative. First, the <b>order</b>: Salone sets the domestic and material language in April, Copenhagen supplies the Nordic craft register in June, and Orgatec turns both into specifiable contract product in October. Second, the <b>lag</b>: roughly eighteen months from a fair prototype to something you can put in a schedule, and another year to volume projects.</p>\n  <p>Biennials and prizes work differently. They do not sell anything, so they tell you what the discipline currently believes — which is more useful for a client conversation than any product launch.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": [
+        {
+          "date": "2 Jun – 9 Aug 2026",
+          "title": "CASACOR São Paulo",
+          "place": "São Paulo",
+          "why": "39th edition, theme Mente e Coração. The largest interiors show in the Americas and the clearest read on Brazilian material specification. Next edition returns in June.",
+          "confirmed": true
+        },
+        {
+          "date": "28 Aug – 6 Sep 2026",
+          "title": "Helsinki Design Week",
+          "place": "Helsinki",
+          "why": "The largest Nordic design festival. Good early read on Finnish material and colour thinking.",
+          "confirmed": true
+        },
+        {
+          "date": "12 – 20 Sep 2026",
+          "title": "London Design Festival",
+          "place": "London",
+          "why": "24th edition, across ten design districts. The V&A commissions are the part that travels.",
+          "confirmed": true
+        },
+        {
+          "date": "21 – 25 Sep 2026",
+          "title": "Cersaie",
+          "place": "Bologna",
+          "why": "Ceramic surfaces and bathroom. Where large-format porcelain and mineral finishes are actually specified.",
+          "confirmed": true
+        },
+        {
+          "date": "22 Sep 2026",
+          "title": "Lucas Museum of Narrative Art opens",
+          "place": "Los Angeles",
+          "why": "Ma Yansong / MAD Architects' 100,000 sq ft museum in Exposition Park, 35 galleries organised around themes of lived experience rather than chronology or medium — confirmed by the museum.",
+          "confirmed": true
+        },
+        {
+          "date": "24 Sep 2026",
+          "title": "AJ Retrofit & Reuse Awards",
+          "place": "London",
+          "why": "Winners announced across adaptive reuse, decarbonisation-at-scale and fit-out categories — including office conversions such as Manchester’s Campfield market halls and Wigan’s 1960s civic offices. The prize circuit’s working-budget counterpart to the Stirling and Reinvention shortlists.",
+          "confirmed": true
+        },
+        {
+          "date": "15 Oct 2026",
+          "title": "RIBA Stirling Prize",
+          "place": "London",
+          "why": "Announced at Old Billingsgate, alongside the Stephen Lawrence Prize for small projects and the Reinvention Award for retrofit. This year's Stirling shortlist is dominated by retrofit and careful additions.",
+          "confirmed": true
+        },
+        {
+          "date": "17 – 25 Oct 2026",
+          "title": "Dutch Design Week",
+          "place": "Eindhoven",
+          "why": "26th edition, theme R.A.W. — raw, unpolished, authentic. The most reliable place to see next year’s material arguments early.",
+          "confirmed": true
+        },
+        {
+          "date": "25 Oct 2026",
+          "title": "Serpentine Pavilion closes",
+          "place": "London",
+          "why": "Last chance for LANZA atelier’s single-brick crinkle-crankle wall.",
+          "confirmed": true
+        },
+        {
+          "date": "27 – 30 Oct 2026",
+          "title": "Orgatec",
+          "place": "Cologne",
+          "why": "The biennial contract and workplace fair. If you are specifying an office in 2027, this is the trip that pays for itself.",
+          "confirmed": true
+        },
+        {
+          "date": "14 Nov 2026 – 14 Apr 2027",
+          "title": "Sharjah Architecture Triennial",
+          "place": "Sharjah",
+          "why": "Third edition, “Architecture Otherwise: Building Civic Infrastructure for Collective Futures,” curated by Vyjayanthi Rao with Tau Tavengwa. Argues architecture as a collective, evolving condition rather than a singular object — 32 participants across architecture, anthropology and community practice.",
+          "confirmed": true
+        },
+        {
+          "date": "22 Nov 2026",
+          "title": "Venice Art Biennale closes",
+          "place": "Venice",
+          "why": "In Minor Keys, Koyo Kouoh’s framework. Quiet, intimate, organised as undercurrents rather than sections.",
+          "confirmed": true
+        },
+        {
+          "date": "1 – 6 Dec 2026",
+          "title": "Design Miami / Miami Art Week",
+          "place": "Miami",
+          "why": "The flagship Miami Beach edition, now dated by the organiser. Collectible design and the top of the price ladder. What appears here reaches contract in about three years.",
+          "confirmed": true
+        },
+        {
+          "date": "11 Dec 2026",
+          "title": "Guggenheim Abu Dhabi opens",
+          "place": "Abu Dhabi",
+          "why": "Frank Gehry's ten-cone museum on Saadiyat Island, the largest Guggenheim location, opening roughly fifteen years after construction began — date confirmed by the Department of Culture and Tourism – Abu Dhabi.",
+          "confirmed": true
+        },
+        {
+          "date": "14 – 18 Jan 2027",
+          "title": "Maison&Objet",
+          "place": "Paris",
+          "why": "Interiors and lifestyle at volume. Reads the commercial middle of the market better than Milan does.",
+          "confirmed": true
+        },
+        {
+          "date": "9 – 12 Feb 2027",
+          "title": "Stockholm Furniture Fair",
+          "place": "Stockholm",
+          "why": "Skipped February 2026 entirely and relaunches as a biennial — organiser Chicie Lindgren said the break was to “gather strength for 2027.” The Nordic contract register, one step before it is diluted; strong on wood joinery and acoustic textiles.",
+          "confirmed": true
+        },
+        {
+          "date": "13 – 18 Apr 2027",
+          "title": "Salone del Mobile",
+          "place": "Milan",
+          "why": "The 65th edition, and the first with the new Salone Contract platform masterplanned by Rem Koolhaas and David Gianotten / OMA, aimed at a claimed €68bn contract market. Euroluce, the biennial lighting exhibition, also returns.",
+          "confirmed": true
+        },
+        {
+          "date": "8 May – 21 Nov 2027",
+          "title": "Venice Architecture Biennale",
+          "place": "Venice",
+          "why": "Curated by Wang Shu and Lu Wenyu under the theme “Do Architecture — For the Possibility of Coexistence Facing a Real Reality.” The discipline’s statement of what it currently thinks architecture is for.",
+          "confirmed": true
+        },
+        {
+          "date": "25 – 27 May 2027",
+          "title": "Clerkenwell Design Week",
+          "place": "London",
+          "why": "Compact, contract-heavy, walkable. The most efficient two days in the workplace calendar.",
+          "confirmed": true
+        },
+        {
+          "date": "9 – 11 Jun 2027",
+          "title": "3daysofdesign",
+          "place": "Copenhagen",
+          "why": "Showrooms open across the city. Craft, restraint and the material palette the contract market copies next.",
+          "confirmed": true
+        },
+        {
+          "date": "13 – 16 Jun 2027",
+          "title": "NeoCon",
+          "place": "Chicago",
+          "why": "The North American workplace fair, at the Merchandise Mart. Useful counterpoint to European contract thinking.",
+          "confirmed": true
+        }
+      ],
+      "links": [
+        {
+          "t": "Orgatec 2026 — dates and opening hours",
+          "u": "https://www.orgatec.com/trade-fair/orgatec/dates-opening-hours/"
+        },
+        {
+          "t": "London Design Festival",
+          "u": "https://londondesignfestival.com/"
+        },
+        {
+          "t": "Dutch Design Week 2026",
+          "u": "https://www.dezeen.com/eventsguide/2026/10/dutch-design-week-2026/"
+        },
+        {
+          "t": "Salone del Mobile.Milano",
+          "u": "https://www.salonemilano.it/en"
+        },
+        {
+          "t": "Sharjah Architecture Triennial — third edition",
+          "u": "https://www.archdaily.com/1043001/sharjah-architecture-triennial-announces-participants-and-opening-dates-for-third-edition"
+        },
+        {
+          "t": "Guggenheim Abu Dhabi — opening announcement",
+          "u": "https://www.guggenheim.org/press-release/abu-dhabi-announces-opening-of-guggenheim-abu-dhabi"
+        }
+      ]
+    },
+    {
+      "id": "r-list",
+      "kind": "refs",
+      "plate": "refs",
+      "kicker": "Reading",
+      "t": "Sources and calendar",
+      "dek": "Where next week’s issue will come from.",
+      "stage": null,
+      "life": null,
+      "short": null,
+      "body": null,
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Salone del Mobile — Milan, April",
+          "u": "https://www.salonemilano.it/en"
+        },
+        {
+          "t": "Orgatec — Cologne, biennial October",
+          "u": "https://www.orgatec.com/"
+        },
+        {
+          "t": "3daysofdesign — Copenhagen, June",
+          "u": "https://3daysofdesign.dk/"
+        },
+        {
+          "t": "Action Office — background",
+          "u": "https://en.wikipedia.org/wiki/Action_Office"
+        },
+        {
+          "t": "Centraal Beheer — background",
+          "u": "https://en.wikipedia.org/wiki/Centraal_Beheer"
+        },
+        {
+          "t": "Willis Building, Ipswich — background",
+          "u": "https://en.wikipedia.org/wiki/Willis_Building,_Ipswich"
+        },
+        {
+          "t": "Johnson Wax Headquarters — background",
+          "u": "https://en.wikipedia.org/wiki/Johnson_Wax_Headquarters"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "id": "d-germanhouse",
-   "kind": "news",
-   "plate": "skin",
-   "kicker": "Dispatch · August 2026",
-   "t": "The tower stays, the skin changes",
-   "dek": "Sauerbruch Hutton and Studio Gang win the competition to renovate Germany's UN-adjacent office tower — colour, photovoltaics and a vertical garden, on a structure nobody is replacing.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "Sauerbruch Hutton — in its first US project — and Studio Gang won the competition to redesign German House, the 325-foot 1990s tower housing Germany's UN mission and consulate in Manhattan, announced 13 August 2026.",
-    "The scheme reclads the grey 1990s facade in bands of colour with integrated photovoltaic panels, adds a sky lobby with a vertical garden and an upper-floor restaurant, and keeps the existing structure rather than replacing it.",
-    "Sauerbruch Hutton partner Lina Lahiri: the tower is adapted “through careful transformation rather than replacement... extending the life of the building for decades to come.”"
-   ],
-   "body": "<p>German House is a 325-foot office tower from the 1990s, unlisted, unremarkable, and still fully in use as the headquarters of Germany's UN mission and consulate. That ordinariness is the point. Next to it in this issue sit Tbilisi's Rike Concert Hall, demolished despite a complete structure because the client who owned the decision had no stake in what a previous government built, and the Mackintosh Building, a listed shell needing £35 million it does not have. German House is neither a political casualty nor a heritage cause — it is a working office building whose owner simply decided modernising costs less than replacing, which is the case the retrofit argument is actually built to make and rarely gets to make in public.</p><p>The design answer is a new <b>skin</b>: bands of colour and photovoltaic glass over the existing grey curtain wall, plus a box-window system for solar shading and natural ventilation. Willis Faber & Dumas made the case fifty years ago that a building can be two different objects depending on the hour, mirror by day and transparent by night; German House proposes something closer, a building whose surface generates the power it uses while still reading as an address. The interior move — a sky lobby with a vertical garden at mid-tower, a restaurant opening onto a shaded roof garden — is the same amenity-in-the-core idea Willis Faber used a swimming pool for, updated into the hospitality-fication this issue's lighting trend describes: the office earning attendance rather than assuming it.</p><p>For a workplace project the transferable lesson is the least dramatic form of the retrofit argument, and the most common one. Most reuse decisions are not a competition win or a heritage campaign; they are a facade nobody will write an article about and a carbon spreadsheet that came out in the structure's favour. That is the case worth having ready before the client asks why they shouldn't just start over.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
+  ],
+  "terms": [
     {
-     "t": "Dezeen — Sauerbruch Hutton and Studio Gang win",
-     "u": "https://www.dezeen.com/2026/08/13/sauerbruch-hutton-studio-gang-german-house-revamp-new-york/"
+      "term": "Bürolandschaft",
+      "def": "Office landscape. Postwar German layout method arranging desks along communication paths rather than a grid.",
+      "ex": "Quickborner Team, from 1958. The intellectual origin of the open plan."
     },
     {
-     "t": "The Architect's Newspaper — the competition",
-     "u": "https://www.archpaper.com/2026/08/sauerbruch-hutton-studio-gang-german-house/"
+      "term": "Action Office",
+      "def": "Herman Miller system by Robert Propst and George Nelson. AO1 1964, AO2 1968.",
+      "ex": "Conceived for mobility and choice; the market squared its 120-degree panels into the cubicle."
+    },
+    {
+      "term": "Shell, services, scenery, set",
+      "def": "Frank Duffy’s layered model of a building by rate of change.",
+      "ex": "Popularised by Stewart Brand in How Buildings Learn, 1994."
+    },
+    {
+      "term": "Hive, cell, den, club",
+      "def": "Duffy’s typology of work settings mapped by autonomy against interaction.",
+      "ex": "Most collaboration briefs are really asking for den and club settings."
+    },
+    {
+      "term": "Churn",
+      "def": "The recurring cost of reconfiguring an occupied workplace.",
+      "ex": "Over a fifty-year life it typically exceeds the original construction cost several times over."
+    },
+    {
+      "term": "Structuralism",
+      "def": "Architecture as an incomplete frame that occupants complete through appropriation.",
+      "ex": "Hertzberger, Centraal Beheer, 1972. Deliberately unfinished workstations."
+    },
+    {
+      "term": "Office street",
+      "def": "A linear internal circulation spine with amenity along it and workspace off it.",
+      "ex": "Niels Torp, SAS headquarters, 1988. Ancestor of the modern campus spine."
+    },
+    {
+      "term": "Embodied carbon",
+      "def": "Emissions from materials, construction, replacement and end of life, excluding operational energy.",
+      "ex": "For a new office it can now exceed whole-life operational carbon."
+    },
+    {
+      "term": "EPD",
+      "def": "Environmental Product Declaration. A verified statement of a product’s environmental impact.",
+      "ex": "Always check the boundary: cradle-to-gate stops at the factory."
+    },
+    {
+      "term": "Mass timber",
+      "def": "Engineered structural timber, principally CLT and glulam.",
+      "ex": "Routine for mid-rise office. Constraints are acoustic separation and insurance, not span."
+    },
+    {
+      "term": "Design for disassembly",
+      "def": "Detailing so components can be recovered intact at end of life.",
+      "ex": "Bolted not welded, mechanical not adhesive, plus a material passport."
+    },
+    {
+      "term": "Adaptive reuse",
+      "def": "Converting existing building stock to new use, retaining structure.",
+      "ex": "The largest single embodied-carbon saving available on most office projects."
+    },
+    {
+      "term": "Polychromie Architecturale",
+      "def": "Le Corbusier’s 1931 colour system, extended 1959, organised into spatial keyboards.",
+      "ex": "Treats colour as a device that advances, recedes or stabilises a plane."
+    },
+    {
+      "term": "Visiona",
+      "def": "Verner Panton’s immersive environments for Bayer, 1968 and 1970.",
+      "ex": "Direct precedent for today’s saturated, continuous-surface interiors."
+    },
+    {
+      "term": "Speech privacy",
+      "def": "The degree to which conversation is unintelligible to neighbouring occupants.",
+      "ex": "A primary planning decision post-2020, not an acoustic finishing item."
+    },
+    {
+      "term": "Hot-desking",
+      "def": "Unassigned desks allocated on arrival or by booking.",
+      "ex": "Chiat/Day, 1994. Fails when displaced people lack reliable alternative settings."
+    },
+    {
+      "term": "Hospitality-fication",
+      "def": "Importing hotel and café codes into workplace to make voluntary attendance worthwhile.",
+      "ex": "Programme decision when done well; theming when done as styling."
+    },
+    {
+      "term": "Orgatec",
+      "def": "Biennial contract workplace fair in Cologne, October.",
+      "ex": "Where Salone’s material language becomes specifiable office product."
+    },
+    {
+      "term": "Salone del Mobile",
+      "def": "Milan furniture fair, April. The industry’s primary language-setting event.",
+      "ex": "Roughly eighteen months lead time to contract-market availability."
+    },
+    {
+      "term": "Acoustic pod",
+      "def": "Freestanding enclosed booth for calls or small meetings.",
+      "ex": "Furniture-scale answer to a planning-scale enclosure problem."
+    },
+    {
+      "term": "Three-sighting rule",
+      "def": "One sighting is a designer, two is coincidence, three across unrelated categories is a trend.",
+      "ex": "Log the dates; the interval between sightings tells you the speed of the cycle."
+    },
+    {
+      "term": "Price ladder",
+      "def": "Gallery, design-led contract, volume contract, airport. Roughly eighteen months per rung.",
+      "ex": "Where you first see something tells you how much runway is left."
     }
-   ]
-  },
-  {
-   "id": "d-metwarehouse",
-   "kind": "news",
-   "plate": "reuse",
-   "kicker": "Dispatch · August 2026",
-   "t": "The building teaching reuse is itself reused",
-   "dek": "Diller Scofidio + Renfro turns a century-old Boston storage warehouse into MIT's School of Architecture and Planning — the pedagogy and the building make the same argument.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "MIT's Metropolitan Storage Warehouse (built 1894–1923, retired since 2015) reopened 12 August 2026 as the School of Architecture and Planning, renovated by Diller Scofidio + Renfro.",
-    "Five storeys, over 500 feet long: four new glass-wall insertions bring daylight into a building that had almost none, alongside suspended platform studios built within the original masonry and steel.",
-    "DS+R partner Benjamin Gilmartin: the move represents “a bold vision... that the future of design and architecture very much lives in the reuse.”"
-   ],
-   "body": "<p>The Metropolitan Storage Warehouse held roughly 1,500 storage units from the 1890s until MIT retired it in 2015 — five brick storeys, over 500 feet long, built to keep light out rather than let it in. Diller Scofidio + Renfro's renovation cuts four glass-wall segments through that mass and suspends platform studios within the existing masonry and steel, leaving original brick exposed where old and new construction meet. What moved in is MIT's own School of Architecture and Planning, which makes the building's argument circular in a useful way: an institution that teaches design chose, for its own home, to keep the frame rather than commission something new.</p><p>Compare the daylight problem to Johnson Wax's Great Workroom, which solved windowlessness by manufacturing its own light through a lit ceiling of Pyrex tubing — an inward building that borrows nothing from a view. The Met Warehouse solves the same problem in the opposite direction, cutting apertures into a solid mass rather than building light into a new structure from scratch. Both are top-down answers to a building with no natural view to offer; which one is available depends entirely on whether you are pouring a new roof or working with a hundred-year-old one.</p><p>The suspended studios are the other half of the argument, and it is Action Office's half: a kit of platforms and walkways built inside a fixed shell, sized to be reconfigured as the school's programme changes, rather than a bespoke fit-out poured into the masonry. Robert Propst's lesson was that a kit of parts survives churn better than a composition; DS+R applied it to an entire faculty rather than a desk.</p><p>The steal for a workplace project is less about the architecture than about the argument's source. A client is rarely persuaded by a spreadsheet alone. An institution that had every resource to build new, and chose instead to gut and relight a warehouse for the department that will spend the next fifty years teaching students how to make that same case to their own future clients, is a harder argument to wave away.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "MIT News — Met Warehouse opens",
-     "u": "https://news.mit.edu/2026/met-warehouse-opens-new-home-mit-school-architecture-planning-0812"
-    },
-    {
-     "t": "The Architect's Newspaper — DS+R opens the new home for architecture at MIT",
-     "u": "https://www.archpaper.com/2026/08/diller-scofidio-renfro-mit/"
-    }
-   ]
-  },
-  {
-   "id": "d-casacor",
-   "kind": "news",
-   "plate": "rooms",
-   "kicker": "Dispatch · June–August 2026",
-   "t": "CASACOR turns inward",
-   "dek": "The 39th São Paulo edition closed on 9 August under the theme Mente e Coração — the house as a place of repair.",
-   "short": [
-    "39th CASACOR São Paulo: 2 June to 9 August 2026, at Parque da Água Branca for the second year running.",
-    "Theme Mente e Coração — the home as a space of care and self-repair, set against information overload and anxiety about AI.",
-    "10,161 m² across 67 environments, with an international cast including Edward van Vliet, Michele Wharton and Eduardo Baldelomar."
-   ],
-   "body": "<p>Read CASACOR for what it is and it becomes extremely useful. It is not architecture and it does not pretend to be: it is a show house, brands fund the environments, and the work is built to be seen for ten weeks and dismantled. That makes it the single best read on <b>which finishes are about to be specified across Brazil</b>, and a poor guide to how anyone actually lives.</p><p>This year's theme is the part worth carrying into a meeting. The curatorial council framed <em>Mente e Coração</em> as the house as sacred territory in the search for balance — a direct response to information overload and to the anxiety that arrived with AI. The framing comes out of CASACOR's own annual macrotrends research, which is to say it is a market read, not a poetic one.</p><p>Now put it beside two things in this issue. Venice is running on <em>In Minor Keys</em>: quiet, listening, low frequency. The workplace argument has moved to enclosure, acoustic comfort and rooms you can think in. Three institutions with nothing in common — a Brazilian trade show, an art biennial, and the office market — arrived at repair and restraint in the same year. <b>That is the three-sighting rule doing exactly what it is for.</b></p><p>The quietly radical part, though, is the landscaping brief. No intervention in the protected trees. Planting in pots resting on the soil rather than in it. No toxic or thorny species. Exterior lighting held to parameters that protect wildlife. A show that once built whatever it wanted now works reversibly inside heritage — the same argument as the retrofit-heavy Stirling shortlist, arriving from a completely different direction.</p>",
-   "steal": [
-    "Reversibility as a visible discipline: pots resting on soil, nothing fixed to protected fabric. It is design for disassembly in show-house form, and it reads as care rather than as restriction.",
-    "“Repair” is the client-facing word for what the workplace calls focus and acoustic comfort. If you are arguing for enclosed rooms to a non-technical client, this is the vocabulary that lands.",
-    "Watch the sponsor list, not the environments. Deca, Duratex, Portinari and Coral are deciding which surfaces get specified across Brazil for the next two years."
-   ],
-   "links": [
-    {
-     "t": "CASACOR São Paulo 2026",
-     "u": "https://appcasacor.com.br/events/sao-paulo-2026"
-    },
-    {
-     "t": "Casa e Mercado — cast and numbers",
-     "u": "https://casaemercado.com.br/casacor-2026/"
-    }
-   ]
-  },
-  {
-   "id": "d-lawrence",
-   "kind": "news",
-   "plate": "prize",
-   "kicker": "Dispatch · August 2026",
-   "t": "The reuse prize gets smaller and better",
-   "dek": "RIBA's six-project shortlist for the 2026 Stephen Lawrence Prize is entirely adaptive reuse, at a fraction of Stirling's budgets.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "Six early-career-led projects were shortlisted for the 2026 RIBA Stephen Lawrence Prize, announced 4 August 2026 and chaired by Matthew Goldschmied.",
-    "Every project is a conversion: a department store, urban stables, a neglected orchard, a Cornish butter market and a listed walled garden.",
-    "The winner is announced 15 October at Old Billingsgate — the same night as the Stirling Prize and the Reinvention Award."
-   ],
-   "body": "<p>RIBA's Stephen Lawrence Prize sits under a tight construction-budget ceiling, and the 2026 shortlist — six projects, chaired by Matthew Goldschmied — is entirely conversion work: a former department store turned mixed commercial space in south-west London, urban stables reclaimed for a disabled riding association, a neglected Hertfordshire orchard turned into a communal barn, a Redruth butter market reopened as a vendors' hub, and a listed walled garden at Auckland Castle revived as a wellbeing space. Goldschmied's citation praises \"community connection, regeneration, education, and ecological sensitivity.\"</p><p>Put it next to the Stirling shortlist, announced three weeks earlier and dominated by the same instinct at institutional scale, and both are handed out the same night — 15 October, Old Billingsgate. RIBA's autumn calendar is now structured around reuse at every budget tier: a converted theatre or a Cambridge college addition at Stirling scale, a butter market or a set of stables at Stephen Lawrence scale. The small-project list is the more useful one for most fit-outs, because it is evidence that the \"keep the frame\" argument does not require an institutional client or a nine-figure budget to work — it requires a building nobody else wanted and a modest, well-detailed insertion.</p><p>The steal for an office project is scale-matching: retrofit case studies get pitched with Bloomberg- or Stirling-sized precedents, which makes reuse look like something only a large client budget can attempt. A converted stable block is the more honest comparison for most workplace fit-out arguments than a listed institution ever is.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "PBC Today — the shortlist",
-     "u": "https://www.pbctoday.co.uk/news/planning-construction-news/riba-stephen-lawrence-prize-2026-shortlist-revealed/164382"
-    },
-    {
-     "t": "Bustler — the six projects",
-     "u": "https://bustler.net/news/11091/six-projects-by-early-career-architects-shortlisted-for-2026-stephen-lawrence-prize"
-    }
-   ]
-  },
-  {
-   "id": "d-mackintosh",
-   "kind": "news",
-   "plate": "reuse",
-   "kicker": "Dispatch · August 2026",
-   "t": "Who pays to keep the frame",
-   "dek": "A petition to rebuild Charles Rennie Mackintosh's fire-gutted art school reopens the question the retrofit argument keeps skipping.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "Architect Ruairidh Moir launched a petition on 3 August 2026 calling for the fire-damaged Mackintosh Building to pass to an independent body for \"faithful restoration,\" leased back to Glasgow School of Art.",
-    "The school says it cannot afford to rebuild alone, after fires in 2014 and a far more destructive one in 2018 — midway through a £35 million restoration — gutted the building.",
-    "The petition passed 5,000 signatures within a week of launch, on the way to a 100,000 target that would trigger delivery to the Scottish and UK governments and the GSA board."
-   ],
-   "body": "<p>Glasgow School of Art's Mackintosh Building burned twice: a contained fire in 2014, then a far more destructive one in 2018, midway through a £35 million restoration that was meant to fix the first. The school has now said it cannot rebuild without money it does not have. On 3 August, Glasgow architect Ruairidh Moir launched a petition asking for ownership to move to an independent body tasked with \"faithful restoration,\" with the finished building leased back to the school, and for the Scottish and UK governments to fund it. \"We owe it to Charles Rennie Mackintosh,\" he said. The petition needs 100,000 signatures before it is delivered to government and the GSA board; it passed 5,000 within the week.</p><p>This is the same \"keep the frame\" argument running through the Stirling shortlist and the Mies Award's 21 regeneration entries, pushed to its hard edge. Those prizes reward retaining a structure that is still standing and still working. The Mackintosh Building is neither — it is a listed shell that has already cost £35 million once and needs to again, with no operating asset to offset the spend. Retrofit rhetoric rarely prices this case: the point at which \"the existing structure is the lower-carbon, lower-cost option\" stops being true, and reuse becomes a straightforward act of public subsidy for heritage, argued on cultural grounds because the financial ones no longer apply cleanly.</p><p>The workplace lesson is to separate the two arguments even when they usually travel together. Carbon and cost justify retention on a healthy building. Culture and identity justify it on a damaged one. Knowing which case you are actually making decides who you ask to pay for it.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "Dezeen — the campaign",
-     "u": "https://www.dezeen.com/2026/08/03/glasgow-school-of-art-campaign/"
-    },
-    {
-     "t": "Dezeen — GSA \"cannot rebuild alone\"",
-     "u": "https://www.dezeen.com/2026/07/23/glasgow-school-of-art-mackintosh-rebuild/"
-    }
-   ]
-  },
-  {
-   "id": "d-rike",
-   "kind": "news",
-   "plate": "wave",
-   "kicker": "Dispatch · August 2026",
-   "t": "Tbilisi demolishes a building it never opened",
-   "dek": "Studio Fuksas's scale-clad concert hall is coming down after fourteen years empty — proof that the retrofit argument still loses to politics.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "Demolition of Studio Fuksas's Rike Concert Hall began in late July 2026, after Tbilisi city hall issued a permit less than two weeks earlier.",
-    "The tube-shaped hall, wrapped in scale-like stainless-steel panels, was structurally complete by 2012 but never fitted out — a change of government made it politically toxic.",
-    "Studio Fuksas says it repeatedly offered to help repurpose the building and received no response; the firm calls the demolition \"a significant cultural setback.\""
-   ],
-   "body": "<p>The Rike Concert Hall was structurally complete by 2012: two tube-shaped volumes in the middle of Tbilisi's riverside park, wrapped in <b>square stainless-steel panels that read as scales</b>. It never received an interior. The government that commissioned it lost power that same year, the project became identified with the previous administration's urban agenda, and the building sat sealed for fourteen years. In 2025 the site passed to a new owner, Makro Constructions; a demolition permit followed from Tbilisi city hall in July 2026, and cladding removal started within the fortnight.</p><p>Studio Fuksas says it repeatedly offered to help repurpose the building and got no reply, and calls the demolition \"a significant cultural setback.\" Read that against everything else reuse-themed in this issue — the Stirling shortlist rewarding retained frames, CASACOR's reversible landscaping, the Mies Award's 21 regeneration entries against 17 new builds — and the gap is the point. <em>The retrofit argument is a carbon and cost argument. It is not, on its own, a political one.</em> A complete concrete-and-steel structure with a fourteen-year head start on embodied-carbon accounting is coming down anyway, because the client who owns the decision has no stake in what the last government built.</p><p>For a workplace project the transferable caution is about ownership, not material. Keep-the-frame arguments hold only as long as whoever holds the building agrees to want it. Model the loudest counterargument to your reuse case before the client meeting — \"the numbers favour retention\" has never yet been the deciding sentence on a demolition permit.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "Dezeen — demolition underway",
-     "u": "https://www.dezeen.com/2026/08/03/rike-concert-hall-demolition-tbilisi-studio-fuksas/"
-    },
-    {
-     "t": "Dezeen — Studio Fuksas's response",
-     "u": "https://www.dezeen.com/2026/07/16/studio-fuksas-tbilisi-rike-concert-hall-halt/"
-    }
-   ]
-  },
-  {
-   "id": "d-stirling",
-   "kind": "news",
-   "plate": "reuse",
-   "kicker": "Dispatch · July 2026",
-   "t": "Retrofit takes the shortlist",
-   "dek": "The Stirling Prize turns thirty with a shortlist built around reuse, repair and additions to old fabric.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "Six projects shortlisted for the 2026 RIBA Stirling Prize; winner announced 15 October at Old Billingsgate.",
-    "The list is dominated by adaptive reuse, careful additions to historic institutions, housing and transport-led regeneration.",
-    "For the first time in recent memory most of the shortlist sits outside London."
-   ],
-   "body": "<p>The shortlist includes the conversion of a 1970s theatre into a cultural venue by Bennetts Associates, additions to two Cambridge colleges by Witherford Watson Mann and Haworth Tompkins, a Croydon housing scheme by Mary Duggan Architects with RUFF, Renzo Piano Building Workshop’s Paddington Square, and a house at the edge of Epping Forest by Sergison Bates.</p>\n     <p>Read it as confirmation rather than news. The awards circuit is now systematically rewarding what carbon accounting already required: keep the frame, insert carefully, make the old building better rather than newer. If you are arguing for retrofit on an office project, this shortlist is the reference to put in front of the client.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "RIBA — 2026 shortlist",
-     "u": "https://www.riba.org/news/stirling-prize-shortlist-2026"
-    },
-    {
-     "t": "Dezeen — the six projects",
-     "u": "https://www.dezeen.com/2026/07/16/riba-stirling-prize-2026-shortlist/"
-    }
-   ]
-  },
-  {
-   "id": "c-johnson",
-   "kind": "case",
-   "plate": "mushroom",
-   "kicker": "Case study · 1939",
-   "t": "Johnson Wax",
-   "dek": "Light from above, no view out, and a column the building department refused to believe in.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "Wright's 1939 Great Workroom: half an acre, lit from above through Pyrex tubing, with no view out.",
-    "Dendriform columns nine inches wide at the base — load-tested in public because officials refused to believe them.",
-    "Structure, ceiling, lighting and furniture designed as one thing."
-   ],
-   "body": "<p>The Great Workroom is a single room, half an acre, for two hundred clerks. It has no windows in the ordinary sense. Light arrives through <b>Pyrex tubing</b> stacked into bands at the head of the wall and across the roof, so the room is bright and has nothing to look at.</p>\n     <p>Holding it up are the <em>dendriform columns</em>: nine inches across at the floor, tapering upward for eighteen feet, then opening into a circular pad that meets its neighbours. The gaps between the pads are filled with more glass tubing. The effect is a lily pond seen from beneath, and the structure is also the ceiling, also the lighting, also the room.</p>\n     <p>Wisconsin building officials did not accept that a nine-inch base could carry the load. In 1937 Wright had one built on site and loaded in public until it took twelve tons — more than double the requirement — then had it pushed over for the photographers. The building went ahead.</p>\n     <p>He designed the furniture too: Cherokee-red steel desks with cantilevered drawers that swing rather than pull, and a three-legged chair that tipped unless you sat square. Wright fell off it himself and defended the design as posture correction. Steelcase made them.</p>\n     <p>What this building establishes, and what almost every open plan since has abandoned, is that a workplace can be <b>inward</b>. It does not borrow its quality from a view. It manufactures its own.</p>",
-   "facts": [
-    {
-     "l": "Architect",
-     "v": "Frank Lloyd Wright"
-    },
-    {
-     "l": "Built",
-     "v": "1936–1939"
-    },
-    {
-     "l": "Where",
-     "v": "Racine, Wisconsin"
-    },
-    {
-     "l": "Move",
-     "v": "Inward, top-lit, total design"
-    }
-   ],
-   "steal": [
-    "Top light lets a deep plan work without every desk fighting for the perimeter. Roof glazing is cheaper per lux than curtain wall.",
-    "One structural idea, repeated with total conviction, reads as luxury. Five materials read as a budget.",
-    "If you specify the furniture as part of the architecture, you also control the acoustics, the cable routes and the density. Losing furniture to a separate procurement package is how good plans go soft."
-   ],
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "SC Johnson Administration Building",
-     "u": "https://en.wikipedia.org/wiki/Johnson_Wax_Headquarters"
-    }
-   ]
-  },
-  {
-   "id": "c-centraal",
-   "kind": "case",
-   "plate": "islands",
-   "kicker": "Case study · 1972",
-   "t": "Centraal Beheer",
-   "dek": "Hertzberger built ninety small rooms inside one big room, then left them unfinished on purpose.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "Hertzberger, 1972: ninety concrete islands about nine metres square, each a small room open to the whole.",
-    "Left deliberately raw so occupants would finish their own workstations.",
-    "The same fixed geometry that made it loved made it almost impossible to re-let later."
-   ],
-   "body": "<p>An insurance company asked for an office for a thousand people. Hertzberger gave them roughly ninety concrete islands, each about nine metres square, clustered four to a unit around light voids, stepping and shifting so that no two routes through the building are the same.</p>\n     <p>Every desk sits in a small room. Every small room is open on at least one side to the whole. That is the entire idea, and it resolves the argument between cellular and open plan by refusing it.</p>\n     <p>The radical part is the finish. Hertzberger left the concrete block raw and the workstations deliberately incomplete, on the theory that a building should be an <em>unfinished frame that its occupants complete</em>. Photographs from the seventies show rugs, lamps, plants, posters, a bicycle. People built their own offices inside his.</p>\n     <p>The building's later history is the honest part of the lesson. Its greatest strength — the fixed nine-metre island — is exactly what a floor-plate-flexibility spreadsheet cannot absorb. It emptied out, and has spent years in conversion proposals rather than in use.</p>\n     <p>So the case study cuts both ways. <b>Design for appropriation and you get loyalty; design for appropriation too specifically and you get a listed building nobody can lease.</b></p>",
-   "facts": [
-    {
-     "l": "Architect",
-     "v": "Herman Hertzberger"
-    },
-    {
-     "l": "Built",
-     "v": "1968–1972"
-    },
-    {
-     "l": "Where",
-     "v": "Apeldoorn, Netherlands"
-    },
-    {
-     "l": "Move",
-     "v": "Structuralism, appropriation"
-    }
-   ],
-   "steal": [
-    "A small room that is also part of a big room is still the best answer to the open-plan argument. It is cheaper in structure than in partition.",
-    "Leave a defined margin of the fit-out unfinished and supply a kit for it. Occupants furnishing their own zone is the strongest retention device you can draw.",
-    "Test any strong geometric parti against a five-year churn scenario before you commit. If the plan only works at one headcount, it works for one client."
-   ],
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "Centraal Beheer",
-     "u": "https://en.wikipedia.org/wiki/Centraal_Beheer"
-    }
-   ]
-  },
-  {
-   "id": "c-willis",
-   "kind": "case",
-   "plate": "skin",
-   "kicker": "Case study · 1975",
-   "t": "Willis Faber & Dumas",
-   "dek": "A dark glass blob that follows a medieval street line, with a pool in the basement and grass on the roof.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "Foster, 1975: a free-form plan pushed out to medieval street lines under a frameless suspended glass skin.",
-    "Deep floorplate served from the middle — escalators, a swimming pool, a grass roof and staff restaurant.",
-    "Listed Grade I in 1991 at twenty-six years old."
-   ],
-   "body": "<p>Foster took an awkward site in a small English town and refused to straighten it. The plan is a free curve pushed out to the medieval street edges, wrapped in a suspended glass skin with no visible frame — a technique that had not been used at this scale before.</p>\n     <p>By day the skin is a black mirror and the building disappears into reflections of the town. At night it goes transparent and the whole open floor plate, escalators and all, is on display. The building is two entirely different objects depending on the hour.</p>\n     <p>Inside, the deep plan is served from the middle: escalators cut through the centre, a swimming pool sits in the basement, and the roof is grass with a staff restaurant on it. In 1975 this was an insurance company in Suffolk. The amenity was there to keep staff who might otherwise leave for London.</p>\n     <p>English Heritage listed it Grade I in 1991, when it was twenty-six years old — the youngest building ever listed at that point.</p>\n     <p>The lesson is unfashionable and correct: <b>a deep plan with generous shared amenity in the middle beats a thin plan with a good view and nothing else.</b> Half a century of workplace research has not overturned it.</p>",
-   "facts": [
-    {
-     "l": "Architect",
-     "v": "Foster Associates"
-    },
-    {
-     "l": "Built",
-     "v": "1970–1975"
-    },
-    {
-     "l": "Where",
-     "v": "Ipswich, England"
-    },
-    {
-     "l": "Listed",
-     "v": "Grade I, 1991, aged 26"
-    }
-   ],
-   "steal": [
-    "Put the amenity in the core, not on the best-view corner. It makes the deep plan work and it forces circulation to be social.",
-    "A plan that follows the site boundary rather than an imposed grid usually gains area and always gains character. The cost is in the setting-out, not the structure.",
-    "Design the building for the two hours it is most seen — arrival in the morning and the moment it lights up at dusk. Those are the images that carry it."
-   ],
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "Willis Building, Ipswich",
-     "u": "https://en.wikipedia.org/wiki/Willis_Building,_Ipswich"
-    }
-   ]
-  },
-  {
-   "id": "c-action",
-   "kind": "case",
-   "plate": "action",
-   "kicker": "Case study · 1964–68",
-   "t": "Action Office",
-   "dek": "The most-hated object in office history was designed by an idealist and ruined by a tax rule.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "Propst and Nelson's kit for movement and choice, launched 1964, reworked into panels at 120 degrees in 1968.",
-    "The market squared the panels to 90 degrees to fit more people per floor.",
-    "US tax rules let furniture depreciate faster than construction — so walls got bought as furniture."
-   ],
-   "body": "<p>Robert Propst ran Herman Miller's research arm and spent years interviewing people about their desks. His conclusion was that the fixed desk was a health problem and that office work needed <em>movement, variety and vertical storage within reach</em>.</p>\n     <p><b>Action Office 1</b> (1964, with George Nelson) was the answer: standing-height surfaces, beautiful, expensive, and a commercial failure. Nobody could afford to furnish a floor with it.</p>\n     <p><b>Action Office 2</b> (1968) solved the economics with three lightweight panels meeting at <em>120 degrees</em>, hung with the work surfaces and storage. Open on one side, angled so you turn within your space rather than face a wall. Propst thought he had built a kit for autonomy.</p>\n     <p>Then two things happened. Facilities managers squared the panels to 90 degrees, because right angles pack more people onto a floor. And United States tax rules let furniture be depreciated far faster than built construction — so a wall bought as furniture was worth more to a finance department than a wall built as a wall.</p>\n     <p>Propst spent the rest of his life objecting to what the cubicle became. The design did not fail. <b>The incentive around it did.</b></p>",
-   "facts": [
-    {
-     "l": "Designers",
-     "v": "Robert Propst, George Nelson"
-    },
-    {
-     "l": "Client",
-     "v": "Herman Miller"
-    },
-    {
-     "l": "Versions",
-     "v": "AO1 1964 · AO2 1968"
-    },
-    {
-     "l": "Move",
-     "v": "Kit of parts, then density"
-    }
-   ],
-   "steal": [
-    "A kit of parts survives churn better than a bespoke fit-out. Specify components that can be recombined, not compositions that can only be dismantled.",
-    "Watch the angle. Anything you draw at 120 degrees will be value-engineered to 90 unless you can defend what the angle does.",
-    "Ask early how the client is capitalising the fit-out. Whether a partition is booked as furniture or construction quietly decides what you are allowed to draw."
-   ],
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "Action Office",
-     "u": "https://en.wikipedia.org/wiki/Action_Office"
-    }
-   ]
-  },
-  {
-   "id": "c-bloomberg",
-   "kind": "case",
-   "plate": "petal",
-   "kicker": "Case study · 2017",
-   "t": "Bloomberg, London",
-   "dek": "The ceiling is the lighting, the cooling, the acoustics and the identity, all in one pressed aluminium leaf.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "Foster + Partners, 2017: two stone-and-bronze blocks across a reinstated Roman street.",
-    "A vaulted aluminium petal ceiling does lighting, cooling, acoustics and identity in one component.",
-    "A bronze spiral ramp replaces the lift core so vertical movement is slow and social."
-   ],
-   "body": "<p>Two stone-and-bronze blocks across a reinstated Roman street, with sandstone from the same quarries as much of the older City and bronze fins that both shade and ventilate. It is one of the most expensive office buildings ever built, and the interesting part is not the budget.</p>\n     <p>It is the ceiling. Roughly two and a half million polished aluminium petals form a continuous vaulted surface that does four jobs at once: it reflects and diffuses the light, it radiates the chilled cooling, it absorbs sound, and it is the building's single most recognisable image. Four consultants' worth of ceiling, drawn as one element.</p>\n     <p>Circulation is the other move. A bronze <em>hypotrochoid ramp</em> spirals up through the atrium instead of a bank of lifts, so vertical movement is slow, visible and social by design. You meet people on the way up. That was the brief.</p>\n     <p>It scored one of the highest BREEAM ratings recorded for an office at the time, largely through the integration: fewer separate systems means less material, less plant and less ceiling void.</p>\n     <p>The transferable idea is <b>consolidation</b>. Most office ceilings are a negotiated truce between four trades. This one is a single designed object, and it is why the interior photographs like nothing else.</p>",
-   "facts": [
-    {
-     "l": "Architect",
-     "v": "Foster + Partners"
-    },
-    {
-     "l": "Completed",
-     "v": "2017"
-    },
-    {
-     "l": "Where",
-     "v": "City of London"
-    },
-    {
-     "l": "Prize",
-     "v": "Stirling Prize, 2017"
-    }
-   ],
-   "steal": [
-    "Find the one element where four trades collide — usually the ceiling — and make it a single designed component. That is where integration budget pays back visually.",
-    "Make vertical circulation slower and more visible than efficiency requires. Stairs and ramps are the cheapest collaboration space in any building.",
-    "Choose one material that ages and one that does not. Bronze patinates, aluminium stays sharp. The contrast is what stops a rich palette reading as a showroom."
-   ],
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "Bloomberg European HQ",
-     "u": "https://www.fosterandpartners.com/projects/bloomberg"
-    }
-   ]
-  },
-  {
-   "id": "t-rooms",
-   "kind": "trend",
-   "plate": "rooms",
-   "kicker": "Trend · Rising",
-   "t": "Rooms come back",
-   "dek": "The enclosed room returns as the premium object, and the acoustic pod starts to look like an apology.",
-   "stage": "Rising",
-   "life": "3–5 years of runway",
-   "short": [
-    "The office lost focused solo work to home; it keeps collaboration, apprenticeship and belonging.",
-    "Briefs are inverting: fewer desks, many more enclosed rooms for two to six people.",
-    "Acoustic separation is now a week-one planning decision, not a finishing item."
-   ],
-   "body": "<p>Once home became a viable place to concentrate, the office lost its monopoly on focused work. Every post-2020 occupancy study lands in the same place: the office wins at collaboration, apprenticeship and belonging, and loses at sustained concentration.</p>\n     <p>The plan consequence is an inversion of the ratio the industry spent thirty years perfecting. Fewer assigned desks. Far more enclosed rooms sized for two to six. Acoustic separation moved from a finishing decision to a planning decision — which is to say, drawn in week one, not specified in week thirty.</p>\n     <p>Freestanding pods rode the first wave of this and are now peaking. They are a furniture-scale patch on a planning-scale problem: no daylight, borrowed air, and a rental cost per square metre that exceeds building a wall. They remain right for shells that genuinely cannot take partitions, and wrong almost everywhere else.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": [
-    "Enclosed rooms with real daylight and dedicated supply air, not borrowed air from the open floor.",
-    "Glazed demountable partition systems specified as a system, with the mullion module set out against the ceiling grid.",
-    "A reverberation-time target in the room data sheets. If it is there, someone senior took acoustics seriously.",
-    "Meeting rooms sized for four, not for twelve. The twelve-person room is the one sitting empty in the utilisation data."
-   ],
-   "fake": [
-    "A row of pods on an open floor, presented as the focus strategy.",
-    "Full-height plasterboard everywhere — enclosure achieved, flexibility destroyed, and the highest-carbon way to do it.",
-    "\"Library zone\" signage on an open plan. A rule is not a wall."
-   ],
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": null
-  },
-  {
-   "id": "t-mineral",
-   "kind": "trend",
-   "plate": "palette",
-   "kicker": "Trend · Peak",
-   "t": "Mineral and oxide",
-   "dek": "Greige is over. The palette moved to earth pigment, oxidised metal and plaster with visible aggregate.",
-   "stage": "Peak",
-   "life": "Peaking now, 2 years",
-   "short": [
-    "Earth pigment, oxidised metal and plaster with visible aggregate replaced the greige era.",
-    "One saturated colour per scheme, applied to whole volumes rather than feature walls.",
-    "Already in the copy layer of speculative fit-outs — roughly two years of currency left."
-   ],
-   "body": "<p>The lineage runs from Le Corbusier's <em>Polychromie Architecturale</em> — 63 colours organised into keyboards by how they behave in space, some advancing, some receding, some holding a plane still — through Verner Panton's saturated total environments, to the current fixation on pigment that looks like it came out of the ground.</p>\n     <p>What is running now: iron oxide reds, clay and terracotta, verdigris and oxidised copper, ochre, mineral plaster with aggregate you can see, and off-whites warm enough to read as lime rather than paint. Against that, exactly one saturated colour, used at architectural scale.</p>\n     <p>The distinguishing move is <b>scale</b>. This palette arrives as whole surfaces, volumes and joinery runs. When it arrives as a feature wall behind a sofa, it has already been diluted into the copy layer, which is where it currently sits in most speculative fit-outs — the reliable sign that a trend has about two years left.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": [
-    "Colour applied to a whole volume — a room, a stair, a joinery run — rather than one wall.",
-    "Pigment in the material: through-coloured plaster, mineral paint, anodised or patinated metal. Not a printed finish imitating one.",
-    "A palette of quiet mineral tones plus a single loud one. If there are three loud ones, nobody made a decision.",
-    "Visible aggregate, brush drag, trowel texture. The evidence that a hand was involved is the whole point."
-   ],
-   "fake": [
-    "Terracotta accent wall, greige everything else. This is the 2019 palette wearing a new jacket.",
-    "Vinyl or laminate printed to look like patinated metal, in a scheme that also claims material honesty.",
-    "A colour used only in the render and value-engineered out of the specification."
-   ],
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": null
-  },
-  {
-   "id": "t-timber",
-   "kind": "trend",
-   "plate": "timber",
-   "kicker": "Trend · Rising",
-   "t": "Timber, bolted not glued",
-   "dek": "Exposed structure plus visible fixings. The aesthetic is downstream of the carbon argument.",
-   "stage": "Rising",
-   "life": "5+ years, structural not stylistic",
-   "short": [
-    "Embodied carbon now outweighs operational carbon on a new office, which drives the whole palette.",
-    "Exposed CLT and glulam cut carbon, delete a finish layer and score well on wellbeing.",
-    "Bolted not glued: design for disassembly turns the visible fixing into an aesthetic."
-   ],
-   "body": "<p>As grids decarbonise, embodied carbon overtakes operational carbon on a new office building. That single accounting shift is driving most current material specification, and it produces an aesthetic almost by accident.</p>\n     <p>Exposed CLT and glulam do three things at once: they cut upfront carbon, they delete a finish layer, and they test well on every occupant wellbeing metric anyone has measured. The real constraints are acoustic separation between floors, insurance, and honest sequestration accounting — not span.</p>\n     <p>Alongside it, <em>design for disassembly</em>: bolted rather than welded, mechanical fixings rather than adhesive, screed on demountable deck, material passports so a component has a documented second life. The visible bolt is having a moment in furniture for exactly this reason. A joint you can undo is a component you can recover.</p>\n     <p>This one is not a style cycle. It is a compliance trajectory, and compliance trajectories do not reverse.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": [
-    "Fixings expressed rather than concealed, in furniture as well as structure.",
-    "An EPD referenced with its boundary stated. Cradle-to-gate stops at the factory; comparing it to a cradle-to-grave figure is the most common specification error in the room.",
-    "Retained existing structure with a visibly new insertion, rather than a full strip-out. Keeping the frame saves the majority of a new build’s upfront carbon.",
-    "Raised floor and ceiling retained from the previous tenant. Unglamorous, and the single highest-leverage carbon decision in most fit-outs."
-   ],
-   "fake": [
-    "Timber-effect laminate on a project marketing itself on embodied carbon.",
-    "\"Low carbon\" claimed without a stated boundary or a comparison baseline.",
-    "A biophilia moodboard doing the work that a carbon calculation should be doing."
-   ],
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": null
-  },
-  {
-   "id": "t-light",
-   "kind": "trend",
-   "plate": "light",
-   "kicker": "Trend · Rising",
-   "t": "The lighting grid dies",
-   "dek": "Uniform 4000K at 500 lux everywhere now reads as institutional. Light arrives in layers, at eye level, under your control.",
-   "stage": "Rising",
-   "life": "3–4 years",
-   "short": [
-    "Uniform 4000K at 500 lux everywhere solved a paper-on-desks problem that no longer exists.",
-    "Low ambient, task light under user control, warm fittings at eye level, warmer as the day goes on.",
-    "If lighting only appears on the ceiling plan, the scheme is still institutional."
-   ],
-   "body": "<p>The 4000K recessed grid delivering equal illuminance to every square metre was a solution to a problem — paper on desks, in rooms with no other light source — that no longer exists.</p>\n     <p>What replaces it is layered: low ambient, task light at the desk under the user's own control, warm decorative fittings at low level, and colour temperature that warms through the day. Table lamps in an office read as domestic, and that is precisely the intended signal now that attendance is voluntary.</p>\n     <p>This is one branch of the wider <em>hospitality-fication</em> of the workplace — reception as lobby bar, varied seating heights, textiles, a coffee offer that competes with the café downstairs. Read as styling it becomes theming. Read as a response to the fact that the building now has to earn the commute, it produces real programme decisions.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": [
-    "Lighting that appears on the furniture plan, not only on the ceiling plan. If the reflected ceiling plan is the whole lighting design, the scheme is still institutional.",
-    "Local switching and dimming at the desk. Control is the actual luxury.",
-    "Contrast used deliberately — pools of light and genuinely darker circulation, rather than uniformity.",
-    "Decorative fittings at 1.2 to 1.8 metres, doing the work that downlights used to do."
-   ],
-   "fake": [
-    "Track lighting aimed at the same uniform grid it replaced.",
-    "Warm colour temperature in the lounge only, with the working floor left at 4000K.",
-    "Circadian lighting claimed as a feature with no control strategy behind it."
-   ],
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": null
-  },
-  {
-   "id": "t-soft",
-   "kind": "trend",
-   "plate": "curve",
-   "kicker": "Trend · Late",
-   "t": "Soft geometry",
-   "dek": "Generous radii and bouclé migrated from lounge into task seating. It is now in the airport furniture, which means it is over.",
-   "stage": "Late",
-   "life": "Peaked; 12–18 months left",
-   "short": [
-    "Curves and bouclé crossed from lounge into task seating and desking.",
-    "Milan sets the language, Orgatec converts it to office product, roughly eighteen months apart.",
-    "It is now in airport seating, which means the signal has fully discharged."
-   ],
-   "body": "<p>The cycle ran cleanly. Curves and fat radii appear in Milan around 2019, arrive in contract lounge product, then cross into task seating and desking — rounded worksurface corners, upholstered screens, wool and bouclé on chairs that used to be mesh.</p>\n     <p>The pipeline is predictable and worth memorising, because it is a forecasting instrument: <em>Salone del Mobile</em> in April sets the domestic and material language; <em>Orgatec</em> in Cologne, biennial in October, converts it into contract product; <em>3daysofdesign</em> in Copenhagen in June supplies the Nordic craft register the contract market then dilutes. Roughly eighteen months from fair floor to specifiable range, another year to volume projects.</p>\n     <p>Which means the fair floor is a leading indicator and the trade magazine is a lagging one. By the time soft geometry is standard in airport seating and hotel lobbies — where it is now — the signal has fully discharged. Specify it because it is comfortable, not because it is current.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": [
-    "Where you first see it: fair floor, not magazine. A form in a Milan prototype is roughly two years from your project.",
-    "The price ladder: gallery piece, then design-led contract, then volume contract, then airport. Position on that ladder tells you the runway.",
-    "The three-sighting rule: one sighting is a designer, two is a coincidence, three across unrelated categories is a trend.",
-    "Material shifts before form shifts. A new textile or finish arriving in an old silhouette is the earliest reliable signal there is."
-   ],
-   "fake": [
-    "Rounded corners applied to a rectilinear system as a facelift.",
-    "Bouclé on a high-wear task chair. It will look terrible in eighteen months and that is a specification failure, not a trend.",
-    "A form that appears fully formed across every brand at one fair. That is a supplier tooling cycle, not a movement."
-   ],
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": null
-  },
-  {
-   "id": "g-method",
-   "kind": "guide",
-   "plate": "method",
-   "kicker": "Field guide",
-   "t": "How to spot it early",
-   "dek": "A repeatable method. Run it monthly and you will be roughly eighteen months ahead of the trade press.",
-   "stage": null,
-   "life": null,
-   "short": null,
-   "body": "<p>Trend spotting is not taste. It is a pipeline with a known lag, and the skill is knowing where on the pipeline you are looking.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": [
-    {
-     "t": "Watch the source, not the summary",
-     "d": "Fair floors, degree shows, small manufacturers’ prototypes, gallery design. The magazine is a lagging indicator by roughly two years — it reports what already cleared the pipeline."
-    },
-    {
-     "t": "Apply the three-sighting rule",
-     "d": "One sighting is a designer with a preference. Two is coincidence. Three across unrelated categories — furniture, fashion, product graphics — is a trend. Log the date of each sighting; the interval tells you the speed."
-    },
-    {
-     "t": "Track material before form",
-     "d": "New silhouettes are noisy and often personal. A new finish, textile or joint appearing inside familiar shapes is the earliest reliable signal, because materials require supply chains and supply chains require conviction."
-    },
-    {
-     "t": "Locate it on the price ladder",
-     "d": "Gallery, design-led contract, volume contract, airport. Each rung is roughly eighteen months. Where you first see something tells you how long you have before it is everywhere and, more usefully, before it is over."
-    },
-    {
-     "t": "Ask what is forcing it",
-     "d": "Fashion cycles reverse. Regulation, tax and carbon accounting do not. Any trend with a compliance driver behind it — disassembly, embodied carbon, acoustic standards — has a far longer runway than one driven only by appetite."
-    },
-    {
-     "t": "Run the counterfeit test",
-     "d": "Every real trend generates a cheap imitation that captures the look and drops the reason. When the imitation reaches volume retail, the original has about two years of currency left. Photograph the counterfeits; they date the cycle better than the originals do."
-    },
-    {
-     "t": "Write the tells down",
-     "d": "A trend you can only recognise on sight is not knowledge you can specify from. Three tells and three counterfeit tells per trend, in a note. That is the file this magazine is trying to become."
-    }
-   ],
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": null
-  },
-  {
-   "id": "p-board",
-   "kind": "palette",
-   "plate": "palette",
-   "kicker": "Reference board",
-   "t": "Palette in play",
-   "dek": "Where the current office palette comes from, and what each colour is doing.",
-   "stage": null,
-   "life": null,
-   "short": null,
-   "body": null,
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": [
-    {
-     "hex": "#B7442C",
-     "name": "Iron oxide",
-     "note": "Earth pigment. Advances a plane; use on volumes, not walls."
-    },
-    {
-     "hex": "#C98A3E",
-     "name": "Ochre",
-     "note": "The warm neutral that replaced greige. Reads as plaster, not paint."
-    },
-    {
-     "hex": "#6E7F63",
-     "name": "Verdigris green",
-     "note": "Oxidised copper. Currently the safest saturated colour in contract."
-    },
-    {
-     "hex": "#3E4C59",
-     "name": "Slate blue",
-     "note": "Holds a plane still. Good for joinery you want to disappear."
-    },
-    {
-     "hex": "#E4DCCF",
-     "name": "Lime white",
-     "note": "Off-white with visible aggregate. The base coat of the whole cycle."
-    },
-    {
-     "hex": "#8C6A52",
-     "name": "Clay",
-     "note": "Mid-tone connector. Stops mineral schemes reading cold."
-    },
-    {
-     "hex": "#2B2A28",
-     "name": "Bitumen",
-     "note": "Near-black with brown in it. Frames everything above."
-    },
-    {
-     "hex": "#D9531E",
-     "name": "The one loud one",
-     "note": "Every scheme gets exactly one. Architectural scale or not at all."
-    }
-   ],
-   "rows": null,
-   "events": null,
-   "links": null
-  },
-  {
-   "id": "tl-office",
-   "kind": "timeline",
-   "plate": "timeline",
-   "kicker": "Timeline",
-   "t": "A hundred and twenty years",
-   "dek": "The argument, in order.",
-   "stage": null,
-   "life": null,
-   "short": null,
-   "body": null,
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": [
-    {
-     "y": "1904",
-     "t": "Larkin Building",
-     "d": "Wright. Top-lit atrium, sealed from the railyard, virtues on the walls. Demolished 1950 for a truck park."
-    },
-    {
-     "y": "1939",
-     "t": "Johnson Wax",
-     "d": "The Great Workroom. Structure, ceiling and light as one element."
-    },
-    {
-     "y": "1958",
-     "t": "Bürolandschaft",
-     "d": "Quickborner Team. Desks follow communication paths, not hierarchy. The open plan begins."
-    },
-    {
-     "y": "1964",
-     "t": "Action Office 1",
-     "d": "Propst and Nelson. Beautiful, standing-height, unaffordable."
-    },
-    {
-     "y": "1968",
-     "t": "Action Office 2",
-     "d": "120-degree panels. Squared to 90 by the market within a decade."
-    },
-    {
-     "y": "1972",
-     "t": "Centraal Beheer",
-     "d": "Hertzberger. Ninety small rooms inside one big room, left unfinished."
-    },
-    {
-     "y": "1975",
-     "t": "Willis Faber & Dumas",
-     "d": "Foster. Deep plan, free-form glass skin, pool and turf roof."
-    },
-    {
-     "y": "1988",
-     "t": "SAS HQ",
-     "d": "Torp. The internal street. Ancestor of every campus spine since."
-    },
-    {
-     "y": "1994",
-     "t": "Chiat/Day",
-     "d": "Assigned desks abolished. Staff hoard space in car boots. Collapses in three years."
-    },
-    {
-     "y": "1994",
-     "t": "How Buildings Learn",
-     "d": "Brand popularises Duffy’s layers: shell, services, scenery, set."
-    },
-    {
-     "y": "2017",
-     "t": "Bloomberg",
-     "d": "Ceiling as light, cooling, acoustics and identity in one component."
-    },
-    {
-     "y": "2020",
-     "t": "The monopoly ends",
-     "d": "Home becomes viable for focused work. The building has to earn the commute."
-    },
-    {
-     "y": "2026",
-     "t": "Rooms return",
-     "d": "Enclosure, embodied carbon and layered light are the three live arguments."
-    }
-   ],
-   "events": null,
-   "links": null
-  },
-  {
-   "id": "cal-2627",
-   "kind": "calendar",
-   "plate": "cal",
-   "kicker": "Calendar",
-   "t": "What is on, and when",
-   "dek": "Fairs, biennials, prizes and festivals worth planning around — from now to next summer.",
-   "stage": null,
-   "life": null,
-   "short": [
-    "Dates marked confirmed come from the organiser; the rest are the event’s usual window and firm up later.",
-    "Read it as a forecasting instrument: fair floors lead the trade press by roughly eighteen months.",
-    "Milan sets the language in April, Orgatec converts it to workplace product in October."
-   ],
-   "body": "<p>Two things make this list useful rather than decorative. First, the <b>order</b>: Salone sets the domestic and material language in April, Copenhagen supplies the Nordic craft register in June, and Orgatec turns both into specifiable contract product in October. Second, the <b>lag</b>: roughly eighteen months from a fair prototype to something you can put in a schedule, and another year to volume projects.</p>\n  <p>Biennials and prizes work differently. They do not sell anything, so they tell you what the discipline currently believes — which is more useful for a client conversation than any product launch.</p>",
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": [
-    {
-     "date": "2 Jun – 9 Aug 2026",
-     "title": "CASACOR São Paulo",
-     "place": "São Paulo",
-     "why": "39th edition, theme Mente e Coração. The largest interiors show in the Americas and the clearest read on Brazilian material specification. Next edition returns in June.",
-     "confirmed": true
-    },
-    {
-     "date": "28 Aug – 6 Sep 2026",
-     "title": "Helsinki Design Week",
-     "place": "Helsinki",
-     "why": "The largest Nordic design festival. Good early read on Finnish material and colour thinking.",
-     "confirmed": true
-    },
-    {
-     "date": "12 – 20 Sep 2026",
-     "title": "London Design Festival",
-     "place": "London",
-     "why": "24th edition, across ten design districts. The V&A commissions are the part that travels.",
-     "confirmed": true
-    },
-    {
-     "date": "21 – 25 Sep 2026",
-     "title": "Cersaie",
-     "place": "Bologna",
-     "why": "Ceramic surfaces and bathroom. Where large-format porcelain and mineral finishes are actually specified.",
-     "confirmed": true
-    },
-    {
-     "date": "24 Sep 2026",
-     "title": "AJ Retrofit & Reuse Awards",
-     "place": "London",
-     "why": "Winners announced across adaptive reuse, decarbonisation-at-scale and fit-out categories — including office conversions such as Manchester’s Campfield market halls and Wigan’s 1960s civic offices. The prize circuit’s working-budget counterpart to the Stirling and Reinvention shortlists.",
-     "confirmed": true
-    },
-    {
-     "date": "15 Oct 2026",
-     "title": "RIBA Stirling Prize",
-     "place": "London",
-     "why": "Announced at Old Billingsgate, alongside the Stephen Lawrence Prize for small projects and the Reinvention Award for retrofit. This year's Stirling shortlist is dominated by retrofit and careful additions.",
-     "confirmed": true
-    },
-    {
-     "date": "17 – 25 Oct 2026",
-     "title": "Dutch Design Week",
-     "place": "Eindhoven",
-     "why": "26th edition, theme R.A.W. — raw, unpolished, authentic. The most reliable place to see next year’s material arguments early.",
-     "confirmed": true
-    },
-    {
-     "date": "25 Oct 2026",
-     "title": "Serpentine Pavilion closes",
-     "place": "London",
-     "why": "Last chance for LANZA atelier’s single-brick crinkle-crankle wall.",
-     "confirmed": true
-    },
-    {
-     "date": "27 – 30 Oct 2026",
-     "title": "Orgatec",
-     "place": "Cologne",
-     "why": "The biennial contract and workplace fair. If you are specifying an office in 2027, this is the trip that pays for itself.",
-     "confirmed": true
-    },
-    {
-     "date": "22 Nov 2026",
-     "title": "Venice Art Biennale closes",
-     "place": "Venice",
-     "why": "In Minor Keys, Koyo Kouoh’s framework. Quiet, intimate, organised as undercurrents rather than sections.",
-     "confirmed": true
-    },
-    {
-     "date": "1 – 6 Dec 2026",
-     "title": "Design Miami / Miami Art Week",
-     "place": "Miami",
-     "why": "The flagship Miami Beach edition, now dated by the organiser. Collectible design and the top of the price ladder. What appears here reaches contract in about three years.",
-     "confirmed": true
-    },
-    {
-     "date": "14 – 18 Jan 2027",
-     "title": "Maison&Objet",
-     "place": "Paris",
-     "why": "Interiors and lifestyle at volume. Reads the commercial middle of the market better than Milan does.",
-     "confirmed": true
-    },
-    {
-     "date": "9 – 12 Feb 2027",
-     "title": "Stockholm Furniture Fair",
-     "place": "Stockholm",
-     "why": "Skipped February 2026 entirely and relaunches as a biennial — organiser Chicie Lindgren said the break was to “gather strength for 2027.” The Nordic contract register, one step before it is diluted; strong on wood joinery and acoustic textiles.",
-     "confirmed": true
-    },
-    {
-     "date": "13 – 18 Apr 2027",
-     "title": "Salone del Mobile",
-     "place": "Milan",
-     "why": "The 65th edition, and the first with the new Salone Contract platform masterplanned by Rem Koolhaas and David Gianotten / OMA, aimed at a claimed €68bn contract market. Euroluce, the biennial lighting exhibition, also returns.",
-     "confirmed": true
-    },
-    {
-     "date": "8 May – 21 Nov 2027",
-     "title": "Venice Architecture Biennale",
-     "place": "Venice",
-     "why": "Curated by Wang Shu and Lu Wenyu under the theme “Do Architecture — For the Possibility of Coexistence Facing a Real Reality.” The discipline’s statement of what it currently thinks architecture is for.",
-     "confirmed": true
-    },
-    {
-     "date": "25 – 27 May 2027",
-     "title": "Clerkenwell Design Week",
-     "place": "London",
-     "why": "Compact, contract-heavy, walkable. The most efficient two days in the workplace calendar.",
-     "confirmed": true
-    },
-    {
-     "date": "9 – 11 Jun 2027",
-     "title": "3daysofdesign",
-     "place": "Copenhagen",
-     "why": "Showrooms open across the city. Craft, restraint and the material palette the contract market copies next.",
-     "confirmed": true
-    },
-    {
-     "date": "13 – 16 Jun 2027",
-     "title": "NeoCon",
-     "place": "Chicago",
-     "why": "The North American workplace fair, at the Merchandise Mart. Useful counterpoint to European contract thinking.",
-     "confirmed": true
-    }
-   ],
-   "links": [
-    {
-     "t": "Orgatec 2026 — dates and opening hours",
-     "u": "https://www.orgatec.com/trade-fair/orgatec/dates-opening-hours/"
-    },
-    {
-     "t": "London Design Festival",
-     "u": "https://londondesignfestival.com/"
-    },
-    {
-     "t": "Dutch Design Week 2026",
-     "u": "https://www.dezeen.com/eventsguide/2026/10/dutch-design-week-2026/"
-    },
-    {
-     "t": "Salone del Mobile.Milano",
-     "u": "https://www.salonemilano.it/en"
-    }
-   ]
-  },
-  {
-   "id": "r-list",
-   "kind": "refs",
-   "plate": "refs",
-   "kicker": "Reading",
-   "t": "Sources and calendar",
-   "dek": "Where next week’s issue will come from.",
-   "stage": null,
-   "life": null,
-   "short": null,
-   "body": null,
-   "facts": null,
-   "steal": null,
-   "spot": null,
-   "fake": null,
-   "steps": null,
-   "swatches": null,
-   "rows": null,
-   "events": null,
-   "links": [
-    {
-     "t": "Salone del Mobile — Milan, April",
-     "u": "https://www.salonemilano.it/en"
-    },
-    {
-     "t": "Orgatec — Cologne, biennial October",
-     "u": "https://www.orgatec.com/"
-    },
-    {
-     "t": "3daysofdesign — Copenhagen, June",
-     "u": "https://3daysofdesign.dk/"
-    },
-    {
-     "t": "Action Office — background",
-     "u": "https://en.wikipedia.org/wiki/Action_Office"
-    },
-    {
-     "t": "Centraal Beheer — background",
-     "u": "https://en.wikipedia.org/wiki/Centraal_Beheer"
-    },
-    {
-     "t": "Willis Building, Ipswich — background",
-     "u": "https://en.wikipedia.org/wiki/Willis_Building,_Ipswich"
-    },
-    {
-     "t": "Johnson Wax Headquarters — background",
-     "u": "https://en.wikipedia.org/wiki/Johnson_Wax_Headquarters"
-    }
-   ]
-  }
- ],
- "terms": [
-  {
-   "term": "Bürolandschaft",
-   "def": "Office landscape. Postwar German layout method arranging desks along communication paths rather than a grid.",
-   "ex": "Quickborner Team, from 1958. The intellectual origin of the open plan."
-  },
-  {
-   "term": "Action Office",
-   "def": "Herman Miller system by Robert Propst and George Nelson. AO1 1964, AO2 1968.",
-   "ex": "Conceived for mobility and choice; the market squared its 120-degree panels into the cubicle."
-  },
-  {
-   "term": "Shell, services, scenery, set",
-   "def": "Frank Duffy’s layered model of a building by rate of change.",
-   "ex": "Popularised by Stewart Brand in How Buildings Learn, 1994."
-  },
-  {
-   "term": "Hive, cell, den, club",
-   "def": "Duffy’s typology of work settings mapped by autonomy against interaction.",
-   "ex": "Most collaboration briefs are really asking for den and club settings."
-  },
-  {
-   "term": "Churn",
-   "def": "The recurring cost of reconfiguring an occupied workplace.",
-   "ex": "Over a fifty-year life it typically exceeds the original construction cost several times over."
-  },
-  {
-   "term": "Structuralism",
-   "def": "Architecture as an incomplete frame that occupants complete through appropriation.",
-   "ex": "Hertzberger, Centraal Beheer, 1972. Deliberately unfinished workstations."
-  },
-  {
-   "term": "Office street",
-   "def": "A linear internal circulation spine with amenity along it and workspace off it.",
-   "ex": "Niels Torp, SAS headquarters, 1988. Ancestor of the modern campus spine."
-  },
-  {
-   "term": "Embodied carbon",
-   "def": "Emissions from materials, construction, replacement and end of life, excluding operational energy.",
-   "ex": "For a new office it can now exceed whole-life operational carbon."
-  },
-  {
-   "term": "EPD",
-   "def": "Environmental Product Declaration. A verified statement of a product’s environmental impact.",
-   "ex": "Always check the boundary: cradle-to-gate stops at the factory."
-  },
-  {
-   "term": "Mass timber",
-   "def": "Engineered structural timber, principally CLT and glulam.",
-   "ex": "Routine for mid-rise office. Constraints are acoustic separation and insurance, not span."
-  },
-  {
-   "term": "Design for disassembly",
-   "def": "Detailing so components can be recovered intact at end of life.",
-   "ex": "Bolted not welded, mechanical not adhesive, plus a material passport."
-  },
-  {
-   "term": "Adaptive reuse",
-   "def": "Converting existing building stock to new use, retaining structure.",
-   "ex": "The largest single embodied-carbon saving available on most office projects."
-  },
-  {
-   "term": "Polychromie Architecturale",
-   "def": "Le Corbusier’s 1931 colour system, extended 1959, organised into spatial keyboards.",
-   "ex": "Treats colour as a device that advances, recedes or stabilises a plane."
-  },
-  {
-   "term": "Visiona",
-   "def": "Verner Panton’s immersive environments for Bayer, 1968 and 1970.",
-   "ex": "Direct precedent for today’s saturated, continuous-surface interiors."
-  },
-  {
-   "term": "Speech privacy",
-   "def": "The degree to which conversation is unintelligible to neighbouring occupants.",
-   "ex": "A primary planning decision post-2020, not an acoustic finishing item."
-  },
-  {
-   "term": "Hot-desking",
-   "def": "Unassigned desks allocated on arrival or by booking.",
-   "ex": "Chiat/Day, 1994. Fails when displaced people lack reliable alternative settings."
-  },
-  {
-   "term": "Hospitality-fication",
-   "def": "Importing hotel and café codes into workplace to make voluntary attendance worthwhile.",
-   "ex": "Programme decision when done well; theming when done as styling."
-  },
-  {
-   "term": "Orgatec",
-   "def": "Biennial contract workplace fair in Cologne, October.",
-   "ex": "Where Salone’s material language becomes specifiable office product."
-  },
-  {
-   "term": "Salone del Mobile",
-   "def": "Milan furniture fair, April. The industry’s primary language-setting event.",
-   "ex": "Roughly eighteen months lead time to contract-market availability."
-  },
-  {
-   "term": "Acoustic pod",
-   "def": "Freestanding enclosed booth for calls or small meetings.",
-   "ex": "Furniture-scale answer to a planning-scale enclosure problem."
-  },
-  {
-   "term": "Three-sighting rule",
-   "def": "One sighting is a designer, two is coincidence, three across unrelated categories is a trend.",
-   "ex": "Log the dates; the interval between sightings tells you the speed of the cycle."
-  },
-  {
-   "term": "Price ladder",
-   "def": "Gallery, design-led contract, volume contract, airport. Roughly eighteen months per rung.",
-   "ex": "Where you first see something tells you how much runway is left."
-  }
- ]
+  ]
 }
