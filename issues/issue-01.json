@@ -1,5 +1,5 @@
 {
-  "revision": 5,
+  "revision": 6,
   "id": "cool",
   "title": "Coolhunting",
   "sub": "Issue 01 — The Office",
@@ -41,6 +41,108 @@
     "note": "You are designing an office. This issue is assembled around that. Each case study ends with three things worth stealing, each trend ends with the tells that separate the real signal from the copy, and the last piece is a working method you can run yourself next week."
   },
   "items": [
+    {
+      "id": "d-sunkist",
+      "kind": "news",
+      "plate": "reuse",
+      "kicker": "Dispatch · August 2026",
+      "t": "The office-to-housing argument runs through a landmark, too",
+      "dek": "KFA and IMT Residential win historic protection for a 1970s Sunkist headquarters in Los Angeles, then convert the whole brutalist office block into 95 apartments.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "IMT Residential and architecture studio KFA are converting the former Sunkist Growers headquarters — AC Martin's 165,000-square-foot brutalist office building in Los Angeles, now called Citrus Commons — into 95 apartments, reported 25 August 2026.",
+        "The City of Los Angeles designated the building a Historic-Cultural Monument ahead of the conversion, protecting the 1970s concrete fabric while the interior becomes housing, from studio units to three-bedroom apartments built into the podium's mezzanines.",
+        "The project uses Los Angeles's Adaptive Reuse Ordinance — first written by KFA in 1999 and expanded in a 2024 update that widened eligible zones and eased zoning requirements — the same mechanism now converting much of the city's ageing office stock into housing."
+      ],
+      "body": "<p>Every reuse dispatch in this issue so far has argued for keeping a structure while it stays an office, or becomes one — Tuvatèxtil's warehouse, MIT's storage building, German House's 1990s curtain wall all run the same direction. <b>Citrus Commons</b> runs it the other way. AC Martin's Sunkist Growers headquarters was built as a low, deep-plan corporate office with attached laboratory and printing wings; KFA is now landmarking the concrete frame and stripping everything behind it for 95 apartments, with the old labs and print rooms becoming resident amenities. The retrofit argument does not care which use a building keeps — only whether the structure is worth keeping at all.</p><p>The regulatory detail is the more durable story. Los Angeles's Adaptive Reuse Ordinance, which KFA co-authored in 1999 to convert empty downtown office towers into loft housing, was expanded in a 2024 update that widened its eligible zones and eased the parking and light-well requirements that had kept it a downtown-only tool. Citrus Commons is what that expansion looks like applied to a suburban 1970s office park rather than a Beaux-Arts tower: the same policy instrument, a generation later, now working on a completely different building type. “Through adaptive reuse, Citrus Commons demonstrates how reimagined historic buildings can serve future generations while preserving iconic architecture,” IMT Residential said of the scheme.</p><p>The workplace lesson is that the embodied-carbon case for retention is symmetrical: it does not change depending on what the building becomes next. A tenant asking whether to keep an existing office frame is asking the same structural and carbon question as a developer asking whether to convert one into flats. The answer to “is this worth keeping” does not depend on the answer to “keeping it as what.”</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Dezeen — brutalist Sunkist building conversion",
+          "u": "https://www.dezeen.com/2026/08/25/brutalist-sunkist-building-kfa-imf/"
+        },
+        {
+          "t": "BD+C — Sunkist headquarters landmark designation",
+          "u": "https://www.bdcnetwork.com/adaptive-reuse/article/55398119/former-sunkist-corporate-headquarters-in-los-angeles-designated-historic-cultural-monument"
+        }
+      ]
+    },
+    {
+      "id": "d-reinvention",
+      "kind": "news",
+      "plate": "reuse",
+      "kicker": "Dispatch · August 2026",
+      "t": "A fourth reuse prize joins the autumn calendar",
+      "dek": "RIBA shortlists four projects for the Reinvention Award, including a Grade II-listed office restored as a workplace — the same October night now carries three retrofit prizes at once.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "RIBA shortlisted four projects for the 2026 Reinvention Award, which recognises reuse for environmental, social or economic sustainability — announced 5 August 2026, jury chaired by Hugh Broughton.",
+        "The list includes Space House, a Grade II-listed 1960s office block in west London restored as a workplace by Squire & Partners; Edinburgh Futures Institute, a former Victorian hospital converted for research and teaching by Bennetts Associates; and the Buttermarket in Redruth, Cornwall — the same market building shortlisted separately for the Stephen Lawrence Prize.",
+        "The winner is announced 15 October at Old Billingsgate, the same evening as the Stirling Prize and the Stephen Lawrence Prize — RIBA's autumn calendar now runs three reuse-themed prizes off a single ceremony."
+      ],
+      "body": "<p>This is the piece that succeeds this issue's Stirling Prize dispatch, retired this cycle now that its news has aged past the shortlist stage. The <b>Reinvention Award</b> is a separate RIBA track, drawn from this year's RIBA UK Awards winners rather than competing against the Stirling or Stephen Lawrence entries directly — but the Buttermarket's appearance on both this list and the Stephen Lawrence shortlist is worth flagging on its own: one small Cornish market conversion, two different national prizes, which says less about the building's exceptional quality than about how few candidate projects the current reuse pipeline is actually producing at that scale.</p><p>Space House is the entry that matters for this issue specifically. A Grade II-listed 1960s office block restored as a workplace by Squire & Partners sits closer to the everyday brief this issue has been arguing for than Edinburgh Futures Institute's hospital-to-campus conversion or German House's diplomatic tower — it is simply an office, kept as an office, through a listed building consent rather than a change of use. Jury chair Hugh Broughton's citation — “these schemes all demonstrate outstanding environmental, social, and economic sustainability, showing how reusing existing buildings unlocks creative opportunities” — could be read directly onto it.</p><p>The workplace lesson repeats this issue's Stephen Lawrence dispatch almost exactly: a listed 1960s office block restored at Reinvention scale is a more honest benchmark for a real fit-out budget than an institutional headline win, precisely because RIBA itself now runs three separate prizes to cover three separate budget tiers of the same argument.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "RIBA — Reinvention Award 2026 shortlist",
+          "u": "https://www.riba.org/news/uks-leading-building-reuse-projects-shortlisted-for-ribas-reinvention-award-2026/"
+        },
+        {
+          "t": "PBC Today — Reinvention Award shortlist announced",
+          "u": "https://www.pbctoday.co.uk/news/projects/shortlist-announced-for-riba-reinvention-award-2026/164443/"
+        }
+      ]
+    },
+    {
+      "id": "d-kennedycenter",
+      "kind": "news",
+      "plate": "wave",
+      "kicker": "Dispatch · August 2026",
+      "t": "When “unsafe to save” is also a bargaining position",
+      "dek": "The Trump administration tells a federal court it may demolish the Kennedy Center and build a riverside amphitheatre if a contested renovation cannot proceed.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "In an ongoing US court case over renovations to the Kennedy Center, Department of Justice lawyers argued the 1971 Edward Durell Stone building faces a “financial and structural death spiral” and said it could be demolished and replaced with a riverside amphitheatre — reported 27 August 2026.",
+        "Courts have twice blocked the administration's renovation plans this year, including an order over a proposed inscription crediting the current president; the American Institute of Architects is among the parties suing to stop the work.",
+        "No independent structural assessment supporting the demolition claim has been made public; the filing frames the building's condition and its finances as a single compounding problem rather than two separate questions."
+      ],
+      "body": "<p>The <b>Kennedy Center</b> is a federally chartered memorial, not an ordinary office lease, and Edward Durell Stone's 1971 building has never been treated as disposable before now. What changed is not an engineer's report — none has been published — but a court filing, made by the government agency defending its own renovation plan against a lawsuit brought by the American Institute of Architects and others. The claim of a “financial and structural death spiral” and an “unsafe, decrepit structure that will be required to be taken down” arrives as leverage in that case, not as a standalone technical finding.</p><p>Set this beside this issue's Rike Concert Hall dispatch, where a complete building came down because a change of government made it politically toxic, not because it had failed. Both cases share the same structure of argument — a decision made on political grounds, dressed in the language of structural necessity — and both differ from the Mackintosh Building, where two actual fires and a published £35 million repair bill make the case for expense honestly rather than rhetorically. Retrofit arguments only work if “too far gone to save” is a number someone independent produced, and it is worth being able to tell, quickly, which of the three this is.</p><p>The workplace lesson is procedural rather than architectural: when a stakeholder announces a building must come down, the first question is who commissioned the assessment behind that claim and what they stand to gain from the answer. A client-supplied condition report and an independent one are not the same evidence, however similar the language.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Dezeen — Kennedy Center demolition threat",
+          "u": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/"
+        },
+        {
+          "t": "NBC News — Trump administration on Kennedy Center demolition",
+          "u": "https://www.nbcnews.com/politics/trump-administration/trump-administration-says-might-demolish-kennedy-center-court-blocks-r-rcna594350"
+        }
+      ]
+    },
     {
       "id": "d-bevel",
       "kind": "news",
@@ -335,40 +437,6 @@
         {
           "t": "Dezeen — Studio Fuksas's response",
           "u": "https://www.dezeen.com/2026/07/16/studio-fuksas-tbilisi-rike-concert-hall-halt/"
-        }
-      ]
-    },
-    {
-      "id": "d-stirling",
-      "kind": "news",
-      "plate": "reuse",
-      "kicker": "Dispatch · July 2026",
-      "t": "Retrofit takes the shortlist",
-      "dek": "The Stirling Prize turns thirty with a shortlist built around reuse, repair and additions to old fabric.",
-      "stage": null,
-      "life": null,
-      "short": [
-        "Six projects shortlisted for the 2026 RIBA Stirling Prize; winner announced 15 October at Old Billingsgate.",
-        "The list is dominated by adaptive reuse, careful additions to historic institutions, housing and transport-led regeneration.",
-        "For the first time in recent memory most of the shortlist sits outside London."
-      ],
-      "body": "<p>The shortlist includes the conversion of a 1970s theatre into a cultural venue by Bennetts Associates, additions to two Cambridge colleges by Witherford Watson Mann and Haworth Tompkins, a Croydon housing scheme by Mary Duggan Architects with RUFF, Renzo Piano Building Workshop’s Paddington Square, and a house at the edge of Epping Forest by Sergison Bates.</p>\n     <p>Read it as confirmation rather than news. The awards circuit is now systematically rewarding what carbon accounting already required: keep the frame, insert carefully, make the old building better rather than newer. If you are arguing for retrofit on an office project, this shortlist is the reference to put in front of the client.</p>",
-      "facts": null,
-      "steal": null,
-      "spot": null,
-      "fake": null,
-      "steps": null,
-      "swatches": null,
-      "rows": null,
-      "events": null,
-      "links": [
-        {
-          "t": "RIBA — 2026 shortlist",
-          "u": "https://www.riba.org/news/stirling-prize-shortlist-2026"
-        },
-        {
-          "t": "Dezeen — the six projects",
-          "u": "https://www.dezeen.com/2026/07/16/riba-stirling-prize-2026-shortlist/"
         }
       ]
     },
@@ -1097,6 +1165,13 @@
           "confirmed": true
         },
         {
+          "date": "18 – 20 Nov 2026",
+          "title": "World Architecture Festival",
+          "place": "Fort Lauderdale",
+          "why": "The global architecture and interiors awards, judged in person by over 160 jurors across 37 countries. This year's shortlist runs eight Retrofit and eight Creative Re-use entries alongside 11 office-category projects — dates confirmed by the organiser.",
+          "confirmed": true
+        },
+        {
           "date": "22 Nov 2026",
           "title": "Venice Art Biennale closes",
           "place": "Venice",
@@ -1191,6 +1266,10 @@
         {
           "t": "Guggenheim Abu Dhabi — opening announcement",
           "u": "https://www.guggenheim.org/press-release/abu-dhabi-announces-opening-of-guggenheim-abu-dhabi"
+        },
+        {
+          "t": "World Architecture Festival 2026 shortlist",
+          "u": "https://www.archdaily.com/1148633/world-architecture-festival-reveals-the-2026-shortlist"
         }
       ]
     },
