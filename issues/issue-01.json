@@ -1,5 +1,5 @@
 {
-  "revision": 6,
+  "revision": 7,
   "id": "cool",
   "title": "Coolhunting",
   "sub": "Issue 01 — The Office",
@@ -41,6 +41,108 @@
     "note": "You are designing an office. This issue is assembled around that. Each case study ends with three things worth stealing, each trend ends with the tells that separate the real signal from the copy, and the last piece is a working method you can run yourself next week."
   },
   "items": [
+    {
+      "id": "d-oslotriennale",
+      "kind": "news",
+      "plate": "reuse",
+      "kicker": "Dispatch · September 2026",
+      "t": "A landscape architect curates the argument this time",
+      "dek": "The 9th Oslo Architecture Triennale opens inside a reused 19th-century church under the theme “What if Nature Comes First?” — asking whether a building question before the retrofit question.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "The 9th Oslo Architecture Triennale, curated by landscape architect Line Ramstad, opens 17 September and runs to 1 October 2026 — programme announced 24 August, based at Sofienberg Church, a 19th-century building undergoing its own reuse-led transformation.",
+        "The theme, “What if Nature Comes First?”, organises over 30 projects across four scales — Materials, Structures, Territories, Systems — including Pihlmann Architects' conversion of a Copenhagen factory and Carmody Groarke's Gent Waste Brick, made from recycled municipal waste.",
+        "A dedicated “heritage reuse” discussion runs 22 September, and the closing conference is 1 October — a triennial that puts material and ecological sequencing ahead of the finished building, rather than treating nature as a site constraint to design around."
+      ],
+      "body": "<p>Every retrofit dispatch this issue has run the same question: is this specific building worth keeping? Oslo's ninth triennial, curated for the first time by a landscape architect rather than an architect, pushes the question back a step further. <b>“What if Nature Comes First?”</b> does not ask whether to retain a structure — it asks what changes if the site's ecology, materials and existing matter get to set the brief before anyone drafts a wall. Chief curator Line Ramstad's four-scale structure — Materials, Structures, Territories, Systems — reads like <em>g-method</em>'s own advice to \"track material before form\" turned into an exhibition programme rather than a rule of thumb.</p><p>The venue does the arguing on its own. Sofienberg Church, a 19th-century building, is itself mid-transformation using reused materials — so the triennial is not illustrating adaptive reuse from a neutral box, it is physically inside an active example of it. Pihlmann Architects' contribution, a Copenhagen factory turned into new use, sits in the same register as this issue's Tuvatèxtil and Met Warehouse dispatches; Carmody Groarke's Gent Waste Brick — a building material made from a city's own recycled municipal waste — is the sharper new idea, because it relocates the reuse argument from whole buildings down to the brick itself.</p><p>The workplace lesson is the 22 September heritage-reuse session specifically: it is the one session on the programme built for exactly the client conversation this issue keeps returning to, and it lands nine days before the AJ Retrofit & Reuse Awards hand out prizes for doing the same thing at UK office scale.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "ArchDaily — Oslo Architecture Triennale 2026 programme",
+          "u": "https://www.archdaily.com/1183847/oslo-architecture-triennale-2026-announces-programme-for-9th-edition-under-what-if-nature-comes-first"
+        },
+        {
+          "t": "Oslo Architecture Triennale — 2026 edition",
+          "u": "https://www.oslotriennale.no/"
+        }
+      ]
+    },
+    {
+      "id": "d-casacorrio",
+      "kind": "news",
+      "plate": "reuse",
+      "kicker": "Dispatch · September 2026",
+      "t": "The office argument keeps finding new tenants",
+      "dek": "CASACOR's 35th Rio edition leaves the wealthy Zona Sul for the first time and moves into a restored 1957 modernist insurance headquarters in the historic Centro.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "CASACOR Rio de Janeiro's 35th edition opens 15 September and runs to 8 November 2026 inside Edifício Aliança da Bahia, a heritage-listed 1957–61 office tower in Rio's Centro — the show's first move out of the Zona Sul, reported 13 August 2026.",
+        "The building was headquarters for insurance company Aliança da Bahia, designed by Escritório Técnico Ramos de Azevedo in the modernist idiom of glazed façades, metal brise-soleils and travertine — and stands opposite Palácio Gustavo Capanema, Brazil's own founding modernist office building.",
+        "The tower finished a 2.5-year, over R$100-million restoration in 2025 under architect Ruy Rezende before CASACOR moved in; the fair runs the same Mente e Coração theme as its São Paulo edition, one of six simultaneous CASACOR editions running nationally through October."
+      ],
+      "body": "<p>This issue's office-reuse dispatches have mostly been about permanent conversions — Citrus Commons into apartments, Space House back into a workplace, German House reclad but kept as a diplomatic tower. <b>CASACOR Rio</b> is the temporary case: a design fair, not a developer, taking over an office building for eight weeks. Edifício Aliança da Bahia was built in 1957–61 as headquarters for one of Brazil's oldest insurance companies, in the same glazed, sun-shaded modernist language as Palácio Gustavo Capanema across the street — itself one of the buildings that established Brazilian modernism as a national architectural language. CASACOR's 35th Rio edition is the first in the show's history to leave the beachside Zona Sul, where it has run for three decades, for the historic Centro instead.</p><p>The building did the harder work before the fair ever arrived. A 2.5-year, nine-figure-real restoration, completed in 2025 under architect Ruy Rezende, is what made a heritage-listed office tower usable as forty-five temporary show spaces in the first place — the retrofit argument's usual embodied-carbon case, except the eventual tenant is a ten-week exhibition rather than a lease. That asymmetry is the interesting part: keeping the frame is normally argued on decades of amortised carbon savings, and here the payback period is a single autumn season plus whatever the building does after CASACOR leaves.</p><p>The workplace lesson repeats this issue's São Paulo dispatch almost exactly, and that repetition is itself the finding: <em>Mente e Coração</em> is running simultaneously across six Brazilian cities this year, which means it is CASACOR's actual editorial position for 2026, not a one-city curatorial choice — care, repair and restraint as the working theme, delivered this time from inside a restored office block rather than a purpose-built pavilion.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Viva Decora — CASACOR Rio 2026 in a modernist office tower",
+          "u": "https://arquitetura.vivadecora.com.br/casacor-rio-de-janeiro-celebra-35-anos-em-edificio-modernista-no-centro/"
+        },
+        {
+          "t": "Bafafá — Edifício Aliança da Bahia to host CASACOR Rio 2026",
+          "u": "https://bafafa.com.br/mais-coisas/jornal-bafafa/edificio-alianca-da-bahia-sera-sede-da-casacor-rio-2026-ingressos-a-venda"
+        }
+      ]
+    },
+    {
+      "id": "d-ajretrofit",
+      "kind": "news",
+      "plate": "prize",
+      "kicker": "Dispatch · September 2026",
+      "t": "The fourth reuse prize is the one about your actual budget",
+      "dek": "With the AJ Retrofit & Reuse Awards three weeks out, two of the shortlisted office conversions — a Victorian market hall and a 1960s civic block — are the working-budget counterpart to this year's RIBA prize season.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "The AJ Retrofit & Reuse Awards 2026, judged across categories including adaptive reuse, decarbonisation-at-scale, fit-out and grassroots projects, announces winners 24 September 2026 in London; the shortlist was published in stages from 22 July.",
+        "Two office conversions lead the entries this issue would flag: Campfield in Manchester, a pair of Grade II-listed Victorian market halls retrofitted into flexible workspace reusing original floorboards and steelwork, and Wigan's Civic Centre, a 1960s former council office block converted to workspace and already named best refurbished workplace at the BCO Northern Awards 2026.",
+        "The award recognises \"excellence in the adaptation of buildings and the reuse of materials and structures in response to the climate crisis\" — a trade-press prize judged by practitioners, running alongside rather than against RIBA's Stirling, Reinvention and Stephen Lawrence prizes, all decided three weeks later on the same October night."
+      ],
+      "body": "<p>This issue has already tracked RIBA's three reuse prizes converging on one October evening at Old Billingsgate — Stirling at institutional scale, Reinvention for environmental and social sustainability, Stephen Lawrence for early-career, small-budget work. The <b>AJ Retrofit & Reuse Awards</b> is a fourth prize, and it sits outside that ladder entirely: it is judged by the trade press rather than the institute, for projects built to ordinary commercial budgets rather than prize-circuit ones, and it lands three weeks before the RIBA ceremony rather than sharing it.</p><p>Two entries are the ones worth tracking against this issue's own argument. <b>Campfield</b> retrofits a pair of Grade II-listed Victorian market halls in Manchester into a campus of flexible workspace, keeping the original floorboards and steelwork rather than replacing them — the same building-within-a-building logic as this issue's Tuvatèxtil dispatch, at UK civic scale instead of a Catalan warehouse. <b>Wigan's Civic Centre</b> is the more direct case: a 1960s former council office block converted into workspace, already named best refurbished workplace at this year's BCO Northern Awards before the AJ shortlist even landed — the office-to-office conversion this issue's Space House dispatch argued was the more honest workplace benchmark than an institutional headline win.</p><p>The steal is the same one this issue drew from the Stephen Lawrence shortlist: scale-match your precedents. A converted 1960s council building competing for a trade-press retrofit prize, not a nine-figure Stirling entry, is the fairer comparison for most office fit-out budgets — and unlike Stirling, Reinvention or Stephen Lawrence, this is a prize built specifically to reward that tier.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "AJ — Retrofit & Reuse Awards 2026 shortlist, adaptive reuse categories",
+          "u": "https://www.architectsjournal.co.uk/news/aj-retrofit-reuse-awards-2026-shortlist-1-adaptive-reuse-categories"
+        },
+        {
+          "t": "UK Construction News — Civic's four shortlist places",
+          "u": "https://www.construction.co.uk/construction-news/332663/civic-secures-four-shortlist-places-in-aj-retrofit-reuse-awards-2026"
+        }
+      ]
+    },
     {
       "id": "d-sunkist",
       "kind": "news",
@@ -1109,6 +1211,20 @@
           "confirmed": true
         },
         {
+          "date": "15 Sep – 8 Nov 2026",
+          "title": "CASACOR Rio de Janeiro",
+          "place": "Rio de Janeiro",
+          "why": "35th edition, and the first to leave the beachside Zona Sul for the historic Centro — inside Edifício Aliança da Bahia, a heritage-listed 1957–61 modernist insurance headquarters restored at a cost of over R$100 million. Same Mente e Coração theme as São Paulo, one of six CASACOR editions running nationally this autumn.",
+          "confirmed": true
+        },
+        {
+          "date": "17 Sep – 1 Oct 2026",
+          "title": "Oslo Architecture Triennale",
+          "place": "Oslo",
+          "why": "9th edition, “What if Nature Comes First?”, curated by landscape architect Line Ramstad and based inside Sofienberg Church, a reused 19th-century building. A dedicated heritage-reuse discussion runs 22 September — dates confirmed by the organiser.",
+          "confirmed": true
+        },
+        {
           "date": "21 – 25 Sep 2026",
           "title": "Cersaie",
           "place": "Bologna",
@@ -1270,6 +1386,14 @@
         {
           "t": "World Architecture Festival 2026 shortlist",
           "u": "https://www.archdaily.com/1148633/world-architecture-festival-reveals-the-2026-shortlist"
+        },
+        {
+          "t": "Oslo Architecture Triennale — 2026 edition",
+          "u": "https://www.oslotriennale.no/"
+        },
+        {
+          "t": "CASACOR Rio de Janeiro 2026",
+          "u": "https://appcasacor.com.br/events/rio-de-janeiro-2026"
         }
       ]
     },
