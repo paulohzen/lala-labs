@@ -1,5 +1,5 @@
 {
-  "revision": 7,
+  "revision": 8,
   "id": "cool",
   "title": "Coolhunting",
   "sub": "Issue 01 — The Office",
@@ -42,6 +42,100 @@
   },
   "items": [
     {
+      "id": "d-chrysler",
+      "kind": "news",
+      "plate": "reuse",
+      "kicker": "Dispatch · October 2026",
+      "t": "The trophy office gets a 150-year plan, and it is a retrofit",
+      "dek": "Tishman Speyer and its investors take the Chrysler Building on a 150-year ground lease with $235 million for restoration — the top of the office market choosing repair over replacement.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Tishman Speyer and Canadian pension investor PSP Investments agreed a 150-year ground lease on the land under the Chrysler Building, which Cooper Union has owned since 1902; the deal was reported 7–8 October 2026, with $235 million committed to restoration on top of lease payments, financed entirely with equity.",
+        "The scope is restoration and upgrade rather than replacement: the facade and crown restored, at least 75% of the interiors redesigned as move-in-ready offices, building systems modernised, and the 61st floor — site of the art deco gargoyles — turned into an indoor-outdoor amenity space.",
+        "Tishman Speyer bought and renovated the tower in the 1990s and sold it in 2008. The reports name no architect, give no carbon figures and do not disclose the lease price, and Dezeen and IREI describe the transaction differently (lease takeover versus purchase)."
+      ],
+      "body": "<p>This issue has argued that an office is worth keeping when its frame outlasts the use it was built for. The <b>Chrysler Building</b> is the limiting case: a 77-storey landmark at 405 Lexington Avenue, reported this week to have a new long-term operator after the 2024 reporting on its decline under previous owners. The 150-year ground lease is the telling detail — nobody signs a century-and-a-half horizon for a building they plan to replace, and the money is going into the facade, the crown and the interiors rather than into a new floorplate.</p><p>The interior brief is where it meets the workplace argument. At least 75% of the interiors are to be redesigned, and the same share of office space fitted out in advance so tenants can move in quickly. That is the trophy-tier version of the office-as-product logic running through this issue: the landmark supplies the shell and the story, and the real competition is whether the floors inside can match what a new tower delivers. Landmark designations also oblige the owners to keep many of the public spaces, which narrows the redesign to the parts tenants actually use.</p><p>The caution is in what has not been said. There is no published embodied-carbon comparison, no named design team, and no tenant list, so the carbon case for keeping the tower is inferred, not demonstrated. For a project at normal budgets the useful comparison is still the scale-matched one — Wigan and Campfield — not a $235 million restoration of an icon. What Chrysler does change is the conversation with a client who assumes that only the cheap end of the market keeps old buildings.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Dezeen — Chrysler Building set to be restored and overhauled after being sold",
+          "u": "https://www.dezeen.com/2026/10/07/chrysler-building-restoration-plan-tishman-speyer/"
+        },
+        {
+          "t": "IREI — Tishman Speyer to restore Chrysler Building under $235m deal",
+          "u": "https://irei.com/news/tishman-speyer-to-restore-chrysler-building-under-235m-deal/"
+        }
+      ]
+    },
+    {
+      "id": "d-osney",
+      "kind": "news",
+      "plate": "skin",
+      "kicker": "Dispatch · October 2026",
+      "t": "A power station keeps its walls and loses its sheds",
+      "dek": "John McAslan + Partners finishes Oxford’s Osney Power Station as a business-school leadership centre, keeping the brick shell and turbine hall but rebuilding the lightweight sheds on energy-modelling grounds.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "Osney Power Station, opened in 1892 as Oxford’s first electrical power plant, has been reworked by John McAslan + Partners as the Global Leadership Centre for the University of Oxford’s Saïd Business School (reported 8 October 2026), with 120 bedrooms, teaching and meeting spaces, a library, a dining room and a Thames-side terrace.",
+        "Three historic brick facades were restored and the turbine hall kept as a triple-height shared space, with steel trusses, exposed brickwork and a gantry crane retained; the upper levels and turbine sheds were rebuilt and extended, with a new brick wing echoing the original.",
+        "Associate architect Stephen Leccacorvi said energy modelling showed rebuilding the lightweight internal sheds would perform substantially better over the long term than keeping the poorly performing original fabric; the building also gets heat pumps, photovoltaics and improved airtightness. No carbon figures were published."
+      ],
+      "body": "<p>The retrofit argument in this issue is often put as a binary: keep the building or replace it. <b>Osney</b> is a more useful precedent because it refuses the binary in public. The 1892 brick shell and the turbine hall — the parts with mass, craft and character — are kept and restored. The lightweight sheds and upper levels are taken down and rebuilt, and the architects say that was a performance decision, not an aesthetic one: modelling showed the new fabric would beat the old over the long term.</p><p>That is worth reading alongside Oslo’s “what if nature comes first?” brief. If material and site set the brief first, then the question is not only what to retain but which parts of the building earn their keep. Osney answers it by element: heavy masonry stays, thin envelope goes. For an office client, that sorting is the practical form of the method — keep what is expensive to make and cheap to maintain, replace what is neither.</p><p>Two caveats. The performance claim comes from the design team and the published reporting gives no embodied or operational figures, so it cannot yet be checked against the carbon cost of the rebuilt sheds. And this is a residential-style learning centre rather than a floor of open-plan office. The transferable part is the method of itemising the existing building before deciding what to save — a habit more clients should ask for.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Dezeen — John McAslan + Partners revamps Victorian power station for University of Oxford",
+          "u": "https://www.dezeen.com/2026/10/08/global-leadership-centre-university-oxford-john-mcaslan-partners/"
+        }
+      ]
+    },
+    {
+      "id": "d-izpavilion",
+      "kind": "news",
+      "plate": "timber",
+      "kicker": "Dispatch · October 2026",
+      "t": "A pavilion made from the timber nobody ordered",
+      "dek": "In São Paulo, Architects Office builds a 661 m² marketing pavilion from leftover glulam in a fabricator’s stock, joined without screws or metal so it can be taken apart and used again.",
+      "stage": null,
+      "life": null,
+      "short": [
+        "The IZ Pavilion, reported 7 October 2026, sits on a 0.6-acre plot in the Rua Francisco Leitão development in Pinheiros, São Paulo, for developer Idea!Zarvos, and was designed by Architects Office (Greg Bousquet and Rafael Igayara) as a replacement for the conventional sales booth.",
+        "The glulam was surplus stock from Brazilian fabricator Urbem, left over from other projects in assorted dimensions; the design was built around what was already available instead of a fixed form, and the differing sections stay visible.",
+        "Joints use kigumi, a Japanese technique that connects timber without visible screws or metal fittings, shaped with parametric design and CNC fabrication; the structure is designed for disassembly and reuse. The reporting gives no carbon figures."
+      ],
+      "body": "<p>This issue’s timber trend says the aesthetic is downstream of the carbon argument, and its rule of thumb is bolted, not glued: a joint you can undo is a component you can recover. The <b>IZ Pavilion</b> adds a twist. The glulam itself is glued — it is a laminated product — but the structure is assembled with no adhesive and no visible fixings, using kigumi joints that come apart. The glue is in the stock; the reversibility is in the connections.</p><p>The more interesting move is upstream. Instead of specifying timber for a design and ordering it, Architects Office started from the surplus a fabricator already held and designed around it. That is the same inversion Oslo’s triennial proposes at the scale of a site — material first, form second — applied to an off-cut pile. It also gives a marketing pavilion, a building type that is usually thrown away within a year, a plausible second life.</p><p>For an office project the transferable idea is to ask suppliers what they already have before the specification is fixed: every large timber or fit-out supplier has leftover stock, and a design brief that can absorb irregular sections is cheaper to build and easier to defend. The caution is that none of this is quantified yet — there is no published carbon comparison, and disassembly only counts if someone is contracted to take the pavilion down and reuse it.</p>",
+      "facts": null,
+      "steal": null,
+      "spot": null,
+      "fake": null,
+      "steps": null,
+      "swatches": null,
+      "rows": null,
+      "events": null,
+      "links": [
+        {
+          "t": "Dezeen — Architects Office uses mass-timber scrap as “immense jigsaw” for São Paulo pavilion",
+          "u": "https://www.dezeen.com/2026/10/07/architects-office-brazilian-pavilion-glulam-scrap/"
+        }
+      ]
+    },
+    {
       "id": "d-oslotriennale",
       "kind": "news",
       "plate": "reuse",
@@ -55,7 +149,7 @@
         "The theme, “What if Nature Comes First?”, organises over 30 projects across four scales — Materials, Structures, Territories, Systems — including Pihlmann Architects' conversion of a Copenhagen factory and Carmody Groarke's Gent Waste Brick, made from recycled municipal waste.",
         "A dedicated “heritage reuse” discussion runs 22 September, and the closing conference is 1 October — a triennial that puts material and ecological sequencing ahead of the finished building, rather than treating nature as a site constraint to design around."
       ],
-      "body": "<p>Every retrofit dispatch this issue has run the same question: is this specific building worth keeping? Oslo's ninth triennial, curated for the first time by a landscape architect rather than an architect, pushes the question back a step further. <b>“What if Nature Comes First?”</b> does not ask whether to retain a structure — it asks what changes if the site's ecology, materials and existing matter get to set the brief before anyone drafts a wall. Chief curator Line Ramstad's four-scale structure — Materials, Structures, Territories, Systems — reads like <em>g-method</em>'s own advice to \"track material before form\" turned into an exhibition programme rather than a rule of thumb.</p><p>The venue does the arguing on its own. Sofienberg Church, a 19th-century building, is itself mid-transformation using reused materials — so the triennial is not illustrating adaptive reuse from a neutral box, it is physically inside an active example of it. Pihlmann Architects' contribution, a Copenhagen factory turned into new use, sits in the same register as this issue's Tuvatèxtil and Met Warehouse dispatches; Carmody Groarke's Gent Waste Brick — a building material made from a city's own recycled municipal waste — is the sharper new idea, because it relocates the reuse argument from whole buildings down to the brick itself.</p><p>The workplace lesson is the 22 September heritage-reuse session specifically: it is the one session on the programme built for exactly the client conversation this issue keeps returning to, and it lands nine days before the AJ Retrofit & Reuse Awards hand out prizes for doing the same thing at UK office scale.</p>",
+      "body": "<p>Every retrofit dispatch in this issue has run the same question: is this specific building worth keeping? Oslo's ninth triennial, curated for the first time by a landscape architect rather than an architect, pushes the question back a step further. <b>“What if Nature Comes First?”</b> does not ask whether to retain a structure — it asks what changes if the site's ecology, materials and existing matter get to set the brief before anyone drafts a wall. Chief curator Line Ramstad's four-scale structure — Materials, Structures, Territories, Systems — reads like <em>g-method</em>'s own advice to \"track material before form\" turned into an exhibition programme rather than a rule of thumb.</p><p>The venue does the arguing on its own. Sofienberg Church, a 19th-century building, is itself mid-transformation using reused materials — so the triennial is not illustrating adaptive reuse from a neutral box, it is physically inside an active example of it. Pihlmann Architects' contribution, a Copenhagen factory turned into new use, sits in the same register as the season’s other warehouse-to-workplace conversions; Carmody Groarke's Gent Waste Brick — a building material made from a city's own recycled municipal waste — is the sharper new idea, because it relocates the reuse argument from whole buildings down to the brick itself.</p><p>The workplace lesson is the 22 September heritage-reuse session specifically: it is the one session on the programme built for exactly the client conversation this issue keeps returning to, and it lands nine days before the AJ Retrofit & Reuse Awards hand out prizes for doing the same thing at UK office scale.</p>",
       "facts": null,
       "steal": null,
       "spot": null,
@@ -89,7 +183,7 @@
         "The building was headquarters for insurance company Aliança da Bahia, designed by Escritório Técnico Ramos de Azevedo in the modernist idiom of glazed façades, metal brise-soleils and travertine — and stands opposite Palácio Gustavo Capanema, Brazil's own founding modernist office building.",
         "The tower finished a 2.5-year, over R$100-million restoration in 2025 under architect Ruy Rezende before CASACOR moved in; the fair runs the same Mente e Coração theme as its São Paulo edition, one of six simultaneous CASACOR editions running nationally through October."
       ],
-      "body": "<p>This issue's office-reuse dispatches have mostly been about permanent conversions — Citrus Commons into apartments, Space House back into a workplace, German House reclad but kept as a diplomatic tower. <b>CASACOR Rio</b> is the temporary case: a design fair, not a developer, taking over an office building for eight weeks. Edifício Aliança da Bahia was built in 1957–61 as headquarters for one of Brazil's oldest insurance companies, in the same glazed, sun-shaded modernist language as Palácio Gustavo Capanema across the street — itself one of the buildings that established Brazilian modernism as a national architectural language. CASACOR's 35th Rio edition is the first in the show's history to leave the beachside Zona Sul, where it has run for three decades, for the historic Centro instead.</p><p>The building did the harder work before the fair ever arrived. A 2.5-year, nine-figure-real restoration, completed in 2025 under architect Ruy Rezende, is what made a heritage-listed office tower usable as forty-five temporary show spaces in the first place — the retrofit argument's usual embodied-carbon case, except the eventual tenant is a ten-week exhibition rather than a lease. That asymmetry is the interesting part: keeping the frame is normally argued on decades of amortised carbon savings, and here the payback period is a single autumn season plus whatever the building does after CASACOR leaves.</p><p>The workplace lesson repeats this issue's São Paulo dispatch almost exactly, and that repetition is itself the finding: <em>Mente e Coração</em> is running simultaneously across six Brazilian cities this year, which means it is CASACOR's actual editorial position for 2026, not a one-city curatorial choice — care, repair and restraint as the working theme, delivered this time from inside a restored office block rather than a purpose-built pavilion.</p>",
+      "body": "<p>This issue’s office-reuse dispatches have mostly been about permanent conversions — office towers turned into apartments, back into workplaces, or reclad but kept as diplomatic offices. <b>CASACOR Rio</b> is the temporary case: a design fair, not a developer, taking over an office building for eight weeks. Edifício Aliança da Bahia was built in 1957–61 as headquarters for one of Brazil's oldest insurance companies, in the same glazed, sun-shaded modernist language as Palácio Gustavo Capanema across the street — itself one of the buildings that established Brazilian modernism as a national architectural language. CASACOR's 35th Rio edition is the first in the show's history to leave the beachside Zona Sul, where it has run for three decades, for the historic Centro instead.</p><p>The building did the harder work before the fair ever arrived. A 2.5-year, nine-figure-real restoration, completed in 2025 under architect Ruy Rezende, is what made a heritage-listed office tower usable as forty-five temporary show spaces in the first place — the retrofit argument's usual embodied-carbon case, except the eventual tenant is a ten-week exhibition rather than a lease. That asymmetry is the interesting part: keeping the frame is normally argued on decades of amortised carbon savings, and here the payback period is a single autumn season plus whatever the building does after CASACOR leaves.</p><p>The workplace lesson repeats CASACOR São Paulo’s edition (2 June to 9 August) almost exactly, and that repetition is itself the finding: <em>Mente e Coração</em> is running simultaneously across six Brazilian cities this year, which means it is CASACOR's actual editorial position for 2026, not a one-city curatorial choice — care, repair and restraint as the working theme, delivered this time from inside a restored office block rather than a purpose-built pavilion.</p>",
       "facts": null,
       "steal": null,
       "spot": null,
@@ -123,7 +217,7 @@
         "Two office conversions lead the entries this issue would flag: Campfield in Manchester, a pair of Grade II-listed Victorian market halls retrofitted into flexible workspace reusing original floorboards and steelwork, and Wigan's Civic Centre, a 1960s former council office block converted to workspace and already named best refurbished workplace at the BCO Northern Awards 2026.",
         "The award recognises \"excellence in the adaptation of buildings and the reuse of materials and structures in response to the climate crisis\" — a trade-press prize judged by practitioners, running alongside rather than against RIBA's Stirling, Reinvention and Stephen Lawrence prizes, all decided three weeks later on the same October night."
       ],
-      "body": "<p>This issue has already tracked RIBA's three reuse prizes converging on one October evening at Old Billingsgate — Stirling at institutional scale, Reinvention for environmental and social sustainability, Stephen Lawrence for early-career, small-budget work. The <b>AJ Retrofit & Reuse Awards</b> is a fourth prize, and it sits outside that ladder entirely: it is judged by the trade press rather than the institute, for projects built to ordinary commercial budgets rather than prize-circuit ones, and it lands three weeks before the RIBA ceremony rather than sharing it.</p><p>Two entries are the ones worth tracking against this issue's own argument. <b>Campfield</b> retrofits a pair of Grade II-listed Victorian market halls in Manchester into a campus of flexible workspace, keeping the original floorboards and steelwork rather than replacing them — the same building-within-a-building logic as this issue's Tuvatèxtil dispatch, at UK civic scale instead of a Catalan warehouse. <b>Wigan's Civic Centre</b> is the more direct case: a 1960s former council office block converted into workspace, already named best refurbished workplace at this year's BCO Northern Awards before the AJ shortlist even landed — the office-to-office conversion this issue's Space House dispatch argued was the more honest workplace benchmark than an institutional headline win.</p><p>The steal is the same one this issue drew from the Stephen Lawrence shortlist: scale-match your precedents. A converted 1960s council building competing for a trade-press retrofit prize, not a nine-figure Stirling entry, is the fairer comparison for most office fit-out budgets — and unlike Stirling, Reinvention or Stephen Lawrence, this is a prize built specifically to reward that tier.</p>",
+      "body": "<p>RIBA’s three reuse prizes converge on one October evening at Old Billingsgate — Stirling at institutional scale, Reinvention for environmental and social sustainability, Stephen Lawrence for early-career, small-budget work. The <b>AJ Retrofit & Reuse Awards</b> is a fourth prize, and it sits outside that ladder entirely: it is judged by the trade press rather than the institute, for projects built to ordinary commercial budgets rather than prize-circuit ones, and it lands three weeks before the RIBA ceremony rather than sharing it.</p><p>Two entries are the ones worth tracking against this issue's own argument. <b>Campfield</b> retrofits a pair of Grade II-listed Victorian market halls in Manchester into a campus of flexible workspace, keeping the original floorboards and steelwork rather than replacing them — the same building-within-a-building logic as a timber-and-glass office inserted into a Catalan textile warehouse, at UK civic scale. <b>Wigan's Civic Centre</b> is the more direct case: a 1960s former council office block converted into workspace, already named best refurbished workplace at this year's BCO Northern Awards before the AJ shortlist even landed — the office-to-office conversion that is the more honest workplace benchmark than an institutional headline win.</p><p>The steal is the same one the Stephen Lawrence shortlist offers: scale-match your precedents. A converted 1960s council building competing for a trade-press retrofit prize, not a nine-figure Stirling entry, is the fairer comparison for most office fit-out budgets — and unlike Stirling, Reinvention or Stephen Lawrence, this is a prize built specifically to reward that tier.</p>",
       "facts": null,
       "steal": null,
       "spot": null,
@@ -140,405 +234,6 @@
         {
           "t": "UK Construction News — Civic's four shortlist places",
           "u": "https://www.construction.co.uk/construction-news/332663/civic-secures-four-shortlist-places-in-aj-retrofit-reuse-awards-2026"
-        }
-      ]
-    },
-    {
-      "id": "d-sunkist",
-      "kind": "news",
-      "plate": "reuse",
-      "kicker": "Dispatch · August 2026",
-      "t": "The office-to-housing argument runs through a landmark, too",
-      "dek": "KFA and IMT Residential win historic protection for a 1970s Sunkist headquarters in Los Angeles, then convert the whole brutalist office block into 95 apartments.",
-      "stage": null,
-      "life": null,
-      "short": [
-        "IMT Residential and architecture studio KFA are converting the former Sunkist Growers headquarters — AC Martin's 165,000-square-foot brutalist office building in Los Angeles, now called Citrus Commons — into 95 apartments, reported 25 August 2026.",
-        "The City of Los Angeles designated the building a Historic-Cultural Monument ahead of the conversion, protecting the 1970s concrete fabric while the interior becomes housing, from studio units to three-bedroom apartments built into the podium's mezzanines.",
-        "The project uses Los Angeles's Adaptive Reuse Ordinance — first written by KFA in 1999 and expanded in a 2024 update that widened eligible zones and eased zoning requirements — the same mechanism now converting much of the city's ageing office stock into housing."
-      ],
-      "body": "<p>Every reuse dispatch in this issue so far has argued for keeping a structure while it stays an office, or becomes one — Tuvatèxtil's warehouse, MIT's storage building, German House's 1990s curtain wall all run the same direction. <b>Citrus Commons</b> runs it the other way. AC Martin's Sunkist Growers headquarters was built as a low, deep-plan corporate office with attached laboratory and printing wings; KFA is now landmarking the concrete frame and stripping everything behind it for 95 apartments, with the old labs and print rooms becoming resident amenities. The retrofit argument does not care which use a building keeps — only whether the structure is worth keeping at all.</p><p>The regulatory detail is the more durable story. Los Angeles's Adaptive Reuse Ordinance, which KFA co-authored in 1999 to convert empty downtown office towers into loft housing, was expanded in a 2024 update that widened its eligible zones and eased the parking and light-well requirements that had kept it a downtown-only tool. Citrus Commons is what that expansion looks like applied to a suburban 1970s office park rather than a Beaux-Arts tower: the same policy instrument, a generation later, now working on a completely different building type. “Through adaptive reuse, Citrus Commons demonstrates how reimagined historic buildings can serve future generations while preserving iconic architecture,” IMT Residential said of the scheme.</p><p>The workplace lesson is that the embodied-carbon case for retention is symmetrical: it does not change depending on what the building becomes next. A tenant asking whether to keep an existing office frame is asking the same structural and carbon question as a developer asking whether to convert one into flats. The answer to “is this worth keeping” does not depend on the answer to “keeping it as what.”</p>",
-      "facts": null,
-      "steal": null,
-      "spot": null,
-      "fake": null,
-      "steps": null,
-      "swatches": null,
-      "rows": null,
-      "events": null,
-      "links": [
-        {
-          "t": "Dezeen — brutalist Sunkist building conversion",
-          "u": "https://www.dezeen.com/2026/08/25/brutalist-sunkist-building-kfa-imf/"
-        },
-        {
-          "t": "BD+C — Sunkist headquarters landmark designation",
-          "u": "https://www.bdcnetwork.com/adaptive-reuse/article/55398119/former-sunkist-corporate-headquarters-in-los-angeles-designated-historic-cultural-monument"
-        }
-      ]
-    },
-    {
-      "id": "d-reinvention",
-      "kind": "news",
-      "plate": "reuse",
-      "kicker": "Dispatch · August 2026",
-      "t": "A fourth reuse prize joins the autumn calendar",
-      "dek": "RIBA shortlists four projects for the Reinvention Award, including a Grade II-listed office restored as a workplace — the same October night now carries three retrofit prizes at once.",
-      "stage": null,
-      "life": null,
-      "short": [
-        "RIBA shortlisted four projects for the 2026 Reinvention Award, which recognises reuse for environmental, social or economic sustainability — announced 5 August 2026, jury chaired by Hugh Broughton.",
-        "The list includes Space House, a Grade II-listed 1960s office block in west London restored as a workplace by Squire & Partners; Edinburgh Futures Institute, a former Victorian hospital converted for research and teaching by Bennetts Associates; and the Buttermarket in Redruth, Cornwall — the same market building shortlisted separately for the Stephen Lawrence Prize.",
-        "The winner is announced 15 October at Old Billingsgate, the same evening as the Stirling Prize and the Stephen Lawrence Prize — RIBA's autumn calendar now runs three reuse-themed prizes off a single ceremony."
-      ],
-      "body": "<p>This is the piece that succeeds this issue's Stirling Prize dispatch, retired this cycle now that its news has aged past the shortlist stage. The <b>Reinvention Award</b> is a separate RIBA track, drawn from this year's RIBA UK Awards winners rather than competing against the Stirling or Stephen Lawrence entries directly — but the Buttermarket's appearance on both this list and the Stephen Lawrence shortlist is worth flagging on its own: one small Cornish market conversion, two different national prizes, which says less about the building's exceptional quality than about how few candidate projects the current reuse pipeline is actually producing at that scale.</p><p>Space House is the entry that matters for this issue specifically. A Grade II-listed 1960s office block restored as a workplace by Squire & Partners sits closer to the everyday brief this issue has been arguing for than Edinburgh Futures Institute's hospital-to-campus conversion or German House's diplomatic tower — it is simply an office, kept as an office, through a listed building consent rather than a change of use. Jury chair Hugh Broughton's citation — “these schemes all demonstrate outstanding environmental, social, and economic sustainability, showing how reusing existing buildings unlocks creative opportunities” — could be read directly onto it.</p><p>The workplace lesson repeats this issue's Stephen Lawrence dispatch almost exactly: a listed 1960s office block restored at Reinvention scale is a more honest benchmark for a real fit-out budget than an institutional headline win, precisely because RIBA itself now runs three separate prizes to cover three separate budget tiers of the same argument.</p>",
-      "facts": null,
-      "steal": null,
-      "spot": null,
-      "fake": null,
-      "steps": null,
-      "swatches": null,
-      "rows": null,
-      "events": null,
-      "links": [
-        {
-          "t": "RIBA — Reinvention Award 2026 shortlist",
-          "u": "https://www.riba.org/news/uks-leading-building-reuse-projects-shortlisted-for-ribas-reinvention-award-2026/"
-        },
-        {
-          "t": "PBC Today — Reinvention Award shortlist announced",
-          "u": "https://www.pbctoday.co.uk/news/projects/shortlist-announced-for-riba-reinvention-award-2026/164443/"
-        }
-      ]
-    },
-    {
-      "id": "d-kennedycenter",
-      "kind": "news",
-      "plate": "wave",
-      "kicker": "Dispatch · August 2026",
-      "t": "When “unsafe to save” is also a bargaining position",
-      "dek": "The Trump administration tells a federal court it may demolish the Kennedy Center and build a riverside amphitheatre if a contested renovation cannot proceed.",
-      "stage": null,
-      "life": null,
-      "short": [
-        "In an ongoing US court case over renovations to the Kennedy Center, Department of Justice lawyers argued the 1971 Edward Durell Stone building faces a “financial and structural death spiral” and said it could be demolished and replaced with a riverside amphitheatre — reported 27 August 2026.",
-        "Courts have twice blocked the administration's renovation plans this year, including an order over a proposed inscription crediting the current president; the American Institute of Architects is among the parties suing to stop the work.",
-        "No independent structural assessment supporting the demolition claim has been made public; the filing frames the building's condition and its finances as a single compounding problem rather than two separate questions."
-      ],
-      "body": "<p>The <b>Kennedy Center</b> is a federally chartered memorial, not an ordinary office lease, and Edward Durell Stone's 1971 building has never been treated as disposable before now. What changed is not an engineer's report — none has been published — but a court filing, made by the government agency defending its own renovation plan against a lawsuit brought by the American Institute of Architects and others. The claim of a “financial and structural death spiral” and an “unsafe, decrepit structure that will be required to be taken down” arrives as leverage in that case, not as a standalone technical finding.</p><p>Set this beside this issue's Rike Concert Hall dispatch, where a complete building came down because a change of government made it politically toxic, not because it had failed. Both cases share the same structure of argument — a decision made on political grounds, dressed in the language of structural necessity — and both differ from the Mackintosh Building, where two actual fires and a published £35 million repair bill make the case for expense honestly rather than rhetorically. Retrofit arguments only work if “too far gone to save” is a number someone independent produced, and it is worth being able to tell, quickly, which of the three this is.</p><p>The workplace lesson is procedural rather than architectural: when a stakeholder announces a building must come down, the first question is who commissioned the assessment behind that claim and what they stand to gain from the answer. A client-supplied condition report and an independent one are not the same evidence, however similar the language.</p>",
-      "facts": null,
-      "steal": null,
-      "spot": null,
-      "fake": null,
-      "steps": null,
-      "swatches": null,
-      "rows": null,
-      "events": null,
-      "links": [
-        {
-          "t": "Dezeen — Kennedy Center demolition threat",
-          "u": "https://www.dezeen.com/2026/08/27/demolish-kennedy-center-financial-structural-death-spiral/"
-        },
-        {
-          "t": "NBC News — Trump administration on Kennedy Center demolition",
-          "u": "https://www.nbcnews.com/politics/trump-administration/trump-administration-says-might-demolish-kennedy-center-court-blocks-r-rcna594350"
-        }
-      ]
-    },
-    {
-      "id": "d-bevel",
-      "kind": "news",
-      "plate": "timber",
-      "kicker": "Dispatch · August 2026",
-      "t": "A code written for housing, bent for an office floor",
-      "dek": "Bevel, Waugh Thistleton's first completed US building, wins approval to leave every office ceiling in exposed timber — a limit the code had only tested on apartments.",
-      "stage": null,
-      "life": null,
-      "short": [
-        "Waugh Thistleton Architects, working with Mithun for developer Skanska, is building Bevel: a 12-storey, 55-metre mass-timber office tower in Bellevue, Washington — reported 17 August 2026, the practice's first completed US project.",
-        "The design secured sign-off for exposed mass-timber ceilings across the whole floor plate, under a Washington code that otherwise caps commercial ceiling exposure at 20 percent — a Type IVB path proven on housing and student residences, now tested on office space, confirmed 23 August 2026.",
-        "Skanska and structural engineer Holmes are targeting roughly 49 percent less embodied carbon than a conventional structure; WoodWorks counts Bevel among only three commercial buildings out of 22 tall-timber projects built or under way in the US."
-      ],
-      "body": "<p>Twelve storeys and 205,000 square feet is not, by itself, remarkable — plenty of mass-timber apartment buildings clear that bar already. What makes <b>Bevel</b> a milestone is a single number in the fire code: Washington's 2021 edition permits exposed mass-timber ceilings on only 20 percent of a floor's area in Type IVB construction. Waugh Thistleton and Mithun designed every office floor with the ceiling fully exposed, then spent what the practice calls “a great deal of work” getting the full 100 percent approved. It is the first time that path has been tested on a commercial office building rather than housing or student residences — of 22 tall-timber buildings built or under construction in the US, WoodWorks counts only three as commercial.</p><p>The reason it is harder for offices is structural, not decorative. Open floor plates, longer spans and the sightlines a workplace tenant expects all push against the char-rate calculations that let a code official sign off on leaving timber uncovered. Getting there on a leasable office floor, rather than a row of identical apartments, is the harder engineering problem — which is exactly why it counts as precedent rather than novelty.</p><p>Put this beside this issue's timber trend: bolted, not glued, connections chosen so the frame can be taken apart and reused rather than demolished. Bevel adds the other half of that argument — the ceiling you leave exposed is embodied carbon you are not hiding behind gypsum board, and the 49 percent reduction Skanska is targeting only works if the wood stays visible. Mithun partner Craig Curtis makes the commercial case as plainly as the sustainability one: the mass-timber structure produced more open floor plates and better daylight connectivity than a conventional frame, at claimed cost parity. “Timber is ready to take its place at the forefront of American architecture,” says Waugh Thistleton co-founder Andrew Waugh — a claim that has been made before, but rarely with a code approval to back it.</p>",
-      "facts": null,
-      "steal": null,
-      "spot": null,
-      "fake": null,
-      "steps": null,
-      "swatches": null,
-      "rows": null,
-      "events": null,
-      "links": [
-        {
-          "t": "Dezeen — tallest mass-timber office building",
-          "u": "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/"
-        },
-        {
-          "t": "Wood Central — the Type IVB precedent",
-          "u": "https://woodcentral.com.au/bevel-type-ivb-mass-timber-office/"
-        }
-      ]
-    },
-    {
-      "id": "d-cieldubai",
-      "kind": "news",
-      "plate": "skin",
-      "kicker": "Dispatch · August 2026",
-      "t": "The world's tallest hotel opens, built from nothing",
-      "dek": "Ciel Dubai Marina reaches 377 metres and 82 storeys of entirely new construction — the same week this issue has been arguing for keeping the frame.",
-      "stage": null,
-      "life": null,
-      "short": [
-        "NORR's Ciel Dubai Marina, operated by IHG's Vignette Collection, is now the world's tallest hotel-only building at 377 metres and 82 storeys, surpassing the 356-metre Gevora Hotel — photographs released 21 August 2026.",
-        "A tapering, cold-bent glass tower is cut through by a 300-metre atrium of stacked sky gardens and a “needle's-eye” opening at the 76th floor holding an infinity pool and public observation deck.",
-        "All 1,004 rooms, eight restaurants and the spa were built on a site with no existing structure to retain — the inverse of the adaptive-reuse argument running through the rest of this issue."
-      ],
-      "body": "<p>Put the number first: <b>377 metres</b>, entirely new, to take a height record from a hotel that opened only in 2021. Ciel Dubai Marina's real design move is the void running through it — a 300-metre atrium lined with landscaped sky gardens, naturally ventilated terraces climbing the full height of the tower, and a gap in the upper floors, the “needle's eye,” that holds a 76th-floor infinity pool and a publicly accessible observation deck. Project lead Yahya Jan describes the brief as an “answer to vertical living” — daylit communal voids inserted into a supertall hotel.</p><p>It is worth sitting with the contrast rather than rushing past it. This issue has spent itself on the opposite argument: a timber volume inside a kept warehouse shell, a reclad tower, a storage warehouse reopened as a school, a prize shortlist built almost entirely from retrofit. Ciel is what the industry still builds when there is no existing frame to argue for keeping — and no client asking it to. Nothing published alongside the record disclosed an embodied-carbon figure, which is itself a kind of data point: height and room count are the metrics a supertall hotel is built to publish, not the ones this issue has been tracking.</p><p>Read it as ballast rather than contradiction. The retrofit argument wins prizes and planning policy where material and demolition costs make it the economic choice. Dubai's hospitality market is not optimising for the same variable — a room in the world's tallest hotel sells on the record, and the record only exists because nothing was kept. Both are rational responses to different incentives, which is a more useful thing to tell a client than either argument alone.</p>",
-      "facts": null,
-      "steal": null,
-      "spot": null,
-      "fake": null,
-      "steps": null,
-      "swatches": null,
-      "rows": null,
-      "events": null,
-      "links": [
-        {
-          "t": "Dezeen — photos of the world's tallest hotel",
-          "u": "https://www.dezeen.com/2026/08/21/ciel-dubai-marina-worlds-tallest-hotel/"
-        },
-        {
-          "t": "IHG — Ciel Dubai Marina debuts",
-          "u": "https://www.ihgplc.com/en/news-and-media/news-releases/2025/ciel-dubai-marina-vignette-collection-debuts-as-the-worlds-tallest-hotel"
-        }
-      ]
-    },
-    {
-      "id": "d-tuvatextil",
-      "kind": "news",
-      "plate": "timber",
-      "kicker": "Dispatch · August 2026",
-      "t": "The building-within-a-building, in timber",
-      "dek": "NUA Arquitectures inserts a timber-and-glass office inside a disused Catalan textile warehouse, and reuses the argument along with the shell.",
-      "stage": null,
-      "life": null,
-      "short": [
-        "NUA Arquitectures completed a new office for Tuvatèxtil inside a former textile warehouse in El Pont d'Armentera, near Barcelona — published 16 August 2026.",
-        "A two-storey timber-and-glass volume sits inside the retained concrete-and-brick warehouse shell, described by the studio as “adaptive retention and radical reuse.”",
-        "External insulation and new skylights upgrade the existing fabric; timber partitions and ceramic finishes, not new structure, do the work of rehabilitation."
-      ],
-      "body": "<p>El Pont d'Armentera once had twelve textile factories; Tuvatèxtil is one of the last still operating. Rather than build a new head office, the company asked NUA Arquitectures to insert one inside the existing shed — a two-storey <b>timber-and-glass volume</b> standing free within the retained concrete-and-brick warehouse, with a timber-framed balcony overlooking the original floor. The studio's own description, “adaptive retention and radical reuse,” is doing real work: the retention is structural and unglamorous, the radicalism is confined to what gets inserted.</p><p>It is Centraal Beheer's idea at industrial scale and in a different material. Hertzberger built ninety small concrete rooms inside one big room in 1972; NUA builds one large timber room inside one big shed in 2026. Both refuse the choice between cellular and open, and both make the <em>frame</em> the thing that stays fixed while the insertion does the work of accommodating an actual company. The difference is what is now driving the material choice — not a structuralist theory of appropriation, but the same embodied-carbon accounting running through this issue's timber trend: keep the heavy, high-carbon shell, spend the new material budget on the light, bolted-together part.</p><p>Put it next to the Stephen Lawrence Prize dispatch's scale-matching argument. Retrofit case studies get pitched with a listed art school or a Cambridge college, which makes reuse look like an institutional-budget move. A working textile warehouse turned into an office for one tenant, with no heritage listing and no prize campaign behind it, is the more honest precedent for most commercial fit-outs — and there are far more buildings like it than there are Mackintosh Buildings.</p><p>The transferable point for a workplace project is sequencing, not vocabulary: insulate and re-skin the existing envelope first, then build the smaller, lighter, reconfigurable room inside it. The envelope is the expensive, hard-to-change part and should be touched once. The insertion is the part a tenant will want to change again in five years, and timber-and-bolts is what makes that affordable when they do.</p>",
-      "facts": null,
-      "steal": null,
-      "spot": null,
-      "fake": null,
-      "steps": null,
-      "swatches": null,
-      "rows": null,
-      "events": null,
-      "links": [
-        {
-          "t": "Dezeen — the Tuvatèxtil office",
-          "u": "https://www.dezeen.com/2026/08/16/nua-arquitectures-tuvatextil-office/"
-        }
-      ]
-    },
-    {
-      "id": "d-germanhouse",
-      "kind": "news",
-      "plate": "skin",
-      "kicker": "Dispatch · August 2026",
-      "t": "The tower stays, the skin changes",
-      "dek": "Sauerbruch Hutton and Studio Gang win the competition to renovate Germany's UN-adjacent office tower — colour, photovoltaics and a vertical garden, on a structure nobody is replacing.",
-      "stage": null,
-      "life": null,
-      "short": [
-        "Sauerbruch Hutton — in its first US project — and Studio Gang won the competition to redesign German House, the 325-foot 1990s tower housing Germany's UN mission and consulate in Manhattan, announced 13 August 2026.",
-        "The scheme reclads the grey 1990s facade in bands of colour with integrated photovoltaic panels, adds a sky lobby with a vertical garden and an upper-floor restaurant, and keeps the existing structure rather than replacing it.",
-        "Sauerbruch Hutton partner Lina Lahiri: the tower is adapted “through careful transformation rather than replacement... extending the life of the building for decades to come.”"
-      ],
-      "body": "<p>German House is a 325-foot office tower from the 1990s, unlisted, unremarkable, and still fully in use as the headquarters of Germany's UN mission and consulate. That ordinariness is the point. Next to it in this issue sit Tbilisi's Rike Concert Hall, demolished despite a complete structure because the client who owned the decision had no stake in what a previous government built, and the Mackintosh Building, a listed shell needing £35 million it does not have. German House is neither a political casualty nor a heritage cause — it is a working office building whose owner simply decided modernising costs less than replacing, which is the case the retrofit argument is actually built to make and rarely gets to make in public.</p><p>The design answer is a new <b>skin</b>: bands of colour and photovoltaic glass over the existing grey curtain wall, plus a box-window system for solar shading and natural ventilation. Willis Faber & Dumas made the case fifty years ago that a building can be two different objects depending on the hour, mirror by day and transparent by night; German House proposes something closer, a building whose surface generates the power it uses while still reading as an address. The interior move — a sky lobby with a vertical garden at mid-tower, a restaurant opening onto a shaded roof garden — is the same amenity-in-the-core idea Willis Faber used a swimming pool for, updated into the hospitality-fication this issue's lighting trend describes: the office earning attendance rather than assuming it.</p><p>For a workplace project the transferable lesson is the least dramatic form of the retrofit argument, and the most common one. Most reuse decisions are not a competition win or a heritage campaign; they are a facade nobody will write an article about and a carbon spreadsheet that came out in the structure's favour. That is the case worth having ready before the client asks why they shouldn't just start over.</p>",
-      "facts": null,
-      "steal": null,
-      "spot": null,
-      "fake": null,
-      "steps": null,
-      "swatches": null,
-      "rows": null,
-      "events": null,
-      "links": [
-        {
-          "t": "Dezeen — Sauerbruch Hutton and Studio Gang win",
-          "u": "https://www.dezeen.com/2026/08/13/sauerbruch-hutton-studio-gang-german-house-revamp-new-york/"
-        },
-        {
-          "t": "The Architect's Newspaper — the competition",
-          "u": "https://www.archpaper.com/2026/08/sauerbruch-hutton-studio-gang-german-house/"
-        }
-      ]
-    },
-    {
-      "id": "d-metwarehouse",
-      "kind": "news",
-      "plate": "reuse",
-      "kicker": "Dispatch · August 2026",
-      "t": "The building teaching reuse is itself reused",
-      "dek": "Diller Scofidio + Renfro turns a century-old Boston storage warehouse into MIT's School of Architecture and Planning — the pedagogy and the building make the same argument.",
-      "stage": null,
-      "life": null,
-      "short": [
-        "MIT's Metropolitan Storage Warehouse (built 1894–1923, retired since 2015) reopened 12 August 2026 as the School of Architecture and Planning, renovated by Diller Scofidio + Renfro.",
-        "Five storeys, over 500 feet long: four new glass-wall insertions bring daylight into a building that had almost none, alongside suspended platform studios built within the original masonry and steel.",
-        "DS+R partner Benjamin Gilmartin: the move represents “a bold vision... that the future of design and architecture very much lives in the reuse.”"
-      ],
-      "body": "<p>The Metropolitan Storage Warehouse held roughly 1,500 storage units from the 1890s until MIT retired it in 2015 — five brick storeys, over 500 feet long, built to keep light out rather than let it in. Diller Scofidio + Renfro's renovation cuts four glass-wall segments through that mass and suspends platform studios within the existing masonry and steel, leaving original brick exposed where old and new construction meet. What moved in is MIT's own School of Architecture and Planning, which makes the building's argument circular in a useful way: an institution that teaches design chose, for its own home, to keep the frame rather than commission something new.</p><p>Compare the daylight problem to Johnson Wax's Great Workroom, which solved windowlessness by manufacturing its own light through a lit ceiling of Pyrex tubing — an inward building that borrows nothing from a view. The Met Warehouse solves the same problem in the opposite direction, cutting apertures into a solid mass rather than building light into a new structure from scratch. Both are top-down answers to a building with no natural view to offer; which one is available depends entirely on whether you are pouring a new roof or working with a hundred-year-old one.</p><p>The suspended studios are the other half of the argument, and it is Action Office's half: a kit of platforms and walkways built inside a fixed shell, sized to be reconfigured as the school's programme changes, rather than a bespoke fit-out poured into the masonry. Robert Propst's lesson was that a kit of parts survives churn better than a composition; DS+R applied it to an entire faculty rather than a desk.</p><p>The steal for a workplace project is less about the architecture than about the argument's source. A client is rarely persuaded by a spreadsheet alone. An institution that had every resource to build new, and chose instead to gut and relight a warehouse for the department that will spend the next fifty years teaching students how to make that same case to their own future clients, is a harder argument to wave away.</p>",
-      "facts": null,
-      "steal": null,
-      "spot": null,
-      "fake": null,
-      "steps": null,
-      "swatches": null,
-      "rows": null,
-      "events": null,
-      "links": [
-        {
-          "t": "MIT News — Met Warehouse opens",
-          "u": "https://news.mit.edu/2026/met-warehouse-opens-new-home-mit-school-architecture-planning-0812"
-        },
-        {
-          "t": "The Architect's Newspaper — DS+R opens the new home for architecture at MIT",
-          "u": "https://www.archpaper.com/2026/08/diller-scofidio-renfro-mit/"
-        }
-      ]
-    },
-    {
-      "id": "d-casacor",
-      "kind": "news",
-      "plate": "rooms",
-      "kicker": "Dispatch · June–August 2026",
-      "t": "CASACOR turns inward",
-      "dek": "The 39th São Paulo edition closed on 9 August under the theme Mente e Coração — the house as a place of repair.",
-      "short": [
-        "39th CASACOR São Paulo: 2 June to 9 August 2026, at Parque da Água Branca for the second year running.",
-        "Theme Mente e Coração — the home as a space of care and self-repair, set against information overload and anxiety about AI.",
-        "10,161 m² across 67 environments, with an international cast including Edward van Vliet, Michele Wharton and Eduardo Baldelomar."
-      ],
-      "body": "<p>Read CASACOR for what it is and it becomes extremely useful. It is not architecture and it does not pretend to be: it is a show house, brands fund the environments, and the work is built to be seen for ten weeks and dismantled. That makes it the single best read on <b>which finishes are about to be specified across Brazil</b>, and a poor guide to how anyone actually lives.</p><p>This year's theme is the part worth carrying into a meeting. The curatorial council framed <em>Mente e Coração</em> as the house as sacred territory in the search for balance — a direct response to information overload and to the anxiety that arrived with AI. The framing comes out of CASACOR's own annual macrotrends research, which is to say it is a market read, not a poetic one.</p><p>Now put it beside two things in this issue. Venice is running on <em>In Minor Keys</em>: quiet, listening, low frequency. The workplace argument has moved to enclosure, acoustic comfort and rooms you can think in. Three institutions with nothing in common — a Brazilian trade show, an art biennial, and the office market — arrived at repair and restraint in the same year. <b>That is the three-sighting rule doing exactly what it is for.</b></p><p>The quietly radical part, though, is the landscaping brief. No intervention in the protected trees. Planting in pots resting on the soil rather than in it. No toxic or thorny species. Exterior lighting held to parameters that protect wildlife. A show that once built whatever it wanted now works reversibly inside heritage — the same argument as the retrofit-heavy Stirling shortlist, arriving from a completely different direction.</p>",
-      "steal": [
-        "Reversibility as a visible discipline: pots resting on soil, nothing fixed to protected fabric. It is design for disassembly in show-house form, and it reads as care rather than as restriction.",
-        "“Repair” is the client-facing word for what the workplace calls focus and acoustic comfort. If you are arguing for enclosed rooms to a non-technical client, this is the vocabulary that lands.",
-        "Watch the sponsor list, not the environments. Deca, Duratex, Portinari and Coral are deciding which surfaces get specified across Brazil for the next two years."
-      ],
-      "links": [
-        {
-          "t": "CASACOR São Paulo 2026",
-          "u": "https://appcasacor.com.br/events/sao-paulo-2026"
-        },
-        {
-          "t": "Casa e Mercado — cast and numbers",
-          "u": "https://casaemercado.com.br/casacor-2026/"
-        }
-      ]
-    },
-    {
-      "id": "d-lawrence",
-      "kind": "news",
-      "plate": "prize",
-      "kicker": "Dispatch · August 2026",
-      "t": "The reuse prize gets smaller and better",
-      "dek": "RIBA's six-project shortlist for the 2026 Stephen Lawrence Prize is entirely adaptive reuse, at a fraction of Stirling's budgets.",
-      "stage": null,
-      "life": null,
-      "short": [
-        "Six early-career-led projects were shortlisted for the 2026 RIBA Stephen Lawrence Prize, announced 4 August 2026 and chaired by Matthew Goldschmied.",
-        "Every project is a conversion: a department store, urban stables, a neglected orchard, a Cornish butter market and a listed walled garden.",
-        "The winner is announced 15 October at Old Billingsgate — the same night as the Stirling Prize and the Reinvention Award."
-      ],
-      "body": "<p>RIBA's Stephen Lawrence Prize sits under a tight construction-budget ceiling, and the 2026 shortlist — six projects, chaired by Matthew Goldschmied — is entirely conversion work: a former department store turned mixed commercial space in south-west London, urban stables reclaimed for a disabled riding association, a neglected Hertfordshire orchard turned into a communal barn, a Redruth butter market reopened as a vendors' hub, and a listed walled garden at Auckland Castle revived as a wellbeing space. Goldschmied's citation praises \"community connection, regeneration, education, and ecological sensitivity.\"</p><p>Put it next to the Stirling shortlist, announced three weeks earlier and dominated by the same instinct at institutional scale, and both are handed out the same night — 15 October, Old Billingsgate. RIBA's autumn calendar is now structured around reuse at every budget tier: a converted theatre or a Cambridge college addition at Stirling scale, a butter market or a set of stables at Stephen Lawrence scale. The small-project list is the more useful one for most fit-outs, because it is evidence that the \"keep the frame\" argument does not require an institutional client or a nine-figure budget to work — it requires a building nobody else wanted and a modest, well-detailed insertion.</p><p>The steal for an office project is scale-matching: retrofit case studies get pitched with Bloomberg- or Stirling-sized precedents, which makes reuse look like something only a large client budget can attempt. A converted stable block is the more honest comparison for most workplace fit-out arguments than a listed institution ever is.</p>",
-      "facts": null,
-      "steal": null,
-      "spot": null,
-      "fake": null,
-      "steps": null,
-      "swatches": null,
-      "rows": null,
-      "events": null,
-      "links": [
-        {
-          "t": "PBC Today — the shortlist",
-          "u": "https://www.pbctoday.co.uk/news/planning-construction-news/riba-stephen-lawrence-prize-2026-shortlist-revealed/164382"
-        },
-        {
-          "t": "Bustler — the six projects",
-          "u": "https://bustler.net/news/11091/six-projects-by-early-career-architects-shortlisted-for-2026-stephen-lawrence-prize"
-        }
-      ]
-    },
-    {
-      "id": "d-mackintosh",
-      "kind": "news",
-      "plate": "reuse",
-      "kicker": "Dispatch · August 2026",
-      "t": "Who pays to keep the frame",
-      "dek": "A petition to rebuild Charles Rennie Mackintosh's fire-gutted art school reopens the question the retrofit argument keeps skipping.",
-      "stage": null,
-      "life": null,
-      "short": [
-        "Architect Ruairidh Moir launched a petition on 3 August 2026 calling for the fire-damaged Mackintosh Building to pass to an independent body for \"faithful restoration,\" leased back to Glasgow School of Art.",
-        "The school says it cannot afford to rebuild alone, after fires in 2014 and a far more destructive one in 2018 — midway through a £35 million restoration — gutted the building.",
-        "The petition passed 5,000 signatures within a week of launch, on the way to a 100,000 target that would trigger delivery to the Scottish and UK governments and the GSA board."
-      ],
-      "body": "<p>Glasgow School of Art's Mackintosh Building burned twice: a contained fire in 2014, then a far more destructive one in 2018, midway through a £35 million restoration that was meant to fix the first. The school has now said it cannot rebuild without money it does not have. On 3 August, Glasgow architect Ruairidh Moir launched a petition asking for ownership to move to an independent body tasked with \"faithful restoration,\" with the finished building leased back to the school, and for the Scottish and UK governments to fund it. \"We owe it to Charles Rennie Mackintosh,\" he said. The petition needs 100,000 signatures before it is delivered to government and the GSA board; it passed 5,000 within the week.</p><p>This is the same \"keep the frame\" argument running through the Stirling shortlist and the Mies Award's 21 regeneration entries, pushed to its hard edge. Those prizes reward retaining a structure that is still standing and still working. The Mackintosh Building is neither — it is a listed shell that has already cost £35 million once and needs to again, with no operating asset to offset the spend. Retrofit rhetoric rarely prices this case: the point at which \"the existing structure is the lower-carbon, lower-cost option\" stops being true, and reuse becomes a straightforward act of public subsidy for heritage, argued on cultural grounds because the financial ones no longer apply cleanly.</p><p>The workplace lesson is to separate the two arguments even when they usually travel together. Carbon and cost justify retention on a healthy building. Culture and identity justify it on a damaged one. Knowing which case you are actually making decides who you ask to pay for it.</p>",
-      "facts": null,
-      "steal": null,
-      "spot": null,
-      "fake": null,
-      "steps": null,
-      "swatches": null,
-      "rows": null,
-      "events": null,
-      "links": [
-        {
-          "t": "Dezeen — the campaign",
-          "u": "https://www.dezeen.com/2026/08/03/glasgow-school-of-art-campaign/"
-        },
-        {
-          "t": "Dezeen — GSA \"cannot rebuild alone\"",
-          "u": "https://www.dezeen.com/2026/07/23/glasgow-school-of-art-mackintosh-rebuild/"
-        }
-      ]
-    },
-    {
-      "id": "d-rike",
-      "kind": "news",
-      "plate": "wave",
-      "kicker": "Dispatch · August 2026",
-      "t": "Tbilisi demolishes a building it never opened",
-      "dek": "Studio Fuksas's scale-clad concert hall is coming down after fourteen years empty — proof that the retrofit argument still loses to politics.",
-      "stage": null,
-      "life": null,
-      "short": [
-        "Demolition of Studio Fuksas's Rike Concert Hall began in late July 2026, after Tbilisi city hall issued a permit less than two weeks earlier.",
-        "The tube-shaped hall, wrapped in scale-like stainless-steel panels, was structurally complete by 2012 but never fitted out — a change of government made it politically toxic.",
-        "Studio Fuksas says it repeatedly offered to help repurpose the building and received no response; the firm calls the demolition \"a significant cultural setback.\""
-      ],
-      "body": "<p>The Rike Concert Hall was structurally complete by 2012: two tube-shaped volumes in the middle of Tbilisi's riverside park, wrapped in <b>square stainless-steel panels that read as scales</b>. It never received an interior. The government that commissioned it lost power that same year, the project became identified with the previous administration's urban agenda, and the building sat sealed for fourteen years. In 2025 the site passed to a new owner, Makro Constructions; a demolition permit followed from Tbilisi city hall in July 2026, and cladding removal started within the fortnight.</p><p>Studio Fuksas says it repeatedly offered to help repurpose the building and got no reply, and calls the demolition \"a significant cultural setback.\" Read that against everything else reuse-themed in this issue — the Stirling shortlist rewarding retained frames, CASACOR's reversible landscaping, the Mies Award's 21 regeneration entries against 17 new builds — and the gap is the point. <em>The retrofit argument is a carbon and cost argument. It is not, on its own, a political one.</em> A complete concrete-and-steel structure with a fourteen-year head start on embodied-carbon accounting is coming down anyway, because the client who owns the decision has no stake in what the last government built.</p><p>For a workplace project the transferable caution is about ownership, not material. Keep-the-frame arguments hold only as long as whoever holds the building agrees to want it. Model the loudest counterargument to your reuse case before the client meeting — \"the numbers favour retention\" has never yet been the deciding sentence on a demolition permit.</p>",
-      "facts": null,
-      "steal": null,
-      "spot": null,
-      "fake": null,
-      "steps": null,
-      "swatches": null,
-      "rows": null,
-      "events": null,
-      "links": [
-        {
-          "t": "Dezeen — demolition underway",
-          "u": "https://www.dezeen.com/2026/08/03/rike-concert-hall-demolition-tbilisi-studio-fuksas/"
-        },
-        {
-          "t": "Dezeen — Studio Fuksas's response",
-          "u": "https://www.dezeen.com/2026/07/16/studio-fuksas-tbilisi-rike-concert-hall-halt/"
         }
       ]
     },
@@ -1274,6 +969,13 @@
           "confirmed": true
         },
         {
+          "date": "Nov 2026 (day TBC)",
+          "title": "Zaha Hadid Foundation opens at Bowling Green Lane",
+          "place": "London",
+          "why": "The Foundation’s public arts venue in the Grade II-listed Victorian school that housed Hadid’s studio for 30-plus years, refurbished by Studio KA; opens with a two-day symposium with the AA and Serpentine marking ten years since her death. Month reported by Dezeen — no exact day published yet.",
+          "confirmed": false
+        },
+        {
           "date": "14 Nov 2026 – 14 Apr 2027",
           "title": "Sharjah Architecture Triennial",
           "place": "Sharjah",
@@ -1394,6 +1096,10 @@
         {
           "t": "CASACOR Rio de Janeiro 2026",
           "u": "https://appcasacor.com.br/events/rio-de-janeiro-2026"
+        },
+        {
+          "t": "Dezeen — Former Zaha Hadid headquarters to open as public arts venue",
+          "u": "https://www.dezeen.com/2026/10/08/zaha-hadid-foundation-cultural-hub-london/"
         }
       ]
     },
