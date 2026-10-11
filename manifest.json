@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "coolhunting": {
+    "revision": 8,
+    "issue": "01",
+    "title": "The Office",
+    "date": "August 2026",
+    "path": "issues/issue-01.json",
+    "notes": "Adds three Dispatch pieces: the Chrysler Building's 150-year ground lease and $235 million restoration plan (the trophy office choosing repair over replacement, read against this issue's scale-matching argument); John McAslan + Partners' Osney Power Station in Oxford (brick shell and turbine hall kept, lightweight sheds rebuilt on energy-modelling grounds — retrofit as sorting by element, not a binary); and Architects Office's IZ Pavilion in São Paulo (surplus glulam joined without adhesive or metal, the timber trend's design-for-disassembly rule applied to an off-cut pile). Retires twelve dispatch pieces older than six weeks (all those dated August 2026 or earlier: Sunkist, Reinvention, Kennedy Center, Bevel, Ciel Dubai, Tuvatèxtil, German House, Met Warehouse, CASACOR São Paulo, Stephen Lawrence, Mackintosh and Rike) and rewrites the surviving Oslo, CASACOR Rio and AJ Retrofit dispatches so they no longer point at retired pieces. Adds one calendar entry, the Zaha Hadid Foundation's Bowling Green Lane venue opening in November 2026, marked unconfirmed because no exact day has been published."
+  }
+}
